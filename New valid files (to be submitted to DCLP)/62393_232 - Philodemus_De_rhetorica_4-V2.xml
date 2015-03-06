@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m59467">
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<teiHeader>
+	<fileDesc>
+		<publicationStmt>
+			<idno type="TM">62393</idno>
+		</publicationStmt>
+	</fileDesc>
+	<revisionDesc>
+		<change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc
+XML</change>
+		<change who=“F. Borsch“>Entered Greek text from reference edition</change>
+	</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<head xml:lang="en"/>
+<div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="1" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><gap n="9000001000001001" reason="lost" extent="unknown" unit="line"/>
+<lb n="2"/><gap n="9000001000002001" reason="lost" quantity="4" unit="character"/><w n="1000001000002001" type="incomplete">ν</w> <w n="1000001000002002" type="incomplete">κατο</w> <gap n="9000001000002002" reason="lost" quantity="4" unit="character"/> <w n="1000001000002003" type="incomplete">ο</w><gap n="9000001000002003" reason="lost" quantity="3" unit="character"/>
+<lb n="3"/><w n="1000001000003001" type="incomplete">κε</w><gap n="9000001000003001" reason="lost" quantity="1" unit="character"/> <w n="1000001000003002" lemma="αὐτῷ">αὐτῶι</w> <w n="1000001000003003" lemma="καί">καὶ</w> <gap n="9000001000003002" reason="lost" quantity="6" unit="character"/>
+<lb n="4"/><w n="1000001000004001" lemma="ὁ">τῶν</w> <w n="1000001000004002" lemma="κατά">κατὰ</w> <w n="1000001000004003" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied>ὴν</w> <w n="1000001000004004" type="supplied"><supplied reason="lost" cert="low">ἐμπει</supplied></w> <gap n="9000001000004001" reason="lost" extent="unknown" unit="character"/>
+<lb n="5" break="no"/><w n="1000001000004005">ρίαν</w> <w n="1000001000005001" type="supplied" lemma="διεξέρχομαι">διεξερχο<supplied reason="lost">μένων</supplied></w>
+<lb n="6"/><w n="1000001000006001" lemma="ῥήτωρ">ῥήτωρ</w> <w n="1000001000006002" type="supplied" lemma="λέγω">λέγε<supplied reason="lost" cert="low">ι</supplied></w><gap n="9000001000006001" reason="lost" quantity="2" unit="character"/> <w n="1000001000006003" type="supplied" lemma="τοιοῦτος"><supplied reason="lost">τοιοῦ</supplied>
+<lb n="7" break="no"/>τός</w> <w n="1000001000007001" lemma="εἰμί">ἐστιν</w> <w n="1000001000007002" type="supplied">τ<supplied reason="lost" cert="low">αύτης ἐπι</supplied>
+<lb n="8" break="no"/>στήμης</w> <w n="1000001000008001" lemma="διό">διὸ</w> <w n="1000001000008002" lemma="καί">καὶ</w> <gap n="9000001000008001" reason="lost" quantity="5" unit="character"/>
+<lb n="9"/><w n="1000001000009001" lemma="οἴμη_||_οἴομαι">οἶμαι</w> <w n="1000001000009002" type="incomplete">καταπε</w> <gap n="9000001000009001" reason="lost" quantity="6" unit="character"/>
+<lb n="10"/><w n="1000001000010001">μεν</w> <w n="1000001000010002" lemma="ἀποπληξία">ἀποπληξία</w> <gap n="9000001000010001" reason="lost" quantity="5" unit="character"/>
+<lb n="11"/><w n="1000001000011001" lemma="ῥητορικός">ῥητορικῶν</w> <w n="1000001000011002" lemma="οὗτος">τούτων</w> <w n="1000001000011003" lemma="σοφιστής">σο
+<lb n="12" break="no"/>φιστῶν</w>, <w n="1000001000012001" type="supplied" lemma="ἐπειδάν">ἐπειδὰ<supplied reason="lost">ν</supplied></w> <w n="1000001000012002" type="supplied" lemma="ὁ"><supplied reason="lost">τοὺς</supplied></w>
+<lb n="13"/><w n="1000001000013001" lemma="καλός">καλῶς</w> <w n="1000001000013002" lemma="ὁ">τὴν</w> <w n="1000001000013003" lemma="ῥητορικός">ῥητορικὴν</w>
+<lb n="14"/><w n="1000001000014001" lemma="ψέγω">ψέγοντας</w> <w n="1000001000014002" type="supplied" lemma="περιτρέπω">περιτρ<supplied reason="lost" cert="low">έπεσ</supplied>
+<lb n="15" break="no"/>θαι</w> <w n="1000001000015001" lemma="φάος_||_φημί">φῶσιν</w> <space extent="unknown" unit="character"/> <w n="1000001000015002" type="incomplete">ἐπειδὴ<gap n="9000001000015001" reason="lost" quantity="2" unit="character"/></w>
+<lb n="16"/><w n="1000001000016001" lemma="ἀπό">ἀπὸ</w> <w n="1000001000016002" lemma="ῥητορικός">ῥητορικῆς</w> <gap n="9000001000016001" reason="lost" quantity="5" unit="character"/>
+<lb n="17"/><w n="1000001000017001" type="incomplete">το</w> <w n="1000001000017002" lemma="καλός">καλῶς</w> <w n="1000001000017003" lemma="καί">καὶ</w> <gap n="9000001000017001" reason="lost" quantity="7" unit="character"/>
+<lb n="18"/><w n="1000001000018001" lemma="γείνομαι">γείνεται</w> <gap n="9000001000018001" reason="lost" quantity="9" unit="character"/>
+</ab></div>
+<div n="2" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><gap n="9000002000001001" reason="lost" extent="unknown" unit="line"/>
+<lb n="2"/><gap n="9000002000002001" reason="lost" extent="unknown" unit="character"/><w n="1000002000002001" type="incomplete">ας</w> <w n="1000002000002002" lemma="ὁ">τοὺς</w>
+<lb n="3"/><gap n="9000002000003001" reason="lost" extent="unknown" unit="character"/><w n="1000002000003001" type="incomplete">των</w> <w n="1000002000003002" type="incomplete">κατα</w>
+<lb n="4"/><gap n="9000002000004001" reason="lost" extent="unknown" unit="character"/> <w n="1000002000004001" lemma="ὁ">τῶν</w> <w n="1000002000004002">ἁμαρ
+<lb n="5" break="no"/></w><gap n="9000002000005001" reason="lost" extent="unknown" unit="character"/> <w n="1000002000005001" type="supplied"><supplied reason="lost">τημάτων</supplied></w> <w n="1000002000005002" lemma="διά">διὰ</w> <w n="1000002000005003" lemma="ὁ">τὸ</w> <w n="1000002000005004" lemma="μή">μὴ</w> <w n="1000002000005005" type="incomplete">προς</w>
+<lb n="6"/><gap n="9000002000006001" reason="lost" extent="unknown" unit="character"/><w n="1000002000006001" type="incomplete">ιν</w> <w n="1000002000006002" lemma="ἐπί">ἐπὶ</w> <w n="1000002000006003" lemma="ὁ">τῶν</w> <w n="1000002000006004" type="incomplete">ι</w> <gap n="9000002000006002" reason="lost" quantity="3" unit="character"/>
+<lb n="7"/><gap n="9000002000007001" reason="lost" extent="unknown" unit="character"/><w n="1000002000007001" type="incomplete">ην</w> <w n="1000002000007002" lemma="ὁ">τῶν</w> <w n="1000002000007003" lemma="ἰατρῶν">ἰατρῶν</w>
+<lb n="8"/><gap n="9000002000008001" reason="lost" extent="unknown" unit="character"/> <w n="1000002000008001" type="supplied" lemma="καί"><supplied reason="lost" cert="low">καὶ</supplied></w> <w n="1000002000008002" type="supplied" lemma="ὁ"><supplied reason="lost" cert="low">τῶν</supplied></w> <w n="1000002000008003">γαρμματικῶν</w>
+<lb n="9"/><gap n="9000002000009001" reason="lost" extent="unknown" unit="character"/><w n="1000002000009001" type="incomplete">τιων</w> <w n="1000002000009002" lemma="σοφιστής">σοφιστῶν</w>
+<lb n="10"/><gap n="9000002000010001" reason="lost" extent="unknown" unit="character"/> <w n="1000002000010001" type="incomplete">ν<add place="above">η</add></w> <w n="1000002000010002" type="incomplete">τωνποκ<add place="above">λη</add></w> <w n="1000002000010003" type="incomplete">ρι</w> <gap n="9000002000010002" reason="lost" quantity="3" unit="character"/>
+<lb n="11" break="no"/><gap n="9000002000011001" reason="lost" extent="unknown" unit="character"/><w n="1000002000011001" type="incomplete">σι</w> <w n="1000002000011002" lemma="δύναμις">δύναμιν</w>
+<lb n="12"/><gap n="9000002000012001" reason="lost" extent="unknown" unit="character"/> <w n="1000002000012001" lemma="διά">διὰ</w> <w n="1000002000012002" type="incomplete">μεταφε
+<lb n="13" break="no"/></w><gap n="9000002000013001" reason="lost" extent="unknown" unit="character"/><w n="1000002000013001" type="incomplete">την</w> <w n="1000002000013002" lemma="κατά">κατὰ</w> <w n="1000002000013003" type="incomplete">το</w> <gap n="9000002000013002" reason="lost" quantity="3" unit="character"/>
+<lb n="14"/><gap n="9000002000014001" reason="lost" extent="unknown" unit="character"/> <w n="1000002000014001" lemma="καί">καὶ</w> <w n="1000002000014002" lemma="ὅστε_||_ὅτε">ὅτε</w> <w n="1000002000014003" type="incomplete">μις</w>
+<lb n="15"/><gap n="9000002000015001" reason="lost" extent="unknown" unit="character"/><w n="1000002000015001" type="incomplete">ς</w> <w n="1000002000015002" lemma="διά">διὰ</w> <w n="1000002000015003" type="incomplete">προση
+<lb n="16" break="no"/></w><gap n="9000002000016001" reason="lost" extent="unknown" unit="character"/><w n="1000002000016001" type="incomplete">την</w> <w n="1000002000016002" lemma="καί">καὶ</w> <w n="1000002000016003" type="incomplete">πο</w>
+</ab></div>
+<div n="3" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><gap n="9000003000001001" reason="lost" extent="unknown" unit="line"/>
+<lb n="2"/><gap n="9000003000002001" reason="lost" extent="unknown" unit="character"/><w n="1000003000002001" type="incomplete">ς</w> <w n="1000003000002002" lemma="εἰδοί_||_οἶδα">εἰδὼς</w> <gap n="9000003000002002" reason="lost" quantity="7" unit="character"/> <gap n="9000003000002003" reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap n="9000003000003001" reason="lost" extent="unknown" unit="character"/><gap n="9000003000003002" reason="lost" quantity="3" unit="character"/><w n="1000003000003001" type="supplied" lemma="ἐπιστήμη"><supplied reason="lost">ἐ</supplied>πιστήμη</w> <w n="1000003000003002" type="incomplete_supplied">πρ<supplied reason="lost">αγ</supplied>μα</w>
+<lb n="4"/><gap n="9000003000004001" reason="lost" extent="unknown" unit="character"/> <w n="1000003000004001" type="supplied"><supplied reason="lost">τικ</supplied>ὴ</w> <w n="1000003000004002" lemma="δια">δι'</w> <w n="1000003000004003" lemma="ἄλλος_||_ἄλλα">ἄλλα</w> <w n="1000003000004004" lemma="φημί">φήσει</w> <w n="1000003000004005" type="incomplete">π</w><gap n="9000003000004002" reason="lost" quantity="1" unit="character"/>
+<lb n="5"/><gap n="9000003000005001" reason="lost" extent="unknown" unit="character"/> <w n="1000003000005001" lemma="κρινόμενον">κρινόμενον</w> <w n="1000003000005002" lemma="καί">καὶ</w>
+<lb n="6"/><gap n="9000003000006001" reason="lost" extent="unknown" unit="character"/><w n="1000003000006001" type="incomplete">αμενον</w> <w n="1000003000006002" lemma="ὁ">τῆς</w> <w n="1000003000006003">ῥητ</w>
+<lb n="7"/><gap n="9000003000007001" reason="lost" extent="unknown" unit="character"/> <w n="1000003000007001" type="supplied"><supplied reason="lost">ορικ</supplied>ῆς</w> <w n="1000003000007002" lemma="πραγματείας">πραγματείας</w>
+<lb n="8"/><gap n="9000003000008001" reason="lost" extent="unknown" unit="character"/> <w n="1000003000008001" lemma="βούλομαι">βούλεσθαι</w> <w n="1000003000008002" type="incomplete">δια</w>
+<lb n="9"/><gap n="9000003000009001" reason="lost" extent="unknown" unit="character"/><w n="1000003000009001" type="incomplete">ης</w> <w n="1000003000009002" lemma="ἅπας">ἅπαντα</w> <gap n="9000003000009002" reason="lost" quantity="4" unit="character"/>
+<lb n="10"/><gap n="9000003000010001" reason="lost" extent="unknown" unit="character"/><w n="1000003000010001" type="incomplete">υθινοτ</w><gap n="9000003000010002" reason="lost" quantity="6" unit="character"/> 
+
+</ab></div></div>
+</body>
+</text>
+</TEI>
+

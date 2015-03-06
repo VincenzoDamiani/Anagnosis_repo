@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m59467">
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+    <teiHeader>
+        <fileDesc>
+            <publicationStmt>
+                <idno type="TM">243961</idno>
+            </publicationStmt>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc
+                XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<body>
+<head xml:lang="en"/>
+<div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="1" subtype="column" type="textpart"><ab>
+<lb n="1"/><gap n="9001000000001001" reason="lost" quantity="5" unit="character"/><w n="1001000000001001" type="supplied" lemma="δέ"><supplied reason="lost">δ<unclear reason="damage">ὲ</unclear></supplied></w> <w n="1001000000001002" type="supplied" lemma="λύπην"><supplied reason="lost">λύπη<unclear reason="damage">ν</unclear></supplied></w>
+<lb n="2"/><w n="1001000000002001" type="supplied" lemma="ὁ"><supplied reason="lost">τὴν</supplied></w> <w n="1001000000002002" type="supplied" lemma="ἐπιθυμίαν"><supplied reason="lost">ἐπι</supplied><unclear reason="damage">θ</unclear>υμίαν</w> <w n="1001000000002003" type="supplied" lemma="ὅδε">τ<unclear reason="damage">ή</unclear><supplied reason="lost">ν</supplied>
+<lb n="3" break="no"/><supplied reason="lost">δε</supplied></w> <w n="1001000000003001" type="supplied" lemma="παρά_||_παραί_||_παρά_||_παρέ_||_παραί"><supplied reason="lost">παρ'</supplied></w> <w n="1001000000003002" type="supplied" lemma="ἕκαστος"><supplied reason="lost">ἕ</supplied><unclear reason="damage">κ</unclear>αστον</w> <w n="1001000000003003" type="supplied" lemma="ἄλλος">ἄλ<supplied reason="lost">λο</supplied></w>,
+<lb n="4"/><w n="1001000000004001" type="supplied" lemma="οὗτος"><supplied reason="lost">τοῦτο</supplied></w> <w n="1001000000004002" type="supplied" lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w n="1001000000004003" lemma="πρότερος"><unclear reason="damage">π</unclear>ρότερον</w>
+<lb n="5"/><w n="1001000000005001" type="supplied" lemma="ἐγώ"><supplied reason="lost">ἡμῖν</supplied></w> <w n="1001000000005002" type="supplied" lemma="ἐναργής"><supplied reason="lost">ἐ</supplied>ναργές·</w> <w n="1001000000005003" lemma="καί">καὶ</w>
+<lb n="6"/><w n="1001000000006001" type="supplied" lemma="γάρ"><supplied reason="lost">γὰρ</supplied></w> <w n="1001000000006002" type="supplied" lemma="ὅστις_||_ὅτι"><supplied reason="lost">ὅ</supplied><unclear reason="damage">τ</unclear>ι</w> <w n="1001000000006003" lemma="πολύς">πολλοὶ</w> <w n="1001000000006004" type="supplied" lemma="φύσις_||_φύσεϊ_||_φύσις_||_φύσει_||_φύζω_||_φύσει">φ<unclear reason="damage">ύ</unclear>
+<lb n="7" break="no"/><supplied reason="lost">σει</supplied></w> <w n="1001000000007001" type="supplied" lemma="μέν"><supplied reason="lost">μ</supplied>ὲν</w> <w n="1001000000007002" lemma="ἔρως">ἔρωτας</w> <w n="1001000000007003" type="supplied" lemma="γίγνομαι"><unclear reason="damage">γ</unclear><unclear reason="damage">ί</unclear>
+<lb n="8" break="no"/><supplied reason="lost">νεσθαι</supplied></w>, <w n="1001000000008001" type="supplied" lemma="οὔτε"><supplied reason="lost">ο</supplied>ὔτε</w> <w n="1001000000008002" lemma="σεμνόν_||_σεμνός">σεμ<unclear reason="damage">ν</unclear>ὸ<unclear reason="damage">ν</unclear></w>
+<lb n="9"/><w n="1001000000009001" type="supplied" lemma="παῖδα_||_παῖδε"><supplied reason="lost">πα</supplied>ῖδ'</w> <w n="1001000000009002" lemma="ἐράομαι_||_ἐράω">ἐρᾶσθαι</w> <w n="1001000000009003" type="supplied" lemma="φάσκω"><supplied reason="lost">φά</supplied>
+<lb n="10" break="no"/><supplied reason="lost">σκο</supplied>ντες</w>, <w n="1001000000010001" lemma="ὁ">ο<unclear reason="damage">ἱ</unclear></w> <w n="1001000000010002" lemma="δέ">δ'</w> <w n="1001000000010003" type="supplied" lemma="ὑπό">ὑπ<supplied reason="lost">ό</supplied></w>
+<lb n="11"/><w n="1001000000011001" type="supplied" lemma="τις"><supplied reason="lost">τινων</supplied></w> <w n="1001000000011002" lemma="αἰτία">αἰτιῶν</w> <w n="1001000000011003" type="supplied" lemma="προσεχής">πρ<unclear reason="damage">ο</unclear>
+<lb n="12" break="no"/><supplied reason="lost">σε</supplied>χές</w>, <w n="1001000000012001" lemma="ἀλλά">ἀλλ'</w> <w n="1001000000012002" lemma="οὐ">οὐχ</w> <w n="1001000000012003" type="supplied" lemma="ὑπό">ὑ<unclear reason="damage">π</unclear><supplied reason="lost">ό</supplied></w>
+<lb n="13"/><gap n="9001000000013001" reason="illegible" quantity="13" unit="character"/> 
+
+</ab></div></div>
+</body>
+</text>
+</TEI>
