@@ -16,9 +16,9 @@ XML</change>
 <body>
 <head xml:lang="en"/>
 <div xml:lang="grc" type="edition" xml:space="preserve">
-<div n="title" subtype="column" type="textpart"><ab>
+<div n="title" subtype="column" type="textpart" corresp="#FR5801"><ab>
 </ab></div>
-<div n="1" subtype="fragment" type="textpart"><ab>
+<div n="1" subtype="fragment" type="textpart" corresp="#FR5801"><ab>
 <lb n="1"/><gap n="9000001000001001" reason="lost" extent="unknown" unit="character"/> <w n="1000001000001001" type="supplied" lemma="διά">δι<supplied reason="lost">ὰ</supplied></w> <w n="1000001000001002" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied><unclear>ῆς</unclear></w> <w n="1000001000001003" type="supplied" lemma="δυνάμεω^ς">δυνάμ<supplied reason="lost">εως</supplied></w>
 <lb n="2"/><w n="1000001000002001" type="incomplete">δυνήσ</w><gap n="9000001000002001" reason="lost" quantity="4" unit="character"/> <w n="1000001000002002" lemma="νικᾶν">νικᾶν</w> <gap n="9000001000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000001000003001" type="incomplete">θηναι</w> <w n="1000001000003002" type="incomplete"><gap n="9000001000003001" reason="lost" quantity="3" unit="character"/>ειζειν</w>
@@ -31,7 +31,7 @@ XML</change>
 <lb n="12"/><gap n="9000001000012001" reason="lost" extent="unknown" unit="character"/>. <w n="1000001000012001" lemma="περί"><unclear>πε</unclear>ρὶ</w> <w n="1000001000012002" type="incomplete">α</w><gap n="9000001000012002" reason="lost" extent="unknown" unit="character"/>
 <lb n="13"/><gap n="9000001000013001" reason="lost" extent="unknown" unit="character"/><w n="1000001000013001" type="incomplete"><unclear>τ</unclear></w><gap n="9000001000013002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="2" subtype="fragment" type="textpart"><ab>
+<div n="2" subtype="fragment" type="textpart" corresp="#FR5802"><ab>
 <lb n="1"/><gap n="9000002000001001" reason="lost" extent="unknown" unit="character"/><w n="1000002000001001" lemma="τισ">τι</w> <w n="1000002000001002" lemma="οὐ">οὐ</w> <w n="1000002000001003" type="supplied" lemma="τοιοῦτος"><supplied reason="lost">το</supplied><unclear>ι</unclear>οῦτον</w>
 <lb n="2"/><w n="1000002000002001" type="supplied" lemma="εἰμί"><supplied reason="lost">εἶναι</supplied></w> <w n="1000002000002002">οὐδ’</w> <w n="1000002000002003" lemma="οἷος">οἷον</w> <w n="1000002000002004" type="supplied" lemma="ὅλοξ_||_ὅλος">ὅλω<supplied reason="lost">ς</supplied></w>
 <lb n="3"/><w n="1000002000003001" type="supplied" lemma="ὁ"><supplied reason="lost">τῶ</supplied>ν</w> <w n="1000002000003002" lemma="εἰμί">ὄντων</w> <w n="1000002000003003" type="incomplete">τις</w> <w n="1000002000003004" lemma="ἔνιοι">ἔνια</w>.
@@ -41,7 +41,7 @@ XML</change>
 <lb n="7"/><gap n="9000002000007001" reason="lost" extent="unknown" unit="character"/><w n="1000002000007001" type="incomplete">τ</w><gap n="9000002000007002" reason="illegible" quantity="1" unit="character"/><w n="1000002000007002" type="incomplete">ο<unclear>ιου</unclear>ς</w> <gap n="9000002000007003" reason="lost" quantity="1" unit="character"/><gap n="9000002000007004" reason="illegible" quantity="4" unit="character"/><w n="1000002000007003" type="incomplete"><unclear>πο</unclear>υ</w>
 <lb n="8"/><gap n="9000002000008001" reason="lost" extent="unknown" unit="character"/><gap n="9000002000008002" reason="illegible" quantity="1" unit="character"/><w n="1000002000008001" type="incomplete">ενα</w> <w n="1000002000008002" type="supplied" lemma="περί"><supplied reason="lost">πε</supplied><unclear>ρ</unclear>ὶ</w> <w n="1000002000008003" lemma="ὁ">τοῦ</w>
 </ab></div>
-<div n="3" subtype="fragment" type="textpart"><ab>
+<div n="3" subtype="fragment" type="textpart" corresp="#FR5803"><ab>
 <lb n="1"/><w n="1000003000001001" type="incomplete">δο<unclear>ν</unclear></w> <w n="1000003000001002" type="supplied" lemma="αὐτός"><supplied reason="lost">αὐ</supplied>τὸν</w> <w n="1000003000001003" type="supplied" lemma="οὐδέ">οὐδ<supplied reason="lost">ὲ</supplied></w> <w n="1000003000001004" type="supplied" lemma="δύναμαι"><supplied reason="lost">δυνά</supplied>
 <lb n="2" break="no"/>μενον</w> <w n="1000003000002001" type="supplied" lemma="νοέω">νοεῖσθα<supplied reason="lost">ι</supplied></w> <w n="1000003000002002" type="supplied" lemma="ὅστις_||_ὅτι"><supplied reason="lost">ὅτι</supplied></w>
 <lb n="3"/><w n="1000003000003001" lemma="χρόνος">χρόνος</w> <w n="1000003000003002" lemma="οὐ">οὐκ</w> <w n="1000003000003003" lemma="ἄν_||_ἀνά_||_ἐάν">ἂν</w> <w n="1000003000003004" lemma="ἐάω_||_εἰμί">εἴη</w> <w n="1000003000003005" lemma="ποτε_||_ποτός">π<unclear>ο</unclear>
@@ -51,7 +51,7 @@ XML</change>
 <lb n="7" break="no"/>κης</w> <w n="1000003000007001" type="incomplete">εν</w> <gap n="9000003000007001" reason="illegible" quantity="2" unit="character"/><w n="1000003000007002" type="incomplete">ι</w> <w n="1000003000007003" lemma="χρόνος">χρόνον</w>
 <lb n="8"/><gap n="9000003000008001" reason="lost" extent="unknown" unit="character"/><w n="1000003000008001" type="incomplete">δι</w><gap n="9000003000008002" reason="illegible" quantity="1" unit="character"/>
 </ab></div>
-<div n="4" subtype="fragment" type="textpart"><ab>
+<div n="4" subtype="fragment" type="textpart" corresp="#FR5804"><ab>
 <lb n="1"/><gap n="9000004000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000004000001002" reason="illegible" extent="unknown" unit="character"/><gap n="9000004000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000004000002001" reason="illegible" quantity="2" unit="character"/><w n="1000004000002001" type="incomplete"><unclear>ι</unclear></w> <w n="1000004000002002" type="incomplete">πο<unclear>λ</unclear></w><gap n="9000004000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000004000003001" type="incomplete">α</w><gap n="9000004000003001" reason="illegible" quantity="2" unit="character"/><w n="1000004000003002" type="incomplete">π</w><gap n="9000004000003002" reason="lost" extent="unknown" unit="character"/>
@@ -61,7 +61,7 @@ XML</change>
 <lb n="7"/><gap n="9000004000007001" reason="illegible" quantity="4" unit="character"/><gap n="9000004000007002" reason="lost" extent="unknown" unit="character"/>
 <lb n="8"/><w n="1000004000008001" type="incomplete">τον</w><gap n="9000004000008001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="5" subtype="fragment" type="textpart"><ab>
+<div n="5" subtype="fragment" type="textpart" corresp="#FR5805"><ab>
 <lb n="1"/><w n="1000005000001001" type="incomplete">μνηι</w> <w n="1000005000001002" lemma="διά">διὰ</w> <w n="1000005000001003" type="supplied" lemma="λέξεω^ς"><unclear>λ</unclear>έξε<supplied reason="lost">ως</supplied></w> <w n="1000005000001004" type="supplied" lemma="ἐθισμός"><supplied reason="lost">ἐθισ</supplied>
 <lb n="2" break="no"/>μούς</w>, <w n="1000005000002001" lemma="εἰμί_||_ὦ">ὦ</w> <w n="1000005000002002" lemma="πρός">πρὸς</w> <w n="1000005000002003" type="supplied" lemma="θέα_||_θεά_||_θεάω_||_θεός">θε<supplied reason="lost">ῶν</supplied></w>, <w n="1000005000002004" type="supplied" lemma="ὅστις_||_ὅτι"><supplied reason="lost">ὅ</supplied>
 <lb n="3" break="no"/>τι</w> <w n="1000005000003001">ταῦθ’</w> <w n="1000005000003002" lemma="ὁρᾷς">ὁρᾶις</w> <w n="1000005000003003" type="incomplete">θη</w><gap n="9000005000003001" reason="lost" quantity="1" unit="character"/><w n="1000005000003004" type="incomplete">μ</w><gap n="9000005000003002" reason="illegible" quantity="2" unit="character"/>
@@ -71,13 +71,13 @@ XML</change>
 <lb n="7"/><w n="1000005000007001" type="supplied" lemma="τίς_||_τις"><supplied reason="lost">τί</supplied>ς</w> <w n="1000005000007002" lemma="ταράττοι">ταράττοι</w> <w n="1000005000007003" type="supplied" lemma="ἄν_||_ἀνά_||_ἐάν"><supplied reason="lost">ἂ</supplied>ν</w> <w n="1000005000007004" lemma="ἀεί"><unclear>ἀ</unclear>
 <lb n="8" break="no"/><unclear>εὶ</unclear></w> <w n="1000005000008001" type="supplied" lemma="γάρ">γὰ<supplied reason="lost">ρ</supplied></w> <w n="1000005000008002" type="supplied" lemma="εἰμί_||_ὄντα">ὄν<supplied reason="lost">τ</supplied>α</w> <w n="1000005000008003" type="supplied" lemma="κενός_||_κενά">κεν<supplied reason="lost">ὰ</supplied></w>
 </ab></div>
-<div n="6" subtype="fragment" type="textpart"><ab>
+<div n="6" subtype="fragment" type="textpart" corresp="#FR5806"><ab>
 <lb n="1"/><gap n="9000006000001001" reason="lost" extent="unknown" unit="character"/><w n="1000006000001001" type="incomplete">ουσ</w><gap n="9000006000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000006000002001" reason="lost" extent="unknown" unit="character"/><w n="1000006000002001" type="incomplete"><unclear>ο</unclear></w> <w n="1000006000002002" lemma="πᾶς_||_πᾶσις">πᾶσιν</w> <w n="1000006000002003" type="incomplete">α</w><gap n="9000006000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000006000003001" reason="lost" extent="unknown" unit="character"/><w n="1000006000003001" type="incomplete">ν</w> <w n="1000006000003002" lemma="ὁ">ὁ</w> <w n="1000006000003003" type="supplied" lemma="χρόνος">χ<supplied reason="lost">ρόνος</supplied></w>
 <lb n="4"/><gap n="9000006000004001" reason="lost" extent="unknown" unit="character"/><gap n="9000006000004002" reason="illegible" quantity="3" unit="character"/><gap n="9000006000004003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="7" subtype="fragment" type="textpart"><ab>
+<div n="7" subtype="fragment" type="textpart" corresp="#FR5807"><ab>
 <lb n="1"/><gap n="9000007000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000007000001002" reason="illegible" quantity="1" unit="character"/><w n="1000007000001001" type="incomplete">ρ<unclear>ο</unclear>ς</w> <w n="1000007000001002" lemma="ἄν_||_ἀνά_||_ἐάν">ἂν</w>
 <lb n="2"/><gap n="9000007000002001" reason="lost" extent="unknown" unit="character"/><w n="1000007000002001" type="incomplete">ο</w> <w n="1000007000002002" lemma="καί">καὶ</w> <w n="1000007000002003" lemma="ὁ">τὰ</w>
 <lb n="3"/><gap n="9000007000003001" reason="lost" extent="unknown" unit="character"/><w n="1000007000003001" type="incomplete">λων</w> <w n="1000007000003002" lemma="εἰς">ἐσ</w>
@@ -88,7 +88,7 @@ XML</change>
 <lb n="8"/><gap n="9000007000008001" reason="lost" extent="unknown" unit="character"/><gap n="9000007000008002" reason="illegible" quantity="1" unit="character"/><w n="1000007000008001" type="incomplete">ξι</w> <w n="1000007000008002" lemma="δέ">δὲ</w>
 <lb n="9"/><gap n="9000007000009001" reason="lost" extent="unknown" unit="character"/><w n="1000007000009001" type="supplied" lemma="εὐθύς"><supplied reason="lost">ε</supplied>ὐ<unclear>θ</unclear>ύς</w> <w n="1000007000009002" lemma="τισ">τι</w>
 </ab></div>
-<div n="8" subtype="fragment" type="textpart"><ab>
+<div n="8" subtype="fragment" type="textpart" corresp="#FR5808"><ab>
 <lb n="1"/><w n="1000008000001001" lemma="ὅστις_||_ὅτι">ὅτι</w> <w n="1000008000001002" type="incomplete">χ</w><gap n="9000008000001001" reason="lost" extent="unknown" unit="character"/>
 <milestone rend="paragraphos" unit="undefined"/>
 <lb n="2"/><w n="1000008000002001" lemma="γάρ">γὰρ</w> <w n="1000008000002002" type="incomplete">ἐχ</w><gap n="9000008000002001" reason="lost" extent="unknown" unit="character"/><w n="1000008000002003" type="supplied" lemma="διά"><supplied reason="lost">διὰ</supplied></w> <w n="1000008000002004" type="supplied" lemma="ὁ"><supplied reason="lost">τὸ</supplied></w> <w n="1000008000002005" type="supplied" lemma="ὀλίγος"><supplied reason="lost">ὀλί</supplied>
@@ -100,13 +100,13 @@ XML</change>
 <lb n="8"/><w n="1000008000008001" type="supplied" lemma="ὑπό"><supplied reason="lost">ὑ</supplied>πὸ</w> <w n="1000008000008002" type="supplied" lemma="ὅδε"><supplied reason="lost">τ</supplied><unclear>ο</unclear>ῦ<supplied reason="lost"><unclear>δ</unclear></supplied><unclear>ε</unclear></w> <w n="1000008000008003" lemma="καί"><unclear>καὶ</unclear></w> <gap n="9000008000008001" reason="illegible" quantity="1" unit="character"/><gap n="9000008000008002" reason="lost" extent="unknown" unit="character"/>
 <lb n="9"/><gap n="9000008000009001" reason="lost" extent="unknown" unit="character"/><gap n="9000008000009002" reason="illegible" quantity="4" unit="character"/><gap n="9000008000009003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="9" subtype="fragment" type="textpart"><ab>
+<div n="9" subtype="fragment" type="textpart" corresp="#FR5809"><ab>
 <lb n="1"/><gap n="9000009000001001" reason="lost" extent="unknown" unit="character"/><w n="1000009000001001" type="incomplete">ειν</w> <w n="1000009000001002" lemma="ὅστε_||_ὅτε">ὅτε</w> <w n="1000009000001003" lemma="καί">καὶ</w> <w n="1000009000001004" lemma="ὁ">τῆς</w>
 <lb n="2"/><gap n="9000009000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000009000002002" reason="illegible" quantity="1" unit="character"/> <w n="1000009000002001" type="incomplete">ὑπ<gap n="9000009000002003" reason="lost" quantity="2" unit="character"/>ανησ</w><gap n="9000009000002004" reason="illegible" quantity="2" unit="character"/>
 <lb n="3"/><gap n="9000009000003001" reason="lost" extent="unknown" unit="character"/><gap n="9000009000003002" reason="illegible" quantity="3" unit="character"/> <w n="1000009000003001" lemma="ὁ">τὸ</w> <w n="1000009000003002" type="supplied" lemma="περί"><supplied reason="lost">π</supplied>ερὶ</w> <w n="1000009000003003" type="supplied" lemma="χρόνος_||_χρονόω">χ<supplied reason="lost">ρ</supplied><unclear>ό</unclear>
 <lb n="4" break="no"/><supplied reason="lost">νου</supplied></w><gap n="9000009000004001" reason="illegible" quantity="3" unit="character"/><w n="1000009000004001" type="incomplete"><unclear>να</unclear></w><gap n="9000009000004002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="10" subtype="fragment" type="textpart"><ab>
+<div n="10" subtype="fragment" type="textpart" corresp="#FR5810"><ab>
 <lb n="1"/><gap n="9000010000001001" reason="lost" extent="unknown" unit="character"/> <w n="1000010000001001" lemma="ὁ">τοὺς</w> <w n="1000010000001002" lemma="ἄνθρωπος">ἀν<unclear>θ</unclear>ρώπους</w>
 <lb n="2"/><w n="1000010000002001" type="supplied" lemma="γιγνώσκω"><supplied reason="lost">γι</supplied>νώσκοντας</w> <w n="1000010000002002" type="supplied" lemma="περί">πε
 <lb n="3" break="no"/><supplied reason="lost">ρὶ</supplied></w> <w n="1000010000003001" type="supplied" lemma="ταὐτός"><supplied reason="lost">ταὐ</supplied>τοῦ</w> <w n="1000010000003002" lemma="οὗτος">τού<unclear>τ</unclear>ου</w>,
@@ -115,7 +115,7 @@ XML</change>
 <lb n="6"/><gap n="9000010000006001" reason="lost" extent="unknown" unit="character"/><w n="1000010000006001" type="incomplete">μεθα</w> <w n="1000010000006002" type="incomplete_supplied">π<supplied reason="lost">α</supplied>ν</w><gap n="9000010000006002" reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/><gap n="9000010000007001" reason="lost" extent="unknown" unit="character"/><w n="1000010000007001" type="incomplete">ν</w><gap n="9000010000007002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="11" subtype="fragment" type="textpart"><ab>
+<div n="11" subtype="fragment" type="textpart" corresp="#FR5811"><ab>
 <lb n="1"/><w n="1000011000001001" lemma="οὐ">οὐ</w> <w n="1000011000001002" lemma="γάρ">γὰρ</w> <w n="1000011000001003" type="supplied" lemma="τοιοῦτος">τοιού<supplied reason="lost">τοις</supplied></w> <w n="1000011000001004" type="supplied" lemma="τισιν"><supplied reason="lost">τισὶν</supplied></w>
 <lb n="2"/><w n="1000011000002001" lemma="ἐγχείρημα">ἐγχειρήμασι</w> <w n="1000011000002002" type="supplied" lemma="πρός"><unclear>π</unclear><supplied reason="lost">ρὸς</supplied></w> <w n="1000011000002003" type="supplied" lemma="διάνοια"><supplied reason="lost">διά</supplied>
 <lb n="3" break="no"/>νοιαν</w> <w n="1000011000003001" lemma="λόγος">λόγοι</w> <w n="1000011000003002" type="supplied" lemma="γίγνομαι">γίνοντ<supplied reason="lost">αι</supplied></w>,
@@ -127,7 +127,7 @@ XML</change>
 <lb n="9" break="no"/>μένοντ<unclear>ο</unclear><supplied reason="lost">ς</supplied></w><gap n="9000011000009001" reason="lost" extent="unknown" unit="character"/>
 <lb n="10"/><w n="1000011000010001" lemma="οὗτος">τ<unclear>οῦτο</unclear></w> <w n="1000011000010002" type="incomplete">μεν</w><gap n="9000011000010001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="12" subtype="fragment" type="textpart"><ab>
+<div n="12" subtype="fragment" type="textpart" corresp="#FR5812"><ab>
 <lb n="1"/><gap n="9000012000001001" reason="lost" extent="unknown" unit="character"/><w n="1000012000001001" type="supplied" lemma="οὐδέ"><supplied reason="lost">οὐ</supplied>δέ</w> <w n="1000012000001002" lemma="τίς_||_τις">τίς</w> <w n="1000012000001003" type="supplied" lemma="εἰμί"><supplied reason="lost">ἐσ</supplied>τι</w> <w n="1000012000001004" lemma="ὅδε">τόδε</w> <w n="1000012000001005" lemma="τισ">τι</w> <w n="1000012000001006" lemma="ἄλλος">ἄλ
 <lb n="2" break="no"/>λο</w> <w n="1000012000002001" lemma="νομίζω">νομίζειν</w> <w n="1000012000002002" lemma="δίκαιος">δίκαιος•</w>
 <lb n="3"/><w n="1000012000003001" lemma="καί">καὶ</w> <w n="1000012000003002" type="supplied" lemma="μάλα">μά<supplied reason="lost">λ</supplied>α</w> <w n="1000012000003003" lemma="εὖ">εὖ</w>, <w n="1000012000003004" lemma="φημί">ἔφη</w>, <w n="1000012000003005" lemma="μοι">μοὶ</w> <w n="1000012000003006" type="supplied" lemma="δοκέω_||_δοκεύς">δο
@@ -139,7 +139,7 @@ XML</change>
 <lb n="9" break="no"/></w><gap n="9000012000009001" reason="lost" extent="unknown" unit="character"/><w n="1000012000009001" type="supplied" lemma="τάς"><supplied reason="lost">τ</supplied>ὰς</w> <w n="1000012000009002" type="supplied" lemma="ἡμέρας">ἡμ<supplied reason="lost">έ</supplied>ρας</w>
 <lb n="10"/><w n="1000012000010001" type="supplied" lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w n="1000012000010002" type="supplied" lemma="τάς"><supplied reason="lost">τὰς</supplied></w> <w n="1000012000010003" type="supplied" lemma="νύξ"><supplied reason="lost">νύκ</supplied>τας</w> <gap n="9000012000010001" reason="lost" quantity="2" unit="character"/><w n="1000012000010004" type="incomplete">οδι</w>
 </ab></div>
-<div n="13" subtype="fragment" type="textpart"><ab>
+<div n="13" subtype="fragment" type="textpart" corresp="#FR5813"><ab>
 <lb n="1"/><gap n="9000013000001001" reason="illegible" quantity="1" unit="character"/><gap n="9000013000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000013000002001" type="incomplete">με</w><gap n="9000013000002001" reason="illegible" quantity="1" unit="character"/><gap n="9000013000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000013000003001" type="incomplete">σιν</w> <w n="1000013000003002" lemma="εἰς">εἰς</w> <w n="1000013000003003" lemma="ὅλοξ_||_ὅλα_||_ὅλος_||_ὅλα">ὅλ<unclear>α</unclear></w> <w n="1000013000003004" type="supplied" lemma="βλέπω"><supplied reason="lost">βλέπον</supplied>
@@ -148,14 +148,14 @@ XML</change>
 <lb n="6"/><w n="1000013000006001" type="supplied" lemma="χρόνος"><supplied reason="lost">χρ</supplied>όν<unclear>ο</unclear><supplied reason="lost">ν</supplied></w> <w n="1000013000006002" lemma="οὐ">οὐκ</w> <w n="1000013000006003" type="supplied" lemma="ἄλλος_||_ἄλλως">ἄ<supplied reason="lost">λλως</supplied></w>
 <lb n="7"/><w n="1000013000007001" type="supplied"><supplied reason="lost">λογίζοντες•</supplied></w> <w n="1000013000007002" type="supplied">ἀλ<supplied reason="lost">λ’</supplied></w> <w n="1000013000007003" lemma="ὅσος_||_ὅσα">ὅσα</w>
 </ab></div>
-<div n="14" subtype="fragment" type="textpart"><ab>
+<div n="14" subtype="fragment" type="textpart" corresp="#FR5814"><ab>
 <lb n="1"/><w n="1000014000001001">ἀλλ’</w> <w n="1000014000001002" type="incomplete">ἐκ</w><gap n="9000014000001001" reason="lost" extent="unknown" unit="character"/><w n="1000014000001003" type="incomplete">ερα</w><gap n="9000014000001002" reason="illegible" quantity="1" unit="character"/>
 <lb n="2"/><w n="1000014000002001" type="incomplete">ἀπο<gap n="9000014000002001" reason="illegible" quantity="2" unit="character"/>λ</w><gap n="9000014000002002" reason="lost" extent="unknown" unit="character"/> <w n="1000014000002002" type="supplied" lemma="βραχύς">βρ<unclear>α</unclear>
 <lb n="3" break="no"/><unclear>χὺ</unclear><supplied reason="lost">ν</supplied></w><gap n="9000014000003001" reason="lost" extent="unknown" unit="character"/><w n="1000014000003001" type="incomplete">ν</w> <w n="1000014000003002" lemma="ἐν">ἐν</w> <w n="1000014000003003" type="incomplete">α</w>
 <lb n="4"/><gap n="9000014000004001" reason="lost" extent="unknown" unit="character"/> <w n="1000014000004001" type="incomplete_supplied">μακ<supplied reason="lost">ρὸν</supplied></w><gap n="9000014000004002" reason="lost" extent="unknown" unit="character"/><gap n="9000014000004003" reason="illegible" quantity="4" unit="character"/>
 <lb n="5"/><gap n="9000014000005001" reason="lost" extent="unknown" unit="character"/><gap n="9000014000005002" reason="illegible" quantity="2" unit="character"/><gap n="9000014000005003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="15" subtype="fragment" type="textpart"><ab>
+<div n="15" subtype="fragment" type="textpart" corresp="#FR5815"><ab>
 <lb n="1"/><w n="1000015000001001" type="incomplete_supplied"><supplied reason="lost">μ</supplied>ατος</w> <w n="1000015000001002" type="supplied" lemma="τεκμαίρομαι">τε<unclear>κ</unclear>μα<supplied reason="lost">ιρόμε</supplied>
 <lb n="2" break="no"/>νοι</w>, <w n="1000015000002001" lemma="τάς">τὰς</w> <w n="1000015000002002" lemma="δέ">δὲ</w> <w n="1000015000002003" type="supplied" lemma="γινομένας">γινο<unclear>μ</unclear><supplied reason="lost">έ</supplied>
 <lb n="3" break="no"/>νας</w> <w n="1000015000003001" lemma="φαντασίας">φαντασίας</w> <w n="1000015000003002">ἡ
@@ -169,7 +169,7 @@ XML</change>
 <lb n="11"/><gap n="9000015000011001" reason="lost" extent="unknown" unit="character"/><w n="1000015000011001" type="incomplete">ον</w> <w n="1000015000011002" type="supplied" lemma="ὅλοξ_||_ὅλος">ὅλ<unclear>ω</unclear><supplied reason="lost">ς</supplied></w> <w n="1000015000011003" type="incomplete">βλε</w><gap n="9000015000011002" reason="lost" extent="unknown" unit="character"/>
 <lb n="12"/><w n="1000015000012001" type="incomplete">παρενο</w><gap n="9000015000012001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="16" subtype="fragment" type="textpart"><ab>
+<div n="16" subtype="fragment" type="textpart" corresp="#FR5816"><ab>
 <lb n="1"/><gap n="9000016000001001" reason="illegible" quantity="4" unit="character"/><gap n="9000016000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000016000002001" type="incomplete">νοσ</w><gap n="9000016000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000016000003001" type="incomplete">νον</w><gap n="9000016000003001" reason="lost" extent="unknown" unit="character"/>
@@ -178,7 +178,7 @@ XML</change>
 <lb n="6"/><w n="1000016000006001" type="incomplete">προ</w><gap n="9000016000006001" reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/><w n="1000016000007001" type="incomplete"><unclear>οὐ</unclear>δ</w><gap n="9000016000007001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="17" subtype="fragment" type="textpart"><ab>
+<div n="17" subtype="fragment" type="textpart" corresp="#FR5817"><ab>
 <lb n="1"/><gap n="9000017000001001" reason="lost" extent="unknown" unit="character"/><w n="1000017000001001" type="supplied" lemma="ἔχω"><supplied reason="lost">ἔ</supplied><unclear>χ</unclear>ομέν</w> <w n="1000017000001002" type="supplied" lemma="τις"><supplied reason="lost">τινα</supplied></w> <w n="1000017000001003" type="supplied" lemma="φαντασίαν"><supplied reason="lost">φαν</supplied>
 <lb n="2" break="no"/>τα<supplied reason="lost">σ</supplied>ίαν</w> <w n="1000017000002001" type="supplied" lemma="ὁ">τ<supplied reason="lost">ῶ</supplied>ν</w> <w n="1000017000002002" lemma="ἡμέρα_||_ἡμερόω">ἡμε
 <lb n="3" break="no"/>ρῶν</w> <w n="1000017000003001" lemma="καί">καὶ</w> <w n="1000017000003002" lemma="νύξ">νυκτῶν</w>,
@@ -191,7 +191,7 @@ XML</change>
 <lb n="10" break="no"/><supplied reason="lost">σθα<unclear>ι</unclear></supplied></w> <w n="1000017000010001" type="supplied">τό<supplied reason="lost">γ</supplied></w> <w n="1000017000010002" type="supplied" lemma="χρόνος"><supplied reason="lost">χρό</supplied>νον</w> <w n="1000017000010003" type="supplied" lemma="ὡς"><unclear>ὡ</unclear><supplied reason="lost">ς</supplied></w>
 <lb n="11"/><w n="1000017000011001" type="supplied" lemma="ἡμέρα_||_ἡμερόω"><supplied reason="lost">ἡμερῶ</supplied><unclear>ν</unclear></w> <w n="1000017000011002" type="supplied" lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w n="1000017000011003" type="supplied" lemma="νύξ">νυκ<supplied reason="lost">τῶν</supplied></w>
 </ab></div>
-<div n="18" subtype="fragment" type="textpart"><ab>
+<div n="18" subtype="fragment" type="textpart" corresp="#FR5818"><ab>
 <lb n="1"/><gap n="9000018000001001" reason="illegible" quantity="5" unit="character"/><gap n="9000018000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000018000002001" type="supplied" lemma="εἰμί">ὄντ<unclear>ω</unclear><supplied reason="lost">ν</supplied></w>
 <lb n="3"/><gap n="9000018000003001" reason="illegible" quantity="5" unit="character"/><gap n="9000018000003002" reason="lost" extent="unknown" unit="character"/>
@@ -202,14 +202,14 @@ XML</change>
 <lb n="8"/><gap n="9000018000008001" reason="lost" extent="unknown" unit="character"/>.<w n="1000018000008001" type="incomplete">αι</w> <w n="1000018000008002" type="incomplete_supplied">χρό<supplied reason="lost">ν</supplied></w><gap n="9000018000008002" reason="lost" extent="unknown" unit="character"/>
 <lb n="9"/><gap n="9000018000009001" reason="lost" extent="unknown" unit="character"/><gap n="9000018000009002" reason="illegible" quantity="5" unit="character"/><gap n="9000018000009003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="19" subtype="fragment" type="textpart"><ab>
+<div n="19" subtype="fragment" type="textpart" corresp="#FR5819"><ab>
 <lb n="1"/><w n="1000019000001001" type="supplied" lemma="ὁ"><supplied reason="lost">τῶι</supplied></w> <w n="1000019000001002">χρόν<choice><reg>ωι</reg><orig>ω</orig></choice></w> <w n="1000019000001003" type="incomplete_supplied"><unclear>π</unclear>ω<supplied reason="lost">ς</supplied></w> <w n="1000019000001004" lemma="ἅμα">ἅμα</w>
 <lb n="2"/><w n="1000019000002001" type="supplied" lemma="λαμβάνω"><supplied reason="lost">λαμβά</supplied>νεσθαι</w> <w n="1000019000002002" type="supplied" lemma="ὁ">τ<supplied reason="lost">ὰ</supplied></w> <w n="1000019000002003" type="supplied" lemma="συναμφότεροι">συ<supplied reason="lost">ν</supplied>
 <lb n="3" break="no"/><supplied reason="lost">α</supplied>μφότερα</w>, <w n="1000019000003001" lemma="ὁ">τὸν</w> <w n="1000019000003002" type="supplied" lemma="πολύς">πο
 <lb n="4" break="no"/><supplied reason="lost">λὺν</supplied></w> <w n="1000019000004001" type="supplied"><supplied reason="lost">χρόν</supplied>ομ</w> <w n="1000019000004002" type="supplied" lemma="μετρέω">μετρεῖ
 <lb n="5" break="no"/><supplied reason="lost">σθαι</supplied></w> <w n="1000019000005001" type="supplied" lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w n="1000019000005002" type="supplied" lemma="ὁ"><supplied reason="lost">τὸ</supplied>ν</w> <w n="1000019000005003" type="incomplete">δια</w>
 </ab></div>
-<div n="20" subtype="fragment" type="textpart"><ab>
+<div n="20" subtype="fragment" type="textpart" corresp="#FR5820"><ab>
 <lb n="1"/><w n="1000020000001001" type="incomplete">κον</w> <w n="1000020000001002" lemma="καί">καὶ</w> <w n="1000020000001003" type="incomplete">το</w><gap n="9000020000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000020000002001">εἰ</w> <w n="1000020000002002" lemma="ἄρα_||_ἄρον_||_ἄρα">ἄρα</w> <w n="1000020000002003" type="incomplete">σοι</w> <w n="1000020000002004" type="supplied" lemma="περί"><supplied reason="lost"><unclear>π</unclear>ερὶ</supplied></w> <w n="1000020000002005" type="supplied" lemma="οὗτος">τα<supplied reason="lost">ῦτα</supplied></w>
 <lb n="3"/><w n="1000020000003001" lemma="ἐκ">ἐκ</w> <w n="1000020000003002" lemma="ὁ">τῆς</w> <w n="1000020000003003" type="supplied" lemma="ἔκκειμαι">ἐκκειμ<supplied reason="lost">ένης</supplied></w>
@@ -219,13 +219,13 @@ XML</change>
 <lb n="7" break="no"/>μέρας</w> <w n="1000020000007001" lemma="φημί">φῆσαι</w> <w n="1000020000007002" lemma="καί">καὶ</w> <w n="1000020000007003" lemma="τάς">τὰς</w> <w n="1000020000007004" type="supplied" lemma="νύξ">νύ
 <lb n="8" break="no"/><supplied reason="lost">κτας</supplied></w> <w n="1000020000008001" type="supplied"><supplied reason="lost">οὐ</supplied>δ’</w> <w n="1000020000008002" lemma="ἄμετρος">ἄμετρον</w>
 </ab></div>
-<div n="21" subtype="fragment" type="textpart"><ab>
+<div n="21" subtype="fragment" type="textpart" corresp="#FR5821"><ab>
 <lb n="1"/><gap n="9000021000001001" reason="lost" extent="unknown" unit="character"/><w n="1000021000001001" type="incomplete">ον</w><gap n="9000021000001002" reason="illegible" quantity="2" unit="character"/><gap n="9000021000001003" reason="illegible" quantity="4" unit="character"/> <w n="1000021000001002" type="supplied" lemma="παρασκευάσας"><supplied reason="lost">παρα</supplied>
 <lb n="2" break="no"/><supplied reason="lost">σκ</supplied><unclear>ε</unclear>υά<unclear>σα</unclear>ς</w> <w n="1000021000002001" lemma="καί">καὶ</w> <gap n="9000021000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000021000003001" reason="lost" extent="unknown" unit="character"/><w n="1000021000003001" type="incomplete">ενος</w> <w n="1000021000003002" type="incomplete">τ</w><gap n="9000021000003002" reason="lost" extent="unknown" unit="character"/>
 <lb n="4"/><w n="1000021000004001" type="incomplete">αιτο</w><gap n="9000021000004001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="22" subtype="fragment" type="textpart"><ab>
+<div n="22" subtype="fragment" type="textpart" corresp="#FR5822"><ab>
 <lb n="1"/><gap n="9000022000001001" reason="lost" extent="unknown" unit="character"/> <w n="1000022000001001" lemma="οὗτος">τοῦτο</w> <w n="1000022000001002" lemma="μέν">μὲν</w> <w n="1000022000001003" type="supplied" lemma="ὁμολογέω"><supplied reason="lost">ὁμο</supplied>
 <lb n="2" break="no"/><supplied reason="lost">λογοῦ</supplied>μεν</w>, <w n="1000022000002001" lemma="ὁ">τὸ</w> <w n="1000022000002002" type="incomplete">δ’</w> <w n="1000022000002003" type="supplied" lemma="ἐναντίον_||_ἐναντίος">ἐναν
 <lb n="3" break="no"/><supplied reason="lost">τί</supplied>ον</w> <w n="1000022000003001" lemma="κατασκευάζω">κατασκευάζο
@@ -236,7 +236,7 @@ XML</change>
 <lb n="8" break="no"/><supplied reason="lost">σει</supplied>ς</w> <w n="1000022000008001" type="supplied" lemma="οἴομαι">οἰόμεθ<supplied reason="lost">α</supplied></w> <w n="1000022000008002" type="supplied" lemma="εἰμί"><supplied reason="lost">εἶ</supplied>
 <lb n="9" break="no"/><supplied reason="lost">ναι</supplied></w> <w n="1000022000009001" type="supplied" lemma="ὁ">τ<unclear>ῶ</unclear><supplied reason="lost">ν</supplied></w> <w n="1000022000009002" type="supplied" lemma="τάσδε_||_τάσσω">τάσ<supplied reason="lost">δε</supplied></w> <w n="1000022000009003" type="supplied" lemma="τάς"><supplied reason="lost">τὰς</supplied></w>
 </ab></div>
-<div n="23" subtype="fragment" type="textpart"><ab>
+<div n="23" subtype="fragment" type="textpart" corresp="#FR5823"><ab>
 <lb n="1"/><w n="1000023000001001" type="supplied" lemma="ὁ"><supplied reason="lost">τὸ</supplied>ν</w> <w n="1000023000001002" lemma="οὐ">οὐ</w> <w n="1000023000001003" type="supplied" lemma="νοέω_||_νοόω">νο<unclear>ού</unclear>μεν<supplied reason="lost">ον</supplied></w>
 <lb n="2"/><w n="1000023000002001" type="supplied" lemma="χρόνος"><supplied reason="lost">χρό</supplied>νον</w> <w n="1000023000002002" lemma="δή">δὴ</w> <w n="1000023000002003" lemma="ὁπόταν">ὁπόταν</w>
 <lb n="3"/><w n="1000023000003001" type="supplied" lemma="σύ_||_ὑμᾶς"><supplied reason="lost">ὑμ</supplied>ᾶς</w> <w n="1000023000003002" lemma="εἶπον">εἴπωμεν</w> <w n="1000023000003003" lemma="νοέω">νοεῖν</w>,
@@ -245,7 +245,7 @@ XML</change>
 <lb n="6"/><w n="1000023000006001" type="supplied" lemma="φαντασία_||_φαντασίᾳ"><supplied reason="lost">φαντ</supplied>ασία<supplied reason="lost">ι</supplied></w> <w n="1000023000006002" type="supplied" lemma="τῇ"><supplied reason="lost">τ</supplied>ῆι</w> <w n="1000023000006003" lemma="ὁ">τ<unclear>ῶ</unclear>ν</w>
 <lb n="7"/><gap n="9000023000007001" reason="lost" extent="unknown" unit="character"/><w n="1000023000007001" type="incomplete">μειμ</w>
 </ab></div>
-<div n="24" subtype="fragment" type="textpart"><ab>
+<div n="24" subtype="fragment" type="textpart" corresp="#FR5824"><ab>
 <lb n="1"/><gap n="9000024000001001" reason="lost" extent="unknown" unit="character"/><w n="1000024000001001" type="incomplete">δει</w>
 <lb n="2"/><gap n="9000024000002001" reason="lost" extent="unknown" unit="character"/><w n="1000024000002001" type="incomplete"><unclear>χ</unclear></w><gap n="9000024000002002" reason="illegible" quantity="2" unit="character"/>
 <lb n="3"/><gap n="9000024000003001" reason="lost" extent="unknown" unit="character"/><w n="1000024000003001" type="incomplete">νκα</w>
@@ -257,7 +257,7 @@ XML</change>
 <lb n="11"/><gap n="9000024000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000024000011002" reason="illegible" quantity="2" unit="character"/><w n="1000024000011001" type="incomplete">ν</w>
 <lb n="12"/><gap n="9000024000012001" reason="lost" extent="unknown" unit="character"/><w n="1000024000012001" type="incomplete">αν</w><gap n="9000024000012002" reason="illegible" quantity="1" unit="character"/>
 </ab></div>
-<div n="25" subtype="fragment" type="textpart"><ab>
+<div n="25" subtype="fragment" type="textpart" corresp="#FR5825"><ab>
 <lb n="1"/><w n="1000025000001001" lemma="ἐκείνων">κἀκ<unclear>ε</unclear>ί<unclear>ν</unclear>ων</w> <w n="1000025000001002" type="supplied" lemma="οὐ"><supplied reason="lost">οὐχὶ</supplied></w> <w n="1000025000001003" type="supplied" lemma="οὐδείς"><supplied reason="lost">ο</supplied>ὐθὲ<unclear>ν</unclear></w>
 <lb n="2"/><w n="1000025000002001" lemma="ὅδε">τοδὶ</w> <w n="1000025000002002" type="supplied" lemma="προσμετρέω">πρ<supplied reason="lost">οσμ</supplied>ετρεῖς</w>
 <lb n="3"/><w n="1000025000003001" lemma="ἐπειδάν">ἐπειδάν</w> <w n="1000025000003002" type="incomplete">τις</w> <w n="1000025000003003" lemma="λέγῃ">λέ<unclear>γη</unclear>ι</w>,
@@ -269,13 +269,13 @@ XML</change>
 <lb n="9"/><w n="1000025000009001">τὸγ</w> <w n="1000025000009002" type="supplied" lemma="χρόνος">χρό<supplied reason="lost">νον</supplied></w> <w n="1000025000009003" lemma="διά">διὰ</w> <w n="1000025000009004" type="supplied" lemma="ὁ">το<supplied reason="lost">ὺ</supplied>ς</w> <gap n="9000025000009001" reason="lost" extent="unknown" unit="character"/> <w n="1000025000009005" type="incomplete">10</w><w n="1000025000009006" type="incomplete">.<gap n="9000025000009002" reason="illegible" extent="unknown" unit="character"/><unclear>μ</unclear>ενα<gap n="9000025000009003" reason="lost" extent="unknown" unit="character"/></w>
 <lb n="11"/><w n="1000025000011001" lemma="αὐόσ">α<unclear>ὐτοῦ</unclear></w> <gap n="9000025000011001" reason="illegible" quantity="3" unit="character"/><gap n="9000025000011002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="26" subtype="fragment" type="textpart"><ab>
+<div n="26" subtype="fragment" type="textpart" corresp="#FR5826"><ab>
 <lb n="1"/><gap n="9000026000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000026000001002" reason="illegible" quantity="1" unit="character"/><w n="1000026000001001" type="incomplete">ς</w> <w n="1000026000001002" lemma="ὁ">τ<unclear>ῶ</unclear>ν</w> <w n="1000026000001003" type="supplied" lemma="ἐθίζω">εἰθι
 <lb n="2" break="no"/><supplied reason="lost">σμένων</supplied></w> <w n="1000026000002001" type="supplied" lemma="διαμένω"><supplied reason="lost">δι</supplied><unclear>αμέν</unclear>οντα</w>
 <lb n="3"/><gap n="9000026000003001" reason="lost" extent="unknown" unit="character"/><gap n="9000026000003002" reason="illegible" quantity="2" unit="character"/> <w n="1000026000003001" type="supplied" lemma="καί"><supplied reason="lost">κα</supplied><unclear>ὶ</unclear></w> <w n="1000026000003002" lemma="ὅδε">τῶνδε</w>
 <lb n="4"/><gap n="9000026000004001" reason="lost" extent="unknown" unit="character"/> <w n="1000026000004001" lemma="οἷος"><unclear>οἷο</unclear>ν</w> <w n="1000026000004002" lemma="ὁ">τὰ</w> <w n="1000026000004003" lemma="εὐθύς">εὐθὺς</w>
 </ab></div>
-<div n="27" subtype="fragment" type="textpart"><ab>
+<div n="27" subtype="fragment" type="textpart" corresp="#FR5827"><ab>
 <lb n="1"/><w n="1000027000001001" lemma="ταὐτός">ταὐτοῦ</w> <w n="1000027000001002" type="supplied" lemma="πλείων">πλέον<supplied reason="lost">ος</supplied></w>
 <lb n="2"/><w n="1000027000002001" lemma="αὐτός">αὐτῶν</w> <w n="1000027000002002" lemma="εἰμί">ὄντος</w>, <w n="1000027000002003" lemma="ἕτερος">ἕ
 <lb n="3" break="no"/>τερον</w> <w n="1000027000003001" lemma="δέ">δὲ</w> <w n="1000027000003002" lemma="καί">καὶ</w> <w n="1000027000003003" lemma="οὐ">οὐ</w> <w n="1000027000003004" lemma="αὐτό">ταὐ
@@ -285,7 +285,7 @@ XML</change>
 <lb n="7"/><gap n="9000027000007001" reason="lost" extent="unknown" unit="character"/><w n="1000027000007001" type="incomplete"><unclear>τ</unclear>ο<unclear>υ</unclear>ς</w> <w n="1000027000007002" lemma="μέν">μὲν</w>
 <lb n="8"/><gap n="9000027000008001" reason="lost" extent="unknown" unit="character"/><gap n="9000027000008002" reason="illegible" quantity="3" unit="character"/><w n="1000027000008001" type="incomplete">ον</w>
 </ab></div>
-<div n="28" subtype="fragment" type="textpart"><ab>
+<div n="28" subtype="fragment" type="textpart" corresp="#FR5828"><ab>
 <lb n="1"/><gap n="9000028000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000028000001002" reason="illegible" extent="unknown" unit="character"/><w n="1000028000001001" type="incomplete">ν</w>
 <lb n="2"/><gap n="9000028000002001" reason="lost" extent="unknown" unit="character"/><w n="1000028000002001" type="incomplete">η<unclear>ν</unclear></w><gap n="9000028000002002" reason="lost" quantity="2" unit="character"/><w n="1000028000002002" type="incomplete">υ</w>
 <lb n="3"/><gap n="9000028000003001" reason="lost" extent="unknown" unit="character"/><gap n="9000028000003002" reason="illegible" quantity="3" unit="character"/><w n="1000028000003001" type="incomplete">ε</w><gap n="9000028000003003" reason="illegible" quantity="2" unit="character"/><w n="1000028000003002" type="incomplete">ν</w><gap n="9000028000003004" reason="lost" extent="unknown" unit="character"/>
@@ -299,7 +299,7 @@ XML</change>
 <lb n="11"/><gap n="9000028000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000028000011002" reason="illegible" extent="unknown" unit="character"/>
 <lb n="12"/><gap n="9000028000012001" reason="lost" extent="unknown" unit="character"/><gap n="9000028000012002" reason="illegible" extent="unknown" unit="character"/>
 </ab></div>
-<div n="29" subtype="fragment" type="textpart"><ab>
+<div n="29" subtype="fragment" type="textpart" corresp="#FR5829"><ab>
 <lb n="1"/><w n="1000029000001001" lemma="καί">καὶ</w> <w n="1000029000001002" type="supplied" lemma="ὁ">τ<supplied reason="lost">ῶ</supplied>ν</w> <w n="1000029000001003" lemma="λοιπάζω_||_λοιπός">λοιπῶν</w> <w n="1000029000001004" lemma="πραγμάτων">πρα
 <lb n="2" break="no"/>γμάτων</w> <w n="1000029000002001" lemma="ἀτάρακτος">ἀτάρ<unclear>ακτα</unclear></w>
 <lb n="3"/><w n="1000029000003001" type="supplied" lemma="ἐπί"><supplied reason="lost">ἐ</supplied>πὶ</w> <w n="1000029000003002" lemma="ὁ">τοῦ</w> <w n="1000029000003003" type="supplied" lemma="χρόνος_||_χρονόω">χρ<supplied reason="lost">όνου</supplied></w> <w n="1000029000003004" type="supplied" lemma="οὐ"><supplied reason="lost">ο</supplied>ὐχ</w> <w n="1000029000003005" lemma="ὅστις_||_ὅτι">ὅ
@@ -308,14 +308,14 @@ XML</change>
 <lb n="6"/><gap n="9000029000006001" reason="lost" extent="unknown" unit="character"/><w n="1000029000006001" lemma="ὁράω_||_ὄψις_||_ὄψεϊ_||_ὄψις_||_ὄψος_||_ὄψεϊ_||_ὄψος">ὄψει</w>
 <lb n="7"/><gap n="9000029000007001" reason="lost" extent="unknown" unit="character"/><gap n="9000029000007002" reason="illegible" quantity="3" unit="character"/>
 </ab></div>
-<div n="30" subtype="fragment" type="textpart"><ab>
+<div n="30" subtype="fragment" type="textpart" corresp="#FR5830"><ab>
 <lb n="1"/><w n="1000030000001001" type="incomplete_supplied">εἶνα<supplied reason="lost">ι</supplied></w><gap n="9000030000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000030000002001" reason="illegible" quantity="2" unit="character"/><w n="1000030000002001" type="incomplete">πα</w><gap n="9000030000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000030000003001" reason="illegible" quantity="1" unit="character"/><w n="1000030000003001" type="incomplete">ονα</w><gap n="9000030000003002" reason="illegible" quantity="1" unit="character"/><gap n="9000030000003003" reason="lost" extent="unknown" unit="character"/>
 <lb n="4"/><w n="1000030000004001" type="incomplete_supplied">ἐν<unclear>α</unclear>ρ<supplied reason="lost">γ</supplied></w><gap n="9000030000004001" reason="lost" extent="unknown" unit="character"/>
 <lb n="5"/><w n="1000030000005001" type="incomplete">δ</w><gap n="9000030000005001" reason="illegible" quantity="1" unit="character"/><gap n="9000030000005002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="31" subtype="fragment" type="textpart"><ab>
+<div n="31" subtype="fragment" type="textpart" corresp="#FR5831"><ab>
 <lb n="1"/><gap n="9000031000001001" reason="lost" extent="unknown" unit="character"/><w n="1000031000001001" type="incomplete"><unclear>τ</unclear>οις</w>, <w n="1000031000001002" lemma="καί">καὶ</w> <w n="1000031000001003" type="supplied" lemma="φαντασία">φαντασ<supplied reason="lost">ί</supplied>
 <lb n="2" break="no"/><supplied reason="lost">α</supplied></w> <w n="1000031000002001" type="supplied" lemma="τίς_||_τις"><supplied reason="lost">τ</supplied>ίς</w> <w n="1000031000002002" lemma="εἰμί">ἐστιν</w> <w n="1000031000002003" lemma="ὁ">ὁ</w> <w n="1000031000002004" lemma="χρόνος">χρόνος</w>
 <lb n="3"/><w n="1000031000003001" type="supplied" lemma="κινήσεω^ς"><supplied reason="lost">κι</supplied><unclear>ν</unclear>ήσεως</w> <w n="1000031000003002" lemma="πάσης">πάσης</w> <w n="1000031000003003" type="supplied" lemma="καταμετρητικός">κα
@@ -324,7 +324,7 @@ XML</change>
 <lb n="6"/><w n="1000031000006001" type="supplied" lemma="συμμετρέω"><supplied reason="lost">συμ</supplied>μετρουμένη</w>
 <lb n="7"/><w n="1000031000007001" type="supplied" lemma="μέγεθος"><supplied reason="lost">μέ</supplied>γεθος</w>, <w n="1000031000007002" type="incomplete">ἀν</w><gap n="9000031000007001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="32" subtype="fragment" type="textpart"><ab>
+<div n="32" subtype="fragment" type="textpart" corresp="#FR5832"><ab>
 <lb n="1"/><w n="1000032000001001" type="incomplete">κα</w><gap n="9000032000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000032000001002" reason="illegible" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000032000002001" type="supplied" lemma="οὗτος">τα<unclear>ῦ</unclear><supplied reason="lost">τα</supplied></w> <w n="1000032000002002" type="supplied"><supplied reason="lost">.</supplied><unclear>α</unclear><supplied reason="lost">λαμ</supplied>
 <lb n="3" break="no"/>βάν<supplied reason="lost">οντ</supplied>ες</w> <w n="1000032000003001" type="incomplete">τε</w><gap n="9000032000003001" reason="lost" extent="unknown" unit="character"/>
@@ -338,7 +338,7 @@ XML</change>
 <lb n="11"/><gap n="9000032000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000032000011002" reason="illegible" quantity="1" unit="character"/><w n="1000032000011001" type="incomplete">ν</w> <w n="1000032000011002" type="incomplete">μηδ</w><gap n="9000032000011003" reason="illegible" extent="unknown" unit="character"/>
 <lb n="12"/><gap n="9000032000012001" reason="lost" extent="unknown" unit="character"/><gap n="9000032000012002" reason="illegible" extent="unknown" unit="character"/>
 </ab></div>
-<div n="33" subtype="fragment" type="textpart"><ab>
+<div n="33" subtype="fragment" type="textpart" corresp="#FR5833"><ab>
 <lb n="1"/><w n="1000033000001001" type="incomplete"><unclear>κε</unclear>ξαι</w><gap n="9000033000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000033000002001" lemma="πασῶν_||_πᾶς">πασῶν</w> <w n="1000033000002002" type="supplied" lemma="διαλαμβάνω">δι<supplied reason="lost">α</supplied>ληφθέν
 <lb n="3" break="no"/><supplied reason="lost">τ</supplied>ος</w><gap n="9000033000003001" reason="lost" quantity="4" unit="character"/><w n="1000033000003001" type="incomplete">η</w><gap n="9000033000003002" reason="illegible" quantity="1" unit="character"/><w n="1000033000003002" type="incomplete">ν<unclear>α</unclear>τε</w>
@@ -350,7 +350,7 @@ XML</change>
 <lb n="9"/><gap n="9000033000009001" reason="illegible" quantity="3" unit="character"/><gap n="9000033000009002" reason="lost" extent="unknown" unit="character"/><gap n="9000033000009003" reason="illegible" extent="unknown" unit="character"/>
 <lb n="10"/><w n="1000033000010001" type="incomplete"><unclear>ν</unclear>ο<unclear>π</unclear></w><gap n="9000033000010001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="34" subtype="fragment" type="textpart"><ab>
+<div n="34" subtype="fragment" type="textpart" corresp="#FR5834"><ab>
 <lb n="1"/><gap n="9000034000001001" reason="lost" extent="unknown" unit="character"/><w n="1000034000001001" type="supplied" lemma="ἑρμηνεία"><supplied reason="lost">ἑρ</supplied>μηνείαις</w> <w n="1000034000001002" type="supplied" lemma="χράομαι_||_χράω_||_χραύω">χρῶ<supplied reason="lost">νται•</supplied></w>
 <milestone rend="paragraphos" unit="undefined"/>
 <lb n="2"/><w n="1000034000002001" lemma="ἀλλά">ἀλλὰ</w> <w n="1000034000002002" lemma="γοῦν">γοῦν</w> <w n="1000034000002003" type="supplied" lemma="οὐδεπώποτε">οὐ<supplied reason="lost">δεπώ</supplied>
@@ -361,7 +361,7 @@ XML</change>
 <lb n="7"/><gap n="9000034000007001" reason="lost" extent="unknown" unit="character"/><w n="1000034000007001" type="incomplete">ν</w> <w n="1000034000007002" lemma="ὅς">οἷς</w> <w n="1000034000007003" lemma="ὁ">ὁ</w> <w n="1000034000007004" lemma="ὁ">τοῦ</w>
 <lb n="8"/><gap n="9000034000008001" reason="lost" extent="unknown" unit="character"/><w n="1000034000008001" type="incomplete">νον</w>
 </ab></div>
-<div n="35" subtype="fragment" type="textpart"><ab>
+<div n="35" subtype="fragment" type="textpart" corresp="#FR5835"><ab>
 <lb n="1"/><gap n="9000035000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000035000001002" reason="illegible" extent="unknown" unit="character"/><w n="1000035000001001" lemma="ὑπέρ"><unclear>ὑ</unclear>πὲρ</w>
 <lb n="2"/><w n="1000035000002001" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied>ῶν</w> <gap n="9000035000002001" reason="lost" quantity="6" unit="character"/><w n="1000035000002002"><unclear>τ</unclear>ότητα</w>
 <lb n="3"/><w n="1000035000003001" type="supplied" lemma="καταλαμβάνω"><supplied reason="lost">κατ</supplied>αλαμ<supplied reason="lost">βανόντων</supplied></w>
@@ -378,7 +378,7 @@ XML</change>
 <lb n="14" break="no"/><supplied reason="lost">δὲ</supplied></w> <w n="1000035000014001" lemma="χρόνος">χρόνον</w> <w n="1000035000014002" type="supplied" lemma="εἰμί">ε<supplied reason="lost">ἶναι</supplied></w>
 <lb n="15"/><w n="1000035000015001" type="supplied" lemma="δέομαι_||_δέω_||_δεῖ"><supplied reason="lost">δεῖ</supplied></w> <w n="1000035000015002" type="incomplete_supplied"><supplied reason="lost">νομίζειν</supplied></w><gap n="9000035000015001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="36" subtype="fragment" type="textpart"><ab>
+<div n="36" subtype="fragment" type="textpart" corresp="#FR5836"><ab>
 <lb n="1"/><gap n="9000036000001001" reason="lost" extent="unknown" unit="character"/><w n="1000036000001001" type="incomplete">ν</w> <w n="1000036000001002" lemma="κατηγορέω">κατηγοροῦ
 <lb n="2" break="no"/>μεν</w>, <w n="1000036000002001" lemma="καί">καὶ</w> <w n="1000036000002002" lemma="ὁ">τὴν</w> <w n="1000036000002003" lemma="ἡμέραν">ἡμέραν</w>
 <lb n="3"/><w n="1000036000003001" lemma="ἔχω">ἔχοντες</w>, <w n="1000036000003002">κατ’</w> <w n="1000036000003003" lemma="αὐτός">αὐ
@@ -391,7 +391,7 @@ XML</change>
 <lb n="10"/><w n="1000036000010001" lemma="ὁ">τὸ</w> <w n="1000036000010002" type="incomplete">νῦν</w><gap n="9000036000010001" reason="illegible" extent="unknown" unit="character"/><w n="1000036000010003" type="incomplete">α</w><gap n="9000036000010002" reason="lost" extent="unknown" unit="character"/>
 <lb n="11"/><gap n="9000036000011001" reason="lost" extent="unknown" unit="character"/><w n="1000036000011001" type="incomplete">α</w><gap n="9000036000011002" reason="illegible" extent="unknown" unit="character"/><gap n="9000036000011003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="37" subtype="fragment" type="textpart"><ab>
+<div n="37" subtype="fragment" type="textpart" corresp="#FR5837"><ab>
 <lb n="1"/><w n="1000037000001001" type="supplied"><supplied reason="lost">εἰ</supplied></w> <w n="1000037000001002" type="supplied" lemma="δέ"><supplied reason="lost">δ</supplied>έ</w> <w n="1000037000001003">ποτ’</w> <w n="1000037000001004" lemma="ἐκ">ἐκ</w> <w n="1000037000001005" type="supplied" lemma="πρότερος">πρ<supplied reason="lost">οτέρων</supplied></w>
 <lb n="2"/><w n="1000037000002001" type="supplied" lemma="θεώριος_||_θεωρία">θ<unclear>εωρ</unclear><supplied reason="lost">ιῶν</supplied></w> <w n="1000037000002002" type="supplied" lemma="οὗτος"><supplied reason="lost">τοῦ</supplied>τό</w> <w n="1000037000002003" type="supplied" lemma="ἐγώ"><unclear>μ</unclear>ο<supplied reason="lost">ι</supplied></w> <w n="1000037000002004" type="supplied" lemma="λείβω_||_λείπω_||_λεῖψις_||_λείψεϊ_||_λεῖψις"><supplied reason="lost">λεί</supplied>
 <lb n="3" break="no"/>ψει</w> <w n="1000037000003001" lemma="ἐκ">ἐξ</w> <w n="1000037000003002" type="supplied" lemma="ἀνάγκη">ἀνάγ<supplied reason="lost">κ</supplied>ης</w>, <w n="1000037000003003" type="supplied"><supplied reason="lost">ἀλλ’</supplied></w>
@@ -406,7 +406,7 @@ XML</change>
 <lb n="12" break="no"/><supplied reason="lost">τὰ</supplied></w> <w n="1000037000012001" type="supplied" lemma="ταύτας"><supplied reason="lost">ταύτα</supplied>ς</w> <w n="1000037000012002" lemma="τάς">τὰς</w> <w n="1000037000012003" type="incomplete">ενχη</w>
 <lb n="13"/><gap n="9000037000013001" reason="lost" extent="unknown" unit="character"/><w n="1000037000013001" type="incomplete"><unclear>ι</unclear></w> <w n="1000037000013002" lemma="φύσεω^ς"><unclear>φ</unclear>ύσεως</w>
 </ab></div>
-<div n="38" subtype="fragment" type="textpart"><ab>
+<div n="38" subtype="fragment" type="textpart" corresp="#FR5838"><ab>
 <lb n="1"/><gap n="9000038000001001" reason="lost" extent="unknown" unit="character"/><w n="1000038000001001" type="supplied" lemma="οὐ"><supplied reason="lost">οὐχ</supplied></w> <w n="1000038000001002" type="supplied" lemma="ὅμοιος_||_ὁμοῖος_||_ὁμοιόω"><supplied reason="lost">ὁμοίως</supplied></w> <w n="1000038000001003" type="supplied" lemma="ἐν-διαμένω"><supplied reason="lost">ἐν</supplied>διαμ<unclear>έ</unclear><supplied reason="lost">νει</supplied></w> <w n="1000038000001004" lemma="σώματι"><unclear>σώ</unclear>ματι</w> <w n="1000038000001005" lemma="ὁ">τὸ</w>
 <lb n="2"/><w n="1000038000002001" type="supplied"><supplied reason="lost">κ</supplied><unclear>αθ</unclear>’</w> <w n="1000038000002002" type="supplied" lemma="ἑαυτοῦ">ἑ<supplied reason="lost">αυ</supplied>τὸ</w> <w n="1000038000002003" lemma="μέν">μὲν</w> <w n="1000038000002004" lemma="καί">καὶ</w> <w n="1000038000002005" lemma="ὁ">τὸ</w>
 <lb n="3"/><w n="1000038000003001" type="supplied" lemma="κατά"><supplied reason="lost">κα</supplied>τὰ</w> <w n="1000038000003002" type="supplied" lemma="ὁ"><supplied reason="lost">τὴ</supplied>ν</w> <w n="1000038000003003" lemma="ἰδιότροπος"><unclear>ἰδιό</unclear>τροπον</w>
@@ -421,7 +421,7 @@ XML</change>
 <lb n="12" break="no"/><supplied reason="lost">άρ</supplied>χειν•</w> <w n="1000038000012001" lemma="ὁ_||_ὅς">ὃ</w> <w n="1000038000012002" type="supplied" lemma="θεωρέω_||_θεωρός">θεωρῶ<supplied reason="lost">ν</supplied></w>
 <lb n="13"/><w n="1000038000013001" type="supplied" lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w n="1000038000013002" lemma="ὁ"><unclear>τ</unclear>ὸ</w> <w n="1000038000013003" lemma="ὑπό">ὑπὸ</w> <w n="1000038000013004" type="supplied" lemma="οὗτος">ταύ<supplied reason="lost">της</supplied></w>
 </ab></div>
-<div n="39" subtype="fragment" type="textpart"><ab>
+<div n="39" subtype="fragment" type="textpart" corresp="#FR5839"><ab>
 <lb n="1"/><w n="1000039000001001">εἰ</w> <w n="1000039000001002" type="incomplete">εκ</w><gap n="9000039000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000039000002001" type="incomplete">σεις</w> <w n="1000039000002002" type="incomplete">γ<unclear>ν</unclear></w><gap n="9000039000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000039000003001" lemma="ὁ">τὸ</w> <w n="1000039000003002" type="supplied" lemma="γάρ">γὰ<supplied reason="lost">ρ</supplied></w> <w n="1000039000003003" type="supplied" lemma="οὗτος"><supplied reason="lost">τ</supplied>ο<unclear>ῦ</unclear>το</w> <w n="1000039000003004" type="incomplete">χαι<unclear>ρ</unclear></w><gap n="9000039000003001" reason="lost" extent="unknown" unit="character"/>
@@ -436,7 +436,7 @@ XML</change>
 <lb n="12"/><gap n="9000039000012001" reason="lost" extent="unknown" unit="character"/><gap n="9000039000012002" reason="illegible" quantity="2" unit="character"/><w n="1000039000012001" type="incomplete">αυ</w>
 <lb n="13"/><gap n="9000039000013001" reason="lost" extent="unknown" unit="character"/><w n="1000039000013001" type="incomplete">νερ</w>
 </ab></div>
-<div n="40" subtype="fragment" type="textpart"><ab>
+<div n="40" subtype="fragment" type="textpart" corresp="#FR5840"><ab>
 <lb n="1"/><w n="1000040000001001" lemma="φωνάς">φων<unclear>ὰς</unclear></w> <w n="1000040000001002" type="supplied" lemma="περί"><supplied reason="lost">περὶ</supplied></w> <w n="1000040000001003" type="supplied" lemma="τοιοῦτος">τοια<unclear>ύ</unclear><supplied reason="lost">την</supplied></w>
 <lb n="2"/><w n="1000040000002001" type="supplied" lemma="φύς_||_φύσις_||_φύω"><supplied reason="lost">φ</supplied>ύσιν</w> <w n="1000040000002002" lemma="ἀπό">ἀπὸ</w> <w n="1000040000002003" lemma="ὁ">τοῦ</w> <w n="1000040000002004" type="supplied" lemma="ὄντως">ὄν
 <lb n="3" break="no"/><supplied reason="lost">τως</supplied></w> <w n="1000040000003001" type="supplied" lemma="εἰμί"><supplied reason="lost">εἶ</supplied>ναι</w> <w n="1000040000003002">τὸγ</w> <w n="1000040000003003" type="supplied" lemma="χρόνος">χρό
@@ -445,7 +445,7 @@ XML</change>
 <lb n="6"/><w n="1000040000006001" type="supplied" lemma="μᾶλλον"><supplied reason="lost">μᾶλλον</supplied></w> <w n="1000040000006002" type="supplied" lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <w n="1000040000006003" type="supplied" lemma="ἐκεῖνος"><supplied reason="lost">ἐ</supplied><unclear>κ</unclear>εῖνο•</w> <w n="1000040000006004" lemma="οὕτως">οὕτως</w>
 <lb n="7"/><gap n="9000040000007001" reason="lost" extent="unknown" unit="character"/><w n="1000040000007001" type="incomplete">εκτα</w><gap n="9000040000007002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="41" subtype="fragment" type="textpart"><ab>
+<div n="41" subtype="fragment" type="textpart" corresp="#FR5841"><ab>
 <lb n="1"/><w n="1000041000001001" type="incomplete">πολλ</w><gap n="9000041000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000041000002001" lemma="ἐγώ">μου</w> <w n="1000041000002002" type="incomplete">η</w><gap n="9000041000002001" reason="lost" extent="unknown" unit="character"/><w n="1000041000002003" type="incomplete">ενας</w>
 <lb n="3"/><w n="1000041000003001" lemma="τάς">τὰς</w> <w n="1000041000003002" type="supplied" lemma="λαμβανομένας">λα<supplied reason="lost">μβ</supplied>α<supplied reason="lost">νο</supplied><unclear>μέ</unclear>ν<supplied reason="lost">ας</supplied></w>
@@ -457,7 +457,7 @@ XML</change>
 <lb n="9"/><w n="1000041000009001" type="supplied" lemma="τάς"><supplied reason="lost">τὰς</supplied></w> <w n="1000041000009002" type="supplied" lemma="ἑρμηνείας"><supplied reason="lost">ἑ</supplied>ρμη<supplied reason="lost">νεί</supplied>ας</w> <w n="1000041000009003" type="incomplete">δ</w><gap n="9000041000009001" reason="lost" extent="unknown" unit="character"/>
 <lb n="10"/><gap n="9000041000010001" reason="lost" extent="unknown" unit="character"/><w n="1000041000010001" type="incomplete">ερ</w><gap n="9000041000010002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="42" subtype="fragment" type="textpart"><ab>
+<div n="42" subtype="fragment" type="textpart" corresp="#FR5842"><ab>
 <lb n="1"/><gap n="9000042000001001" reason="lost" extent="unknown" unit="character"/><w n="1000042000001001" type="incomplete">ν</w> <w n="1000042000001002" lemma="ἅμα">ἅμα</w> <w n="1000042000001003" lemma="καί"><unclear>κ</unclear>αὶ</w> <w n="1000042000001004" type="supplied" lemma="κατά">κα
 <lb n="2" break="no"/><supplied reason="lost">τὰ</supplied></w> <w n="1000042000002001" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied>ὴν</w> <w n="1000042000002002" lemma="ἑτέραν">ἑτέραν</w> <w n="1000042000002003" type="supplied" lemma="βραχύς">βρα
 <lb n="3" break="no"/><supplied reason="lost">χύ</supplied></w> <w n="1000042000003001" lemma="τισ">τι</w> <w n="1000042000003002" type="supplied" lemma="νοέω">νο<supplied reason="lost">ῆ</supplied>σαι</w> <w n="1000042000003003" lemma="ὁ">τοῦ</w>
@@ -472,7 +472,7 @@ XML</change>
 <lb n="12"/><gap n="9000042000012001" reason="lost" extent="unknown" unit="character"/><w n="1000042000012001" type="incomplete">να</w> <w n="1000042000012002" lemma="ὁ">τ<unclear>ῶι</unclear></w> <w n="1000042000012003" type="incomplete">κα</w>
 <lb n="13"/><gap n="9000042000013001" reason="lost" extent="unknown" unit="character"/> <w n="1000042000013001" type="supplied" lemma="ὄνομα">ὄν<supplied reason="lost">ο</supplied>μα</w>
 </ab></div>
-<div n="43" subtype="fragment" type="textpart"><ab>
+<div n="43" subtype="fragment" type="textpart" corresp="#FR5843"><ab>
 <lb n="1"/><w n="1000043000001001" type="incomplete">εκ</w><gap n="9000043000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000043000002001" lemma="ἐν">ἐν</w> <w n="1000043000002002" lemma="ᾧ">ὧι</w> <w n="1000043000002003" type="supplied" lemma="ὅδε">τόδ<supplied reason="lost">ε</supplied></w>
 <lb n="3"/><w n="1000043000003001" type="incomplete">τ</w><gap n="9000043000003001" reason="illegible" quantity="1" unit="character"/><gap n="9000043000003002" reason="lost" extent="unknown" unit="character"/><w n="1000043000003002" type="incomplete">ον</w><gap n="9000043000003003" reason="lost" quantity="3" unit="character"/><w n="1000043000003003" type="incomplete">ραι</w> <w n="1000043000003004" lemma="ὁ">τὸ</w>
@@ -487,7 +487,7 @@ XML</change>
 <lb n="12"/><w n="1000043000012001" lemma="καί">καὶ</w> <w n="1000043000012002" type="incomplete">δ</w><gap n="9000043000012001" reason="lost" extent="unknown" unit="character"/>
 <lb n="13"/><gap n="9000043000013001" reason="illegible" quantity="2" unit="character"/><w n="1000043000013001" type="incomplete">τ</w><gap n="9000043000013002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="44" subtype="fragment" type="textpart"><ab>
+<div n="44" subtype="fragment" type="textpart" corresp="#FR5844"><ab>
 <lb n="1"/><gap n="9000044000001001" reason="lost" extent="unknown" unit="character"/> <w n="1000044000001001" lemma="ζητέω"><unclear>ζητο</unclear>ῦ<unclear>σ</unclear>ιν</w> <w n="1000044000001002" type="supplied" lemma="ἅμα">ἅ<supplied reason="lost">μ</supplied>α</w> <w n="1000044000001003" type="supplied" lemma="ποσάκις">πο
 <lb n="2" break="no"/><supplied reason="lost">σά</supplied>κις</w> <w n="1000044000002001" lemma="μέν"><unclear>μὲ</unclear>ν</w> <w n="1000044000002002" type="supplied" lemma="ἐπί"><supplied reason="lost">ἐ</supplied>πὶ</w> <w n="1000044000002003" lemma="ὁ">τὸ</w> <w n="1000044000002004" type="incomplete">α</w>
 <lb n="3"/><w n="1000044000003001" type="incomplete">ποτευσι.ν</w> <w n="1000044000003002" lemma="ἀνάγκη">ἀνάγ
@@ -502,7 +502,7 @@ XML</change>
 <lb n="12"/><w n="1000044000012001" type="incomplete">επ</w><gap n="9000044000012001" reason="lost" extent="unknown" unit="character"/><w n="1000044000012002" type="incomplete">παρ</w><gap n="9000044000012002" reason="lost" extent="unknown" unit="character"/>
 <lb n="13"/><w n="1000044000013001" type="incomplete">δο</w><gap n="9000044000013001" reason="illegible" quantity="1" unit="character"/><gap n="9000044000013002" reason="lost" extent="unknown" unit="character"/><w n="1000044000013002" type="incomplete">ημαυ</w>
 </ab></div>
-<div n="45" subtype="fragment" type="textpart"><ab>
+<div n="45" subtype="fragment" type="textpart" corresp="#FR5845"><ab>
 <lb n="1"/><w n="1000045000001001" type="incomplete"><unclear>ε</unclear></w><gap n="9000045000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000045000002001" type="incomplete">κ</w><gap n="9000045000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000045000003001" reason="illegible" quantity="1" unit="character"/><gap n="9000045000003002" reason="lost" extent="unknown" unit="character"/>
@@ -511,7 +511,7 @@ XML</change>
 <lb n="6"/><gap n="9000045000006001" reason="illegible" quantity="1" unit="character"/><gap n="9000045000006002" reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/><gap n="9000045000007001" reason="illegible" quantity="1" unit="character"/><gap n="9000045000007002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="46" subtype="fragment" type="textpart"><ab>
+<div n="46" subtype="fragment" type="textpart" corresp="#FR5846"><ab>
 <lb n="1"/><gap n="9000046000001001" reason="lost" extent="unknown" unit="character"/><w n="1000046000001001" type="incomplete"><unclear>ε</unclear></w><gap n="9000046000001002" reason="illegible" quantity="1" unit="character"/><gap n="9000046000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000046000002001" type="supplied" lemma="χρόνος"><supplied reason="lost">χ</supplied><unclear>ρ</unclear>όνον</w> <gap n="9000046000002001" reason="lost" quantity="1" unit="character"/><gap n="9000046000002002" reason="illegible" quantity="2" unit="character"/>
 <lb n="3"/><gap n="9000046000003001" reason="lost" extent="unknown" unit="character"/><w n="1000046000003001" type="incomplete">ων</w> <w n="1000046000003002" lemma="ὁ">τῶι</w> <w n="1000046000003003" lemma="ὁ">τῆς</w>
@@ -524,7 +524,7 @@ XML</change>
 <lb n="10"/><gap n="9000046000010001" reason="lost" extent="unknown" unit="character"/><w n="1000046000010001" type="incomplete">ν</w>
 <lb n="11"/><gap n="9000046000011001" reason="lost" extent="unknown" unit="character"/><w n="1000046000011001" type="incomplete"><unclear>π</unclear>ερ</w>
 </ab></div>
-<div n="47" subtype="fragment" type="textpart"><ab>
+<div n="47" subtype="fragment" type="textpart" corresp="#FR5847"><ab>
 <lb n="1"/><w n="1000047000001001" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied>ὸν</w> <w n="1000047000001002" type="supplied" lemma="σύγκειμαι">συνκείμε
 <lb n="2" break="no"/><supplied reason="lost">νον</supplied></w> <w n="1000047000002001" lemma="χρόνος">χρόνον</w> <w n="1000047000002002" type="supplied" lemma="ἐκ"><supplied reason="lost">ἐξ</supplied></w> <w n="1000047000002003" type="supplied" lemma="ἅπας"><supplied reason="lost">ἁπ</supplied>άν
 <lb n="3" break="no"/><supplied reason="lost">των</supplied></w> <w n="1000047000003001" type="incomplete_supplied"><supplied reason="lost">μερῶν</supplied></w><gap n="9000047000003001" reason="lost" extent="unknown" unit="character"/><w n="1000047000003002">ων</w>
@@ -538,7 +538,7 @@ XML</change>
 <lb n="11"/><w n="1000047000011001" lemma="χρόνος">χρόνον</w>, <w n="1000047000011002" type="supplied" lemma="χρόνος"><unclear>χρό</unclear><supplied reason="lost">νον</supplied></w> <w n="1000047000011003" type="supplied" lemma="δέ"><supplied reason="lost">δὲ</supplied></w>
 <lb n="12"/><w n="1000047000012001" lemma="κατά">κατὰ</w> <w n="1000047000012002" type="incomplete">τι</w><gap n="9000047000012001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="48" subtype="fragment" type="textpart"><ab>
+<div n="48" subtype="fragment" type="textpart" corresp="#FR5848"><ab>
 <lb n="1"/><w n="1000048000001001" lemma="οὗτος">τοῦτο</w> <w n="1000048000001002" type="supplied" lemma="γάρ"><supplied reason="lost">γὰρ</supplied></w> <w n="1000048000001003" type="supplied" lemma="οὐ"><supplied reason="lost">οὐ</supplied></w> <w n="1000048000001004" type="supplied" lemma="μόνος"><supplied reason="lost">μόνον</supplied></w>
 <lb n="2"/><w n="1000048000002001" lemma="νοέω_||_νοόω">νοοῦμεν</w> <w n="1000048000002002" type="supplied" lemma="θεωρέω">θεω<supplied reason="lost">ροῦντες</supplied></w>
 <lb n="3"/><w n="1000048000003001" lemma="ἐπί">ἐπὶ</w> <w n="1000048000003002" type="supplied" lemma="ὅδε">τ<supplied reason="lost"><unclear>ῶνδε</unclear></supplied></w> <w n="1000048000003003" type="supplied" lemma="ὁ"><supplied reason="lost"><unclear>τῶν</unclear></supplied></w> <w n="1000048000003004" type="supplied" lemma="κινητῶν_||_κινητός">κ<unclear>ι</unclear><supplied reason="lost">νη</supplied>
@@ -552,7 +552,7 @@ XML</change>
 <lb n="11"/><w n="1000048000011001" type="incomplete">τος</w> <w n="1000048000011002" type="supplied" lemma="κρύπτω">κεκρυ<supplied reason="lost">μμένου</supplied></w> <w n="1000048000011003" type="supplied" lemma="εἴποι"><supplied reason="lost">εἴ</supplied>
 <lb n="12" break="no"/>π<unclear>οι</unclear></w> <w n="1000048000012001" type="incomplete">ἑκαστο</w><gap n="9000048000012001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="49" subtype="fragment" type="textpart"><ab>
+<div n="49" subtype="fragment" type="textpart" corresp="#FR5849"><ab>
 <lb n="1"/><gap n="9000049000001001" reason="lost" extent="unknown" unit="character"/><w n="1000049000001001" type="incomplete">ων</w> <w n="1000049000001002" lemma="καί">καὶ</w> <gap n="9000049000001002" reason="illegible" quantity="1" unit="character"/><gap n="9000049000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000049000002001" type="supplied" lemma="οὐ"><supplied reason="lost">ο</supplied>ὐχ</w> <w n="1000049000002002" type="incomplete">ἑκαστ<unclear>ο</unclear><gap n="9000049000002001" reason="illegible" quantity="1" unit="character"/></w> <w n="1000049000002003" type="supplied" lemma="λέγω"><supplied reason="lost">λέγον</supplied>
 <lb n="3" break="no"/>τες</w> <w n="1000049000003001" lemma="μήτε">μήτε</w> <gap n="9000049000003001" reason="illegible" quantity="3" unit="character"/><w n="1000049000003002" type="incomplete">τ</w><gap n="9000049000003002" reason="illegible" quantity="1" unit="character"/><gap n="9000049000003003" reason="lost" extent="unknown" unit="character"/>
@@ -567,7 +567,7 @@ XML</change>
 <lb n="12" break="no"/><supplied reason="lost">νον</supplied></w> <w n="1000049000012001" type="incomplete_supplied">δι<unclear>αλα</unclear>β<unclear>ο</unclear><supplied reason="lost">ῦσα</supplied></w><gap n="9000049000012001" reason="lost" extent="unknown" unit="character"/>
 <lb n="13"/><gap n="9000049000013001" reason="lost" extent="unknown" unit="character"/><w n="1000049000013001" type="incomplete">ε<unclear>λ</unclear></w><gap n="9000049000013002" reason="lost" quantity="2" unit="character"/><w n="1000049000013002" type="incomplete"><unclear>τ</unclear></w><gap n="9000049000013003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="50" subtype="fragment" type="textpart"><ab>
+<div n="50" subtype="fragment" type="textpart" corresp="#FR5850"><ab>
 <lb n="1"/><gap n="9000050000001001" reason="lost" extent="unknown" unit="character"/><w n="1000050000001001" type="incomplete">τουτ</w><gap n="9000050000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000050000002001" reason="lost" extent="unknown" unit="character"/><w n="1000050000002001" type="incomplete">ερ</w><gap n="9000050000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000050000003001" reason="lost" extent="unknown" unit="character"/> <w n="1000050000003001" lemma="ὁ">τοῦ</w> <w n="1000050000003002" type="supplied" lemma="νοέω">νο<supplied reason="lost">εῖν</supplied></w>
@@ -580,7 +580,7 @@ XML</change>
 <lb n="10"/><w n="1000050000010001" type="incomplete_supplied">αὐ<supplied reason="lost">τ</supplied></w><gap n="9000050000010001" reason="lost" extent="unknown" unit="character"/><w n="1000050000010002" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied><unclear>οὺς</unclear></w>
 <lb n="11"/><w n="1000050000011001" type="supplied" lemma="ἀναλαμβάνω">ἀνα<supplied reason="lost">λαβόντας</supplied></w> <w n="1000050000011002" lemma="ὅδε"><unclear>τοδὶ</unclear></w>
 </ab></div>
-<div n="51" subtype="fragment" type="textpart"><ab>
+<div n="51" subtype="fragment" type="textpart" corresp="#FR5851"><ab>
 <lb n="1"/><w n="1000051000001001" lemma="ὁ">τὰ</w> <w n="1000051000001002" type="supplied" lemma="ὁ"><supplied reason="lost">τῆς</supplied></w> <w n="1000051000001003" lemma="φύσεω^ς">φύσεως•</w> <w n="1000051000001004" lemma="ὁ">τῆς</w> <w n="1000051000001005" lemma="γάρ">γὰρ</w>
 <lb n="2"/><gap n="9000051000002001" reason="lost" extent="unknown" unit="character"/><w n="1000051000002001" type="incomplete">ημε</w><gap n="9000051000002002" reason="lost" quantity="2" unit="character"/> <w n="1000051000002002" lemma="ἐκ">ἐξ</w> <w n="1000051000002003" lemma="ἐκεῖνος_||_κεινόω_||_κενόω">ἐκείνων</w>
 <lb n="3"/><gap n="9000051000003001" reason="lost" extent="unknown" unit="character"/><w n="1000051000003001" type="incomplete">πο<unclear>ν</unclear></w><gap n="9000051000003002" reason="lost" quantity="3" unit="character"/><w n="1000051000003002" type="incomplete">σαι</w> <w n="1000051000003003" lemma="πρός">πρὸς</w> <w n="1000051000003004" type="supplied" lemma="ὅδε_||_τάδε">τά
@@ -596,7 +596,7 @@ XML</change>
 <lb n="13"/><w n="1000051000013001" type="incomplete">ε</w><gap n="9000051000013001" reason="lost" extent="unknown" unit="character"/><w n="1000051000013002" lemma="δείξις_||_δείξεϊ_||_δείξις_||_δείκνυμι_||_δεῖξις_||_δείξεϊ_||_δεῖξις">δείξει</w> <w n="1000051000013003" lemma="ὅστις_||_ὅτι">ὅτι</w>
 <lb n="14"/><w n="1000051000014001" type="incomplete"><unclear>θε</unclear></w><gap n="9000051000014001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="52" subtype="fragment" type="textpart"><ab>
+<div n="52" subtype="fragment" type="textpart" corresp="#FR5852"><ab>
 <lb n="1"/><gap n="9000052000001001" reason="lost" extent="unknown" unit="character"/><w n="1000052000001001" type="supplied" lemma="λέγω"><supplied reason="lost">λέγο</supplied>υσι</w> <w n="1000052000001002" type="supplied" lemma="χρόνος">χρ<supplied reason="lost">ό</supplied>
 <lb n="2" break="no"/><supplied reason="lost">νον</supplied></w><gap n="9000052000002001" reason="lost" extent="unknown" unit="character"/> <w n="1000052000002001" type="supplied" lemma="οὗτος"><unclear>τ</unclear>ο<supplied reason="lost">ῦ</supplied><unclear>τ</unclear>ο</w> <w n="1000052000002002" type="supplied" lemma="μόνος">μό
 <lb n="3" break="no"/><supplied reason="lost">νον</supplied></w><gap n="9000052000003001" reason="lost" extent="unknown" unit="character"/><w n="1000052000003001"><unclear>λημ</unclear>’</w> <w n="1000052000003002" type="supplied" lemma="ἄλλος">ἄλ
@@ -610,7 +610,7 @@ XML</change>
 <lb n="11"/><gap n="9000052000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000052000011002" reason="illegible" extent="unknown" unit="character"/><w n="1000052000011001" type="incomplete">με</w><gap n="9000052000011003" reason="illegible" quantity="1" unit="character"/><gap n="9000052000011004" reason="lost" extent="unknown" unit="character"/>
 <lb n="12"/><gap n="9000052000012001" reason="lost" extent="unknown" unit="character"/><gap n="9000052000012002" reason="illegible" extent="unknown" unit="character"/><w n="1000052000012001" type="incomplete">νε</w><gap n="9000052000012003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="53" subtype="fragment" type="textpart"><ab>
+<div n="53" subtype="fragment" type="textpart" corresp="#FR5853"><ab>
 <lb n="1"/><gap n="9000053000001001" reason="lost" extent="unknown" unit="character"/><w n="1000053000001001" type="incomplete">υ<unclear>σ</unclear></w><gap n="9000053000001002" reason="lost" extent="unknown" unit="character"/><w n="1000053000001002" type="supplied" lemma="ἐκεῖνος_||_κεινόω_||_κενόω"><supplied reason="lost">ἐ</supplied>
 <lb n="2" break="no"/><supplied reason="lost">κ</supplied><unclear>ε</unclear>ίνου</w> <w n="1000053000002001" type="incomplete">αὐ<gap n="9000053000002001" reason="illegible" quantity="4" unit="character"/><gap n="9000053000002002" reason="lost" extent="unknown" unit="character"/></w>
 <lb n="3"/><gap n="9000053000003001" reason="illegible" quantity="1" unit="character"/><w n="1000053000003001" type="incomplete">ου</w> <w n="1000053000003002" lemma="καί">καὶ</w> <w n="1000053000003003" type="incomplete">τα</w><gap n="9000053000003002" reason="lost" extent="unknown" unit="character"/><w n="1000053000003004" type="supplied" lemma="δηλονότι"><supplied reason="lost">δη</supplied>
@@ -623,14 +623,14 @@ XML</change>
 <lb n="12"/><w n="1000053000012001" type="incomplete">συ</w><gap n="9000053000012001" reason="illegible" quantity="1" unit="character"/><gap n="9000053000012002" reason="lost" extent="unknown" unit="character"/>
 <lb n="13"/><gap n="9000053000013001" reason="illegible" quantity="2" unit="character"/><gap n="9000053000013002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="54" subtype="fragment" type="textpart"><ab>
+<div n="54" subtype="fragment" type="textpart" corresp="#FR5854"><ab>
 <lb n="1"/><w n="1000054000001001" type="incomplete_supplied"><unclear>ρη</unclear>μ<supplied reason="lost">α</supplied></w><gap n="9000054000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000054000002001" lemma="τε">τε</w> <w n="1000054000002002" lemma="ὁ">ὁ</w> <w n="1000054000002003" type="incomplete_supplied">χ<unclear>ρ</unclear><supplied reason="lost">όνος</supplied></w><gap n="9000054000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000054000003001" lemma="ἔχω">ἔχουσιν</w>
 <lb n="4"/><w n="1000054000004001" type="incomplete">καταδ</w><gap n="9000054000004001" reason="lost" extent="unknown" unit="character"/>
 <lb n="5"/><gap n="9000054000005001" reason="lost" extent="unknown" unit="character"/><gap n="9000054000005002" reason="illegible" quantity="2" unit="character"/><gap n="9000054000005003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="55" subtype="fragment" type="textpart"><ab>
+<div n="55" subtype="fragment" type="textpart" corresp="#FR5855"><ab>
 <lb n="1"/><gap n="9000055000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000055000001002" reason="illegible" quantity="1" unit="character"/> <w n="1000055000001001" type="incomplete">ἔχουσιν</w><gap n="9000055000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000055000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000055000002002" reason="illegible" quantity="1" unit="character"/> <w n="1000055000002001" lemma="ὑπέρ">ὑπὲρ</w> <w n="1000055000002002" type="incomplete_supplied">αὐτο<supplied reason="lost">ῦ</supplied></w><gap n="9000055000002003" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000055000003001" lemma="ὁ">οἱ</w> <w n="1000055000003002">παρ’</w> <w n="1000055000003003" type="supplied" lemma="αὐόσ">α<supplied reason="lost">ὐ</supplied>τοῦ</w> <w n="1000055000003004" type="incomplete">ανα</w><gap n="9000055000003001" reason="lost" extent="unknown" unit="character"/>
@@ -638,7 +638,7 @@ XML</change>
 <lb n="5"/><gap n="9000055000005001" reason="lost" extent="unknown" unit="character"/> <w n="1000055000005001" type="supplied" lemma="λέγω"><unclear>λε</unclear><supplied reason="lost">γομέ</supplied>νου</w> <w n="1000055000005002" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied>ὸν</w> <w n="1000055000005003" type="supplied" lemma="χρόνος">χ<supplied reason="lost">ρό</supplied>
 <lb n="6" break="no"/><supplied reason="lost">νον</supplied></w><gap n="9000055000006001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="56" subtype="fragment" type="textpart"><ab>
+<div n="56" subtype="fragment" type="textpart" corresp="#FR5856"><ab>
 <lb n="1"/><gap n="9000056000001001" reason="lost" extent="unknown" unit="character"/> <w n="1000056000001001" type="supplied" lemma="ὁ"><unclear>τ</unclear><supplied reason="lost">ο</supplied><unclear>ὺ</unclear>ς</w> <w n="1000056000001002" type="incomplete">κ</w><gap n="9000056000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000056000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000056000002002" reason="illegible" quantity="6" unit="character"/>
 <lb n="3"/><gap n="9000056000003001" reason="illegible" quantity="1" unit="character"/><w n="1000056000003001" type="incomplete">δ<unclear>ηικ</unclear></w><gap n="9000056000003002" reason="lost" quantity="3" unit="character"/><gap n="9000056000003003" reason="illegible" quantity="1" unit="character"/><w n="1000056000003002" type="incomplete">οισ</w><gap n="9000056000003004" reason="lost" extent="unknown" unit="character"/>
@@ -646,7 +646,7 @@ XML</change>
 <lb n="5"/><gap n="9000056000005001" reason="illegible" quantity="3" unit="character"/><gap n="9000056000005002" reason="lost" quantity="3" unit="character"/><gap n="9000056000005003" reason="illegible" quantity="2" unit="character"/><w n="1000056000005001" type="incomplete">γ<unclear>α</unclear></w><gap n="9000056000005004" reason="lost" extent="unknown" unit="character"/>
 <lb n="6"/><gap n="9000056000006001" reason="lost" extent="unknown" unit="character"/><w n="1000056000006001" type="incomplete"><unclear>τμ</unclear></w><gap n="9000056000006002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="57" subtype="fragment" type="textpart"><ab>
+<div n="57" subtype="fragment" type="textpart" corresp="#FR5857"><ab>
 <lb n="1"/><w n="1000057000001001" lemma="τοιοῦτος">τοιοῦτος</w> <gap n="9000057000001001" reason="illegible" quantity="1" unit="character"/><gap n="9000057000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000057000002001" lemma="καί">καὶ</w> <w n="1000057000002002" lemma="μέν">μὲν</w> <w n="1000057000002003" lemma="ὁ">ὁ</w> <w n="1000057000002004" type="incomplete_supplied"><unclear>χ</unclear><supplied reason="lost">ρόνος</supplied></w><gap n="9000057000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000057000003001" type="supplied" lemma="ἐπί">ἐπ<supplied reason="lost">ὶ</supplied></w> <w n="1000057000003002" lemma="ὁ"><unclear>τὸ</unclear></w> <gap n="9000057000003001" reason="lost" extent="unknown" unit="character"/>
@@ -655,7 +655,7 @@ XML</change>
 <lb n="6"/><w n="1000057000006001" type="supplied" lemma="φέρω">φέρον<supplied reason="lost">τες</supplied></w> <gap n="9000057000006001" reason="illegible" quantity="2" unit="character"/><gap n="9000057000006002" reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/><gap n="9000057000007001" reason="lost" extent="unknown" unit="character"/><w n="1000057000007001" type="incomplete"><unclear>ν</unclear>ην</w><gap n="9000057000007002" reason="illegible" quantity="1" unit="character"/><w n="1000057000007002" type="incomplete">σ</w><gap n="9000057000007003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="58" subtype="fragment" type="textpart"><ab>
+<div n="58" subtype="fragment" type="textpart" corresp="#FR5858"><ab>
 <lb n="1"/><gap n="9000058000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000058000001002" reason="illegible" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000058000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000058000002002" reason="illegible" extent="unknown" unit="character"/><w n="1000058000002001" type="incomplete"><unclear>ην</unclear></w>
 <lb n="3"/><gap n="9000058000003001" reason="lost" extent="unknown" unit="character"/><gap n="9000058000003002" reason="illegible" extent="unknown" unit="character"/><w n="1000058000003001" lemma="τότε">τότε</w>
@@ -663,7 +663,7 @@ XML</change>
 <lb n="5" break="no"/><supplied reason="lost">μα</supplied></w> <w n="1000058000005001" type="supplied" lemma="ὁ"><supplied reason="lost">ὁ</supplied></w> <w n="1000058000005002" type="supplied" lemma="χρόνος">χρό<supplied reason="lost">νος</supplied></w> <w n="1000058000005003" type="supplied" lemma="ἀπαντᾷ"><supplied reason="lost">ἀπα</supplied>ντᾶι</w>
 <lb n="6"/><gap n="9000058000006001" reason="lost" extent="unknown" unit="character"/><w n="1000058000006001" type="supplied" lemma="ὅδε_||_τάδε"><supplied reason="lost">τ</supplied>άδε</w> <w n="1000058000006002" lemma="καί">καὶ</w>
 </ab></div>
-<div n="59" subtype="fragment" type="textpart"><ab>
+<div n="59" subtype="fragment" type="textpart" corresp="#FR5859"><ab>
 <lb n="1"/><w n="1000059000001001" type="incomplete_supplied"><supplied reason="lost">τ</supplied>ουτ</w><gap n="9000059000001001" reason="lost" quantity="2" unit="character"/><w n="1000059000001002" type="incomplete">δι</w><gap n="9000059000001002" reason="illegible" quantity="2" unit="character"/><gap n="9000059000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000059000002001" type="supplied" lemma="ἐπέρχομαι"><supplied reason="lost">ἐπ</supplied>ελθὸν</w> <w n="1000059000002002" lemma="ἄν_||_ἀνά_||_ἐάν">ἂν</w> <w n="1000059000002003" type="supplied" lemma="οὐδείς"><supplied reason="lost">οὐδὲν</supplied></w>
 <lb n="3"/><w n="1000059000003001" type="supplied" lemma="ἀντιμαρτύρομαι_||_ἀντιμαρτυ^ρεῖ_||_ἀντιμαρτυρέω">ἀντιμαρ<supplied reason="lost">τυρεῖ</supplied></w>, <w n="1000059000003002" type="supplied" lemma="οὐδέ"><supplied reason="lost">οὐδέ</supplied></w> <w n="1000059000003003" type="supplied" lemma="τισ"><supplied reason="lost">τι</supplied></w>
@@ -676,14 +676,14 @@ XML</change>
 <lb n="10" break="no"/><supplied reason="lost">ληι</supplied></w><gap n="9000059000010001" reason="lost" extent="unknown" unit="character"/><gap n="9000059000010002" reason="illegible" quantity="1" unit="character"/><w n="1000059000010001" type="incomplete">τ</w><gap n="9000059000010003" reason="lost" extent="unknown" unit="character"/>
 <lb n="11"/><gap n="9000059000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000059000011002" reason="illegible" quantity="1" unit="character"/><w n="1000059000011001" type="incomplete_supplied">κ<supplied reason="lost">•</supplied></w>
 </ab></div>
-<div n="60" subtype="fragment" type="textpart"><ab>
+<div n="60" subtype="fragment" type="textpart" corresp="#FR5860"><ab>
 <lb n="1"/><gap n="9000060000001001" reason="lost" extent="unknown" unit="character"/><w n="1000060000001001" type="supplied" lemma="διαφορά"><supplied reason="lost">δι</supplied>α<supplied reason="lost"><unclear>φ</unclear></supplied>ορὰ</w> <w n="1000060000001002" type="supplied" lemma="τοιοῦτος">τοιαύ
 <lb n="2" break="no"/><supplied reason="lost">τη</supplied></w> <w n="1000060000002001" type="supplied" lemma="ὁ"><supplied reason="lost">τὸ</supplied></w> <w n="1000060000002002" type="supplied" lemma="γίγνομαι"><supplied reason="lost">γ</supplied>ιγνόμεν<supplied reason="lost">ο</supplied>ν</w>
 <lb n="3"/><w n="1000060000003001" type="supplied" lemma="πρᾶγμα"><supplied reason="lost">πρᾶγμα</supplied></w> <w n="1000060000003002" lemma="ὅδε_||_τάδε">τάδε</w> <w n="1000060000003003" lemma="καί">καὶ</w> <w n="1000060000003004" lemma="ὁ"><unclear>τ</unclear>ὰ</w>
 <lb n="4"/><w n="1000060000004001" type="supplied" lemma="ἄλλος_||_ἄλλα"><supplied reason="lost">ἄλλα</supplied></w> <w n="1000060000004002" lemma="τινα">τινὰ</w> <w n="1000060000004003" type="incomplete">β</w><gap n="9000060000004001" reason="lost" extent="unknown" unit="character"/>
 <lb n="5"/><gap n="9000060000005001" reason="lost" extent="unknown" unit="character"/><w n="1000060000005001" type="supplied" lemma="ὁ"><supplied reason="lost">τὸ</supplied></w> <w n="1000060000005002" lemma="αὐτός">αὐτὸ</w> <gap n="9000060000005002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="61" subtype="fragment" type="textpart"><ab>
+<div n="61" subtype="fragment" type="textpart" corresp="#FR5861"><ab>
 <lb n="1"/><gap n="9000061000001001" reason="lost" extent="unknown" unit="character"/><w n="1000061000001001" type="incomplete">ο</w> <w n="1000061000001002" type="supplied" lemma="περί">πε<supplied reason="lost">ρ</supplied>ὶ</w>
 <lb n="2"/><gap n="9000061000002001" reason="lost" extent="unknown" unit="character"/><w n="1000061000002001" type="incomplete">μπερ</w>
 <lb n="3"/><gap n="9000061000003001" reason="lost" extent="unknown" unit="character"/><w n="1000061000003001" type="incomplete">ν</w> <w n="1000061000003002" lemma="αὐτός">αὐτὸ</w>
@@ -697,7 +697,7 @@ XML</change>
 <lb n="11"/><gap n="9000061000011001" reason="illegible" quantity="2" unit="character"/><w n="1000061000011001" type="incomplete">τα</w><gap n="9000061000011002" reason="illegible" quantity="2" unit="character"/><w n="1000061000011002" type="incomplete">α</w><gap n="9000061000011003" reason="lost" extent="unknown" unit="character"/>
 <lb n="12"/><gap n="9000061000012001" reason="illegible" quantity="2" unit="character"/> <w n="1000061000012001" lemma="αὖ">αὖ</w> <w n="1000061000012002" type="incomplete">βουλ</w><gap n="9000061000012002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="62" subtype="fragment" type="textpart"><ab>
+<div n="62" subtype="fragment" type="textpart" corresp="#FR5862"><ab>
 <lb n="1"/><gap n="9000062000001001" reason="illegible" quantity="3" unit="character"/><gap n="9000062000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000062000002001" reason="illegible" quantity="5" unit="character"/><gap n="9000062000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000062000003001" reason="illegible" quantity="2" unit="character"/><w n="1000062000003001" type="incomplete">ο<unclear>ν</unclear>τ</w><gap n="9000062000003002" reason="lost" extent="unknown" unit="character"/>
@@ -709,7 +709,7 @@ XML</change>
 <lb n="9"/><gap n="9000062000009001" reason="illegible" quantity="3" unit="character"/><gap n="9000062000009002" reason="lost" extent="unknown" unit="character"/>
 <lb n="10"/><gap n="9000062000010001" reason="lost" extent="unknown" unit="character"/><gap n="9000062000010002" reason="illegible" quantity="1" unit="character"/><w n="1000062000010001" type="incomplete"><unclear>ε</unclear></w><gap n="9000062000010003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="63" subtype="fragment" type="textpart"><ab>
+<div n="63" subtype="fragment" type="textpart" corresp="#FR5863"><ab>
 <lb n="1"/><gap n="9000063000001001" reason="illegible" quantity="3" unit="character"/><w n="1000063000001001" type="incomplete">λυο</w><gap n="9000063000001002" reason="illegible" quantity="3" unit="character"/><gap n="9000063000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000063000002001" reason="illegible" quantity="2" unit="character"/> <w n="1000063000002001" type="incomplete_supplied"><supplied reason="lost">δ</supplied>ῆλον<gap n="9000063000002002" reason="illegible" quantity="2" unit="character"/><gap n="9000063000002003" reason="lost" extent="unknown" unit="character"/></w>
 <lb n="3"/><gap n="9000063000003001" reason="lost" quantity="2" unit="character"/><w n="1000063000003001" type="incomplete">μ</w><gap n="9000063000003002" reason="illegible" quantity="1" unit="character"/><gap n="9000063000003003" reason="lost" quantity="3" unit="character"/><w n="1000063000003002" type="incomplete">του</w><gap n="9000063000003004" reason="lost" extent="unknown" unit="character"/>
@@ -722,27 +722,27 @@ XML</change>
 <lb n="10"/><gap n="9000063000010001" reason="lost" extent="unknown" unit="character"/><w n="1000063000010001" type="incomplete">ειν</w> <w n="1000063000010002" lemma="ἐπί">ἐπὶ</w> <w n="1000063000010003" type="incomplete">σπ</w><gap n="9000063000010002" reason="illegible" quantity="1" unit="character"/><gap n="9000063000010003" reason="lost" extent="unknown" unit="character"/>
 <lb n="11"/><w n="1000063000011001" type="incomplete_supplied"><supplied reason="lost">τοιο</supplied>ύτου</w><gap n="9000063000011001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="64" subtype="fragment" type="textpart"><ab>
+<div n="64" subtype="fragment" type="textpart" corresp="#FR5864"><ab>
 <lb n="1"/><w n="1000064000001001" type="incomplete">αλ</w><gap n="9000064000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000064000002001" type="incomplete">γμα</w><gap n="9000064000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000064000003001" type="incomplete">το</w> <w n="1000064000003002" type="incomplete">ε</w><gap n="9000064000003001" reason="lost" extent="unknown" unit="character"/>
 <lb n="4"/><gap n="9000064000004001" reason="lost" extent="unknown" unit="character"/><w n="1000064000004001" type="incomplete">ημ</w><gap n="9000064000004002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="65" subtype="fragment" type="textpart"><ab>
+<div n="65" subtype="fragment" type="textpart" corresp="#FR5865"><ab>
 <lb n="1"/><gap n="9000065000001001" reason="lost" extent="unknown" unit="character"/><w n="1000065000001001" type="supplied" lemma="ὑπάρχω"><supplied reason="lost">ὑπά</supplied>ρχειν</w> <w n="1000065000001002" type="supplied" lemma="δέ"><supplied reason="lost">δὲ</supplied></w> <w n="1000065000001003" lemma="ὁ">τὸ</w>
 <lb n="2"/><gap n="9000065000002001" reason="lost" extent="unknown" unit="character"/><w n="1000065000002001" type="supplied" lemma="εὐλαβέομαι"><supplied reason="lost">εὐλ</supplied>αβηθῆναι</w>
 <lb n="3"/><gap n="9000065000003001" reason="lost" extent="unknown" unit="character"/><w n="1000065000003001" type="incomplete">δε</w> <w n="1000065000003002" lemma="ὁ">οἱ</w> <w n="1000065000003003" lemma="οὗτος">τοῦτο</w>
 <lb n="4"/><gap n="9000065000004001" reason="lost" extent="unknown" unit="character"/><w n="1000065000004001" type="supplied" lemma="ἐπιχράω1"><supplied reason="lost">ἐ</supplied>πεχρήσασ
 <lb n="5" break="no"/><supplied reason="lost">θε</supplied></w> <w n="1000065000005001" type="supplied" lemma="τοιαύτῃ"><supplied reason="lost">τοιαύτηι</supplied></w> <w n="1000065000005002" lemma="χράω_||_χρήσει_||_χρήσεϊ_||_χρήσει">χρήσει</w>
 </ab></div>
-<div n="66" subtype="fragment" type="textpart"><ab>
+<div n="66" subtype="fragment" type="textpart" corresp="#FR5866"><ab>
 <lb n="1"/><gap n="9000066000001001" reason="lost" extent="unknown" unit="character"/><w n="1000066000001001" type="incomplete">ν</w> <w n="1000066000001002" type="incomplete">εὐθ</w><gap n="9000066000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000066000002001" reason="lost" extent="unknown" unit="character"/><w n="1000066000002001" type="incomplete">μ</w><gap n="9000066000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000066000003001" reason="lost" extent="unknown" unit="character"/><w n="1000066000003001" type="incomplete"><unclear>δ</unclear>ε</w> <w n="1000066000003002" lemma="δέ">δὲ</w> <w n="1000066000003003" type="incomplete">κα</w><gap n="9000066000003002" reason="lost" extent="unknown" unit="character"/>
 <lb n="4"/><gap n="9000066000004001" reason="lost" extent="unknown" unit="character"/><gap n="9000066000004002" reason="illegible" quantity="4" unit="character"/><gap n="9000066000004003" reason="lost" extent="unknown" unit="character"/>
 <lb n="5"/><gap n="9000066000005001" reason="lost" extent="unknown" unit="character"/><gap n="9000066000005002" reason="illegible" quantity="2" unit="character"/><w n="1000066000005001" type="incomplete">νοη</w><gap n="9000066000005003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="67" subtype="fragment" type="textpart"><ab>
+<div n="67" subtype="fragment" type="textpart" corresp="#FR5867"><ab>
 <lb n="1"/><gap n="9000067000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000067000001002" reason="illegible" quantity="1" unit="character"/><gap n="9000067000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000067000002001" type="incomplete"><unclear>ἧ</unclear>ττον</w><gap n="9000067000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000067000003001" type="incomplete">μει</w> <w n="1000067000003002" lemma="ὁ">τὸ</w> <w n="1000067000003003" type="supplied" lemma="πρᾶγμα">πρᾶγμ<supplied reason="lost">α</supplied></w> <w n="1000067000003004" type="supplied" lemma="πρός"><supplied reason="lost">πρὸς</supplied></w>
@@ -751,7 +751,7 @@ XML</change>
 <lb n="6"/><gap n="9000067000006001" reason="lost" extent="unknown" unit="character"/><gap n="9000067000006002" reason="illegible" quantity="2" unit="character"/><w n="1000067000006001" type="incomplete">νε</w><gap n="9000067000006003" reason="illegible" quantity="2" unit="character"/><w n="1000067000006002" type="incomplete">α</w><gap n="9000067000006004" reason="lost" extent="unknown" unit="character"/>
 <lb n="7"/><gap n="9000067000007001" reason="lost" extent="unknown" unit="character"/><gap n="9000067000007002" reason="illegible" quantity="1" unit="character"/><w n="1000067000007001" type="incomplete">ο</w><gap n="9000067000007003" reason="illegible" quantity="3" unit="character"/><gap n="9000067000007004" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="68" subtype="fragment" type="textpart"><ab>
+<div n="68" subtype="fragment" type="textpart" corresp="#FR5868"><ab>
 <lb n="1"/><gap n="9000068000001001" reason="lost" extent="unknown" unit="character"/><w n="1000068000001001" type="incomplete">νε</w> <w n="1000068000001002" type="incomplete">ἐν</w><gap n="9000068000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000068000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000068000002002" reason="illegible" quantity="2" unit="character"/><w n="1000068000002001" type="incomplete">ο<unclear>ν</unclear></w><gap n="9000068000002003" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000068000003001" reason="lost" extent="unknown" unit="character"/><gap n="9000068000003002" reason="illegible" quantity="2" unit="character"/><w n="1000068000003001" type="incomplete">α</w><gap n="9000068000003003" reason="illegible" quantity="2" unit="character"/><gap n="9000068000003004" reason="lost" extent="unknown" unit="character"/>
@@ -763,7 +763,7 @@ XML</change>
 <lb n="9"/><gap n="9000068000009001" reason="lost" extent="unknown" unit="character"/><w n="1000068000009001" type="supplied">ε<supplied reason="lost">ἰ</supplied></w> <w n="1000068000009002" lemma="γάρ">γὰρ</w> <w n="1000068000009003" type="supplied" lemma="ὁ"><supplied reason="lost">τ</supplied>ὰ</w> <w n="1000068000009004" lemma="πρός">πρὸς</w> <w n="1000068000009005" type="supplied" lemma="ταύτας">τ<supplied reason="lost">αύ</supplied>
 <lb n="10" break="no"/><supplied reason="lost">τα</supplied>ς</w> <w n="1000068000010001" lemma="τάς">τὰς</w> <w n="1000068000010002" lemma="ὁ"><unclear>τ</unclear>οῦ</w> <w n="1000068000010003" lemma="βίος_||_βιόω">βίου</w> <w n="1000068000010004" type="incomplete">β</w><gap n="9000068000010001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="69" subtype="fragment" type="textpart"><ab>
+<div n="69" subtype="fragment" type="textpart" corresp="#FR5869"><ab>
 <lb n="1"/><gap n="9000069000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000069000001002" reason="illegible" quantity="4" unit="character"/><gap n="9000069000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000069000002001" reason="lost" extent="unknown" unit="character"/><w n="1000069000002001" type="incomplete">ν</w> <w n="1000069000002002" lemma="ὑπέρ">ὑπὲρ</w> <w n="1000069000002003" type="incomplete">το</w><gap n="9000069000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap n="9000069000003001" reason="lost" extent="unknown" unit="character"/><w n="1000069000003001" type="supplied" lemma="ὁ"><supplied reason="lost">τὸ</supplied>ν</w> <w n="1000069000003002" lemma="λοιπός">λοιπὸν</w> <gap n="9000069000003002" reason="lost" extent="unknown" unit="character"/>
@@ -776,7 +776,7 @@ XML</change>
 <lb n="10"/><gap n="9000069000010001" reason="lost" extent="unknown" unit="character"/><w n="1000069000010001" type="incomplete">τ</w><gap n="9000069000010002" reason="illegible" quantity="1" unit="character"/><gap n="9000069000010003" reason="lost" extent="unknown" unit="character"/>
 <lb n="11"/><gap n="9000069000011001" reason="lost" extent="unknown" unit="character"/><w n="1000069000011001" type="incomplete_supplied">νοη<supplied reason="lost">μ</supplied></w><gap n="9000069000011002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="70" subtype="fragment" type="textpart"><ab>
+<div n="70" subtype="fragment" type="textpart" corresp="#FR5870"><ab>
 <lb n="1"/><gap n="9000070000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000070000001002" reason="illegible" quantity="4" unit="character"/>
 <lb n="2"/><gap n="9000070000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000070000002002" reason="illegible" quantity="1" unit="character"/><w n="1000070000002001" type="incomplete">δ</w><gap n="9000070000002003" reason="illegible" quantity="2" unit="character"/>
 <lb n="3"/><gap n="9000070000003001" reason="lost" extent="unknown" unit="character"/><w n="1000070000003001" type="supplied" lemma="δύναμις"><supplied reason="lost">δυν</supplied>άμεσι</w>
@@ -789,11 +789,11 @@ XML</change>
 <lb n="10" break="no"/><supplied reason="lost">μέ</supplied><unclear>νην</unclear></w> <w n="1000070000010001" type="incomplete">τα</w><gap n="9000070000010001" reason="illegible" quantity="3" unit="character"/><gap n="9000070000010002" reason="lost" quantity="2" unit="character"/><gap n="9000070000010003" reason="illegible" quantity="4" unit="character"/>
 <lb n="11"/><gap n="9000070000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000070000011002" reason="illegible" quantity="2" unit="character"/> <w n="1000070000011001">εἰ</w> <w n="1000070000011002" type="incomplete_supplied">β<unclear>ο</unclear><supplied reason="lost">υλ</supplied></w><gap n="9000070000011003" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="71" subtype="fragment" type="textpart"><ab>
+<div n="71" subtype="fragment" type="textpart" corresp="#FR5871"><ab>
 <lb n="1"/><w n="1000071000001001" lemma="ὁ">τοῦ</w> <w n="1000071000001002" type="incomplete_supplied">λεγομέ<supplied reason="lost">νου</supplied></w><gap n="9000071000001001" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000071000002001" type="incomplete">τειν</w> <w n="1000071000002002" type="incomplete">τ</w><gap n="9000071000002001" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="72" subtype="fragment" type="textpart"><ab>
+<div n="72" subtype="fragment" type="textpart" corresp="#FR5872"><ab>
 <lb n="1"/><gap n="9000072000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000072000001002" reason="illegible" quantity="4" unit="character"/>
 <lb n="2"/><gap n="9000072000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000072000002002" reason="illegible" quantity="4" unit="character"/>
 <lb n="3"/><gap n="9000072000003001" reason="lost" extent="unknown" unit="character"/><w n="1000072000003001" type="incomplete"><unclear>τ</unclear>οσα</w>
@@ -806,7 +806,7 @@ XML</change>
 <lb n="10"/><gap n="9000072000010001" reason="lost" extent="unknown" unit="character"/><gap n="9000072000010002" reason="illegible" quantity="2" unit="character"/><gap n="9000072000010003" reason="lost" extent="unknown" unit="character"/>
 <lb n="11"/><gap n="9000072000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000072000011002" reason="illegible" quantity="1" unit="character"/><w n="1000072000011001" type="incomplete"><unclear>ιου</unclear></w>
 </ab></div>
-<div n="73" subtype="fragment" type="textpart"><ab>
+<div n="73" subtype="fragment" type="textpart" corresp="#FR5873"><ab>
 <lb n="1"/><gap n="9000073000001001" reason="illegible" quantity="2" unit="character"/><gap n="9000073000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000073000002001" reason="illegible" quantity="2" unit="character"/><gap n="9000073000002002" reason="lost" extent="unknown" unit="character"/><gap n="9000073000002003" reason="illegible" quantity="3" unit="character"/><w n="1000073000002001" type="incomplete"><unclear>σ</unclear></w>
 <lb n="3"/><gap n="9000073000003001" reason="illegible" quantity="2" unit="character"/><gap n="9000073000003002" reason="lost" extent="unknown" unit="character"/><gap n="9000073000003003" reason="illegible" quantity="1" unit="character"/><w n="1000073000003001" type="incomplete">λετε</w><gap n="9000073000003004" reason="illegible" quantity="2" unit="character"/>
@@ -819,7 +819,7 @@ XML</change>
 <lb n="10"/><gap n="9000073000010001" reason="lost" extent="unknown" unit="character"/><gap n="9000073000010002" reason="illegible" quantity="8" unit="character"/><w n="1000073000010001" type="incomplete">α</w><gap n="9000073000010003" reason="lost" quantity="1" unit="character"/> <w n="1000073000010002" lemma="ἄλλος">ἄλλην</w>
 <lb n="11"/><gap n="9000073000011001" reason="lost" extent="unknown" unit="character"/><gap n="9000073000011002" reason="illegible" quantity="2" unit="character"/><w n="1000073000011001" type="incomplete">ατ</w><gap n="9000073000011003" reason="illegible" quantity="3" unit="character"/><gap n="9000073000011004" reason="lost" quantity="2" unit="character"/><gap n="9000073000011005" reason="illegible" quantity="3" unit="character"/><gap n="9000073000011006" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="74" subtype="fragment" type="textpart"><ab>
+<div n="74" subtype="fragment" type="textpart" corresp="#FR5874"><ab>
 <lb n="1"/><gap n="9000074000001001" reason="illegible" quantity="2" unit="character"/><gap n="9000074000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000074000002001" type="incomplete">ὑπ</w><gap n="9000074000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000074000003001" type="incomplete">βαν</w><gap n="9000074000003001" reason="lost" extent="unknown" unit="character"/>
@@ -835,7 +835,7 @@ XML</change>
 <lb n="13"/><gap n="9000074000013001" reason="lost" extent="unknown" unit="character"/><gap n="9000074000013002" reason="illegible" quantity="1" unit="character"/><w n="1000074000013001" type="incomplete">η</w><gap n="9000074000013003" reason="lost" extent="unknown" unit="character"/>
 <lb n="14"/><gap n="9000074000014001" reason="lost" extent="unknown" unit="character"/><w n="1000074000014001" type="incomplete_supplied"><supplied reason="lost">συμπ</supplied>ῖπτο<supplied reason="lost">ν</supplied></w><gap n="9000074000014002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="75" subtype="fragment" type="textpart"><ab>
+<div n="75" subtype="fragment" type="textpart" corresp="#FR5875"><ab>
 <lb n="1"/><gap n="9000075000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000075000001002" reason="illegible" quantity="4" unit="character"/><gap n="9000075000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w n="1000075000002001" type="supplied" lemma="εἰμί_||_ὦ"><supplied reason="lost">ὦ</supplied></w> <w n="1000075000002002" type="incomplete_supplied">φίλτα<supplied reason="lost">τε</supplied></w><gap n="9000075000002001" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000075000003001" type="supplied" lemma="ὥσπερ"><supplied reason="lost">ὡσ</supplied>περεὶ</w> <w n="1000075000003002" type="supplied" lemma="γάρ">γὰ<supplied reason="lost">ρ</supplied></w> <w n="1000075000003003" type="supplied" lemma="ὁ"><supplied reason="lost">τῶι</supplied></w> <w n="1000075000003004" type="supplied" lemma="ὑπάρχω"><supplied reason="lost">ὑπ</supplied>
@@ -850,7 +850,7 @@ XML</change>
 <lb n="12" break="no"/><unclear>ῆσ</unclear>αν</w><gap n="9000075000012001" reason="lost" extent="unknown" unit="character"/><gap n="9000075000012002" reason="illegible" quantity="1" unit="character"/><w n="1000075000012001" type="incomplete">ανο</w><gap n="9000075000012003" reason="lost" extent="unknown" unit="character"/>
 <lb n="13"/><gap n="9000075000013001" reason="lost" extent="unknown" unit="character"/><w n="1000075000013001" type="incomplete_supplied"><supplied reason="lost">συμπιπ</supplied><unclear>το</unclear>ντ</w><gap n="9000075000013002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="76" subtype="fragment" type="textpart"><ab>
+<div n="76" subtype="fragment" type="textpart" corresp="#FR5876"><ab>
 <lb n="1"/><gap n="9000076000001001" reason="lost" extent="unknown" unit="character"/><gap n="9000076000001002" reason="illegible" extent="unknown" unit="character"/><gap n="9000076000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000076000002001" reason="lost" extent="unknown" unit="character"/><gap n="9000076000002002" reason="illegible" extent="unknown" unit="character"/><w n="1000076000002001" type="incomplete"><unclear>ει</unclear></w><gap n="9000076000002003" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000076000003001" type="incomplete"><unclear>π</unclear></w><gap n="9000076000003001" reason="lost" quantity="1" unit="character"/><gap n="9000076000003002" reason="illegible" extent="unknown" unit="character"/><w n="1000076000003002" lemma="εἶπον">εἰπεῖν</w> <w n="1000076000003003" lemma="ὅς"><unclear>ὃς</unclear></w> <w n="1000076000003004" type="incomplete"><unclear>τ</unclear>ου</w><gap n="9000076000003003" reason="lost" extent="unknown" unit="character"/>
@@ -861,7 +861,7 @@ XML</change>
 <lb n="8"/><gap n="9000076000008001" reason="lost" extent="unknown" unit="character"/><gap n="9000076000008002" reason="illegible" quantity="2" unit="character"/><gap n="9000076000008003" reason="lost" extent="unknown" unit="character"/>
 <lb n="9"/><gap n="9000076000009001" reason="lost" extent="unknown" unit="character"/><w n="1000076000009001" type="incomplete">ν</w> <w n="1000076000009002" type="incomplete_supplied">ὑ<unclear>π</unclear>ὲ<supplied reason="lost">ρ</supplied></w><gap n="9000076000009002" reason="lost" extent="unknown" unit="character"/>
 </ab></div>
-<div n="77" subtype="fragment" type="textpart"><ab>
+<div n="77" subtype="fragment" type="textpart" corresp="#FR5877"><ab>
 <lb n="1"/><gap n="9000077000001001" reason="lost" extent="unknown" unit="character"/>.<w n="1000077000001001" type="incomplete">αιλε<gap n="9000077000001002" reason="illegible" quantity="2" unit="character"/><gap n="9000077000001003" reason="lost" extent="unknown" unit="character"/></w>
 <lb n="2"/><gap n="9000077000002001" reason="lost" extent="unknown" unit="character"/> <w n="1000077000002001" lemma="δηλονότι">δηλονότι</w> <gap n="9000077000002002" reason="illegible" quantity="2" unit="character"/>
 <lb n="3"/><gap n="9000077000003001" reason="lost" extent="unknown" unit="character"/> <w n="1000077000003001" lemma="ἐν"><unclear>ἐν</unclear></w> <w n="1000077000003002" lemma="ἐγώ">ἡμῖν</w> <w n="1000077000003003" lemma="ᾗ_||_ἵημι_||_ᾗ">ἧι</w> <gap n="9000077000003002" reason="illegible" quantity="2" unit="character"/>
@@ -869,7 +869,7 @@ XML</change>
 <lb n="5"/><gap n="9000077000005001" reason="lost" extent="unknown" unit="character"/><w n="1000077000005001" type="incomplete">α</w> <w n="1000077000005002" lemma="νόμος"><unclear>νόμο</unclear>ν</w>
 <lb n="6"/><gap n="9000077000006001" reason="lost" extent="unknown" unit="character"/><gap n="9000077000006002" reason="illegible" quantity="1" unit="character"/> <w n="1000077000006001" lemma="κατά"><unclear>κ</unclear>ατὰ</w>
 </ab></div>
-<div n="78" subtype="fragment" type="textpart"><ab>
+<div n="78" subtype="fragment" type="textpart" corresp="#FR5878"><ab>
 <lb n="1"/><gap n="9000078000001001" reason="lost" extent="unknown" unit="character"/><w n="1000078000001001" type="incomplete"><unclear>λ</unclear>α</w><gap n="9000078000001002" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000078000002001" reason="lost" extent="unknown" unit="character"/><w n="1000078000002001" type="incomplete"><unclear>σ</unclear>ει<unclear>ε</unclear></w><gap n="9000078000002002" reason="illegible" quantity="2" unit="character"/><gap n="9000078000002003" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000078000003001" type="supplied" lemma="ὁ"><supplied reason="lost">το</supplied>ὺ<supplied reason="lost">ς</supplied></w> <w n="1000078000003002" type="supplied" lemma="τρόπος_||_τροπόω"><supplied reason="lost">τ</supplied>ρόπους</w> <w n="1000078000003003" type="incomplete">ο</w><gap n="9000078000003001" reason="illegible" quantity="1" unit="character"/><gap n="9000078000003002" reason="lost" extent="unknown" unit="character"/>
@@ -882,7 +882,7 @@ XML</change>
 <lb n="10"/><w n="1000078000010001" type="incomplete">προσχ</w><gap n="9000078000010001" reason="lost" extent="unknown" unit="character"/><gap n="9000078000010002" reason="illegible" quantity="1" unit="character"/><w n="1000078000010002" type="incomplete">ι</w>
 <lb n="11"/><w n="1000078000011001" type="supplied" lemma="οὔτε"><supplied reason="lost">ο</supplied><unclear>ὔ</unclear>τ<unclear>ε</unclear></w> <gap n="9000078000011001" reason="illegible" quantity="1" unit="character"/><gap n="9000078000011002" reason="lost" extent="unknown" unit="character"/><gap n="9000078000011003" reason="illegible" quantity="1" unit="character"/><w n="1000078000011002" type="incomplete">α</w>
 </ab></div>
-<div n="79" subtype="fragment" type="textpart"><ab>
+<div n="79" subtype="fragment" type="textpart" corresp="#FR5879"><ab>
 <lb n="1"/><gap n="9000079000001001" reason="illegible" quantity="3" unit="character"/><w n="1000079000001001" type="incomplete">μεν</w><gap n="9000079000001002" reason="illegible" quantity="3" unit="character"/><w n="1000079000001002" type="incomplete">αν</w><gap n="9000079000001003" reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><gap n="9000079000002001" reason="illegible" quantity="5" unit="character"/> <w n="1000079000002001" type="incomplete">παρα</w><gap n="9000079000002002" reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><w n="1000079000003001" type="incomplete"><unclear>φ</unclear></w><gap n="9000079000003001" reason="lost" quantity="4" unit="character"/><gap n="9000079000003002" reason="illegible" quantity="1" unit="character"/><w n="1000079000003002" type="incomplete">ερα<unclear>ς</unclear></w> <w n="1000079000003003" type="incomplete">π</w><gap n="9000079000003003" reason="lost" extent="unknown" unit="character"/>
