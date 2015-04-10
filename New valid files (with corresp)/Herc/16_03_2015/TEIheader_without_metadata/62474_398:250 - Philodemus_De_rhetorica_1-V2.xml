@@ -1,21 +1,39 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m59467">
-<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
-<teiHeader>
-	<fileDesc>
-		<publicationStmt>
-			<idno type="TM">62474</idno>
-		</publicationStmt>
-	</fileDesc>
-	<revisionDesc>
-		<change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc
-XML</change>
-		<change who=“V. Zetzmann”>Entered Greek text from reference edition</change>
-	</revisionDesc>
-</teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.10/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>sosol.2014.0576</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Duke Collaboratory for Classics Computing (DC3)</authority>
+				<idno type="filename">sosol.2014.0576</idno>
+				<idno type="ddb-hybrid">sosol;2014;0576</idno>
+				<availability>
+					<p>© Duke Databank of Documentary Papyri. This work is licensed under a
+						<ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative 
+							Commons Attribution 3.0 License</ref>.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="grc">Greek</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2014-11-04T12:14:42-05:00" who="http://papyri.info/editor">Automated creation from template</change>
+		</revisionDesc>
+	</teiHeader>
 <text>
 <body>
 <head xml:lang="en"/>
 <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="PHerc_398" type="textpart">
 <div n="1" subtype="fragment" type="textpart" corresp="#FR3671"><ab>
 <lb n="1"/><w n="1000001000001001" type="supplied" lemma="διό"><supplied reason="lost">Διὸ</supplied></w> <w n="1000001000001002" lemma="καί">καὶ</w> <w n="1000001000001003" type="supplied" lemma="προ+ώμεθα">προ<supplied reason="lost">ώμεθα</supplied></w> <w n="1000001000001004" type="supplied" lemma="οὗτος"><supplied reason="lost">ταῦτα</supplied></w>,
 <lb n="2"/><w n="1000001000002001">εἰ</w> <w n="1000001000002002" lemma="μή">μὴ</w> <w n="1000001000002003" type="supplied">εὐλ<unclear>ο</unclear><supplied reason="lost">γώτεραί</supplied></w> <w n="1000001000002004" type="supplied" lemma="τινες"><supplied reason="lost">τι</supplied>
@@ -146,6 +164,52 @@ XML</change>
 <lb n="14" break="no"/><supplied reason="lost">των</supplied></w><gap n="9000008000014001" reason="lost" quantity="10" unit="character"/><w n="1000008000014001" type="incomplete"><unclear>π</unclear>ακην</w> <w n="1000008000014002">ἀλ</w> 
 
 </ab></div></div>
+<div n="PHerc_250" type="textpart">
+<div n="1" subtype="fragment" type="textpart" corresp="#FR3600"><ab>
+<lb n="1"/><w n="1000001000001001" lemma="ὁ">τὸν</w> <w n="1000001000001002" type="supplied" lemma="πατήρ">πατέρ<supplied reason="lost">α</supplied></w> <w n="1000001000001003" type="supplied" lemma="τύπτω"><supplied reason="lost">τύπτων</supplied></w>
+<lb n="2"/><w n="1000001000002001" lemma="ἤ">ἢ</w> <w n="1000001000002002" lemma="μή">μὴ</w> <w n="1000001000002003" type="supplied" lemma="τρέφω">τρέφω<supplied reason="lost">ν</supplied></w> <w n="1000001000002004" type="supplied" lemma="ἤ"><supplied reason="lost">ἢ</supplied></w> <w n="1000001000002005" type="supplied" lemma="μή"><supplied reason="lost">μὴ</supplied></w> <w n="1000001000002006" type="supplied" lemma="παραχώννυμι_||_παρέχω"><supplied reason="lost">πα</supplied>
+<lb n="3" break="no"/>ρέχων</w> <w n="1000001000003001" type="supplied" lemma="ἔοικα_||_οἴκησις">οἴκησ<supplied reason="lost">ιν</supplied></w>. <w n="1000001000003002" type="supplied" lemma="οὕτως"><supplied reason="lost">Οὕ</supplied>
+<lb n="4" break="no"/>τως</w> <w n="1000001000004001" lemma="δέ">δὲ</w> <w n="1000001000004002" type="incomplete">ανη</w><gap n="9000001000004001" reason="lost" quantity="7" unit="character"/>
+<lb n="5"/><w n="1000001000005001" lemma="ἤ">ἢ</w> <w n="1000001000005002" type="supplied" lemma="παραπλήσιος">παραπλη
+<lb n="6" break="no"/>σ<supplied reason="lost">ίως</supplied></w><supplied reason="lost"></supplied><gap n="9000001000006001" reason="lost" quantity="2" unit="character"/>
+<lb n="7"/><w n="1000001000007001" type="incomplete">δε</w> <w n="1000001000007002" lemma="ὁ">ὁ</w> <w n="1000001000007003" lemma="λέγος_||_λέγω">λέγων</w> <w n="1000001000007004" type="supplied" lemma="ἐπί">ἐ<supplied reason="lost">πὶ</supplied></w> <w n="1000001000007005" type="supplied" lemma="Περικλέης"><supplied reason="lost">Πε</supplied>
+<lb n="8" break="no"/>ρικλέους</w> <w n="1000001000008001">ἐκδ</w> <gap n="9000001000008001" reason="illegible" quantity="4" unit="character"/>
+<lb n="9"/><w n="1000001000009001" type="incomplete">δων<unclear>ι</unclear></w><gap n="9000001000009001" reason="illegible" quantity="1" unit="character"/><w n="1000001000009002" type="incomplete"><unclear>ι</unclear>ρει<unclear>λ</unclear></w>
+</ab></div>
+<div n="3" subtype="fragment" type="textpart" corresp="#FR3602"><ab>
+<lb n="1"/><w n="1000003000001001" type="incomplete">ην</w> <w n="1000003000001002" type="incomplete">προληι</w><gap n="9000003000001001" reason="illegible" quantity="5" unit="character"/>
+<lb n="2"/><w n="1000003000002001" lemma="ῥητέος">ῥη<unclear>τ</unclear>έον</w> <w n="1000003000002002" lemma="πρός">πρὸς</w> <w n="1000003000002003" type="supplied" lemma="τῇ">τ<supplied reason="lost">ῆι</supplied></w>
+<lb n="3"/><w n="1000003000003001">τῶνἄλλων</w> <w n="1000003000003002" type="supplied">ἀ<supplied reason="lost">πο</supplied></w>
+<lb n="4"/><w n="1000003000004001" lemma="δόσις_||_δόσεϊ_||_δόσις">δόσει</w>.
+<lb n="5"/><w n="1000003000005001" lemma="ἀοριστοτέρα">Ἀοριστοτέρα</w> <w n="1000003000005002" type="supplied" lemma="μέντοι">μ<supplied reason="lost">έντοι</supplied></w>
+<lb n="6"/><w n="1000003000006001" lemma="ἐστιν">ἐστὶν</w> <w n="1000003000006002" type="incomplete">ἡ</w> <w n="1000003000006003" lemma="ὁ">τῆς</w> <w n="1000003000006004" type="supplied" lemma="ῥητορικός">ῥητ<supplied reason="lost">ορικῆς</supplied></w> <supplied reason="lost"></supplied>
+<lb n="7"/><w n="1000003000007001" lemma="καί">καὶ</w> <w n="1000003000007002" lemma="ὁ">τοῦ</w> <w n="1000003000007003" lemma="ῥήτωρ">ῥήτορος</w> <w n="1000003000007004" type="supplied" lemma="πρόληψις"><unclear>π</unclear><supplied reason="lost">ρόλη</supplied>
+<lb n="8" break="no"/>ψις</w> <w n="1000003000008001" lemma="καί">καὶ</w> <w n="1000003000008002" lemma="οὐ">οὐ</w> <w n="1000003000008003" lemma="πρός">πρὸς</w> <gap n="9000003000008001" reason="illegible" quantity="5" unit="character"/>
+<lb n="9"/><w n="1000003000009001" type="incomplete">αξαις</w> <w n="1000003000009002" lemma="πλείστας">πλείστας</w> <gap n="9000003000009001" reason="illegible" quantity="3" unit="character"/>
+<lb n="10"/><w n="1000003000010001" type="incomplete">δουν</w>, <w n="1000003000010002" lemma="ὡς">ὡς</w> <w n="1000003000010003" lemma="ἐν">ἐν</w> <w n="1000003000010004" type="supplied" lemma="δέχομαι">δέ<supplied reason="lost">χεται</supplied></w>
+</ab></div>
+<div n="5" subtype="fragment" type="textpart" corresp="#FR3604"><ab>
+<lb n="1"/><w n="1000005000001001" type="supplied" lemma="οὐ"><supplied reason="lost">Ο</supplied>ὐ</w> <w n="1000005000001002" lemma="μήν">μὴν</w> <w n="1000005000001003" lemma="πραγματικός">πραγματι
+<lb n="2" break="no"/><unclear>κ</unclear>ὴν</w> <w n="1000005000002001" lemma="ποιέω">ποιεῖται</w> <w n="1000005000002002" lemma="ὁ">τὴν</w> <w n="1000005000002003" type="supplied" lemma="σκέψις">σκ<supplied reason="lost">έ</supplied>
+<lb n="3" break="no"/><unclear>ψ</unclear>ιν</w> <w n="1000005000003001" lemma="ἀλλά">ἀλλ'</w> <w n="1000005000003002" lemma="ἤτοι">ἤτοι</w> <w n="1000005000003003" lemma="παρά">παρ<unclear>ὰ</unclear></w>
+<lb n="4"/><w n="1000005000004001" lemma="ὁ"><unclear>τ</unclear>ὴν</w> <w n="1000005000004002">ἀδιαληψίαν</w> <w n="1000005000004003" type="supplied" lemma="ὅς">ὧ<supplied reason="lost">ν</supplied></w>
+<lb n="5"/><w n="1000005000005001" lemma="ὁ"><unclear>τ</unclear>αῖς</w> <w n="1000005000005002" lemma="ὀνομασία">ὀνο<unclear>μ</unclear>ασίαις</w> <w n="1000005000005003" type="supplied">ὑ<unclear>π</unclear><supplied reason="lost">ο</supplied></w>
+<lb n="6"/><w n="1000005000006001" lemma="τάσσω"><unclear>τ</unclear>άττει</w> <w n="1000005000006002" type="supplied" lemma="διανόημα">διανοημάτ<supplied reason="lost">ων</supplied></w>
+<lb n="7"/><w n="1000005000007001" type="supplied" lemma="συνίστημι"><supplied reason="lost">σ<unclear>υ</unclear></supplied>νισταμένην</w> <w n="1000005000007002" lemma="ἤ">ἢ</w> <w n="1000005000007003" lemma="πρό">πρὸ</w>
+<lb n="8"/><w n="1000005000008001" lemma="αὐτός">αὐτῆς</w> <w n="1000005000008002" lemma="καί">καὶ</w> <w n="1000005000008003" lemma="τάς">τὰς</w> <w n="1000005000008004" lemma="ἐν">ἐν</w> <w n="1000005000008005" lemma="ὁ">ταῖς</w>
+</ab></div>
+<div n="6" subtype="fragment" type="textpart" corresp="#FR3605"><ab>
+<lb n="1"/><w n="1000006000001001" type="incomplete">πολ</w><gap n="9000006000001001" reason="illegible" quantity="2" unit="character"/><w n="1000006000001002" type="incomplete_supplied">ω<gap n="9000006000001002" reason="lost" quantity="2" unit="character"/><supplied reason="lost">τὸ</supplied></w> <w n="1000006000001003" type="supplied" lemma="ὁ"><supplied reason="lost">τῶν</supplied></w> <w n="1000006000001004" type="supplied" lemma="φιλόσοφος"><supplied reason="lost">φιλο</supplied>
+<lb n="2" break="no"/>σόφων</w> <w n="1000006000002001" lemma="καί">καὶ</w> <w n="1000006000002002" type="supplied" lemma="ῥήτωρ">ῥη<unclear>τ</unclear><supplied reason="lost">όρων</supplied></w> <w n="1000006000002003" type="supplied" lemma="πλῆθος"><supplied reason="lost">πλῆ</supplied>
+<lb n="3" break="no"/>θος</w> <w n="1000006000003001" lemma="περί">περὶ</w> <w n="1000006000003002" lemma="οὗτος">τοῦτο</w> <w n="1000006000003003" type="supplied" lemma="κατατρίβεσθαι">κα<unclear>τ</unclear><supplied reason="lost">ατρί</supplied>
+<lb n="4" break="no"/>βεσθαι</w> <w n="1000006000004001" lemma="ὁ">τὸ</w> <w n="1000006000004002" lemma="μέρος">μέρος</w> <w n="1000006000004003" type="supplied" lemma="ᾤοντο">ὤ<supplied reason="lost">ι</supplied>
+<lb n="5" break="no"/>οντο</w> <w n="1000006000005001" lemma="πᾶς">πᾶν</w> <w n="1000006000005002" lemma="καί">καὶ</w> <w n="1000006000005003" lemma="ὁ">τὸ</w> <w n="1000006000005004" type="supplied" lemma="συνόχωκα">συ<supplied reason="lost">νέ</supplied>
+<lb n="6" break="no"/>χον</w>, <w n="1000006000006001" lemma="καί">καὶ</w> <w n="1000006000006002" lemma="ὁ">τοὺς</w> <w n="1000006000006003" lemma="μέν">μὲ<unclear>ν</unclear></w> <w n="1000006000006004" type="supplied" lemma="κατηγορέω"><unclear>κ</unclear><supplied reason="lost">ατη</supplied>
+<lb n="7" break="no"/>γοροῦντας</w> <w n="1000006000007001" lemma="ὁ">τῆς</w> <w n="1000006000007002" lemma="ῥητορικός">ῥητο
+<lb n="8" break="no"/>ρικῆς</w> <w n="1000006000008001" type="supplied">φιλογλίχει<supplied reason="lost">ν</supplied></w> <w n="1000006000008002" type="supplied" lemma="ὡς"><supplied reason="lost">ὡς</supplied></w> <w n="1000006000008003" type="supplied" lemma="οὐ"><supplied reason="lost">οὐ</supplied>
+<lb n="9" break="no"/>κ</w> <w n="1000006000009001" lemma="εἰμί">οὖσαν</w> <w n="1000006000009002" lemma="αὐτός">αὐτὴν</w> <w n="1000006000009003" type="supplied" lemma="τέχνη">τ<unclear>έ</unclear><supplied reason="lost">χνην</supplied></w> 
+
+</ab></div></div></div>
 </body>
 </text>
 </TEI>
