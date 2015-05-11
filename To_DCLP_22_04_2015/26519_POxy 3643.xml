@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.10/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <publicationStmt>
+                <idno type="TM">26519</idno>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-03-26T09:18:49-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+        <change who="M. Moser">Entered Greek text from reference edition</change>
+	</revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head xml:lang="en"/>
+            <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="column" corresp="#FR5648" type="textpart"><ab>
+<lb n="1"/>Οὐαλέριος <gap reason="illegible" quantity="6" unit="character"/><gap reason="lost" quantity="5" unit="character"/>
+<lb n="2"/>Ὀφελλιανῷ τῷ <supplied reason="lost">κυρίῳ</supplied>
+<lb n="3"/>ἀδε<supplied reason="lost">λ</supplied>φῷ <supplied reason="lost"><expan>χ<ex>αί</ex>ρ<ex>ειν</ex></expan></supplied>.
+<lb n="4"/>πάντες ἴσασιν <gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>
+<lb n="5"/><unclear>γ</unclear>εις. διόπερ ἐπιστέλλω
+<lb n="6"/>σοι ὑπὲρ Διογένου<supplied reason="lost">ς</supplied> <unclear>Θ</unclear>έ<unclear>ωνο</unclear>ς,
+<lb n="7"/>ἀδελφιδοῦ ὄντος <supplied reason="lost">ἀνα</supplied><unclear>γκ</unclear>αιο
+<lb n="8" break="no"/>τάτου μοι φίλου, ἀνδρὸς
+<lb n="9"/>φιλοσόφου γενομένο<unclear>υ</unclear> <unclear>τ</unclear>ὰ
+<lb n="10"/>Ἐπικούρεια θε<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ς
+<lb n="11"/>τοὔνομα διχό<unclear>θ</unclear><supplied reason="lost">εν</supplied><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ν
+<lb n="12"/>τὸν νεανίσκον, καὶ δι' εκ<unclear>ε</unclear>ῖ
+<lb n="13" break="no"/>νον καὶ δι' αὐτὸν ἐπάξι<unclear>ον</unclear>
+<lb n="14"/>ὄντ<supplied reason="lost">α τῆς </supplied> παρ' <supplied reason="lost">ἡ</supplied>μῖν <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="2" unit="character"/>
+<lb n="15"/>σεως <gap reason="lost" quantity="4" unit="character"/><unclear>ς</unclear> δὴ οὐκ<unclear>ε</unclear><gap reason="lost" quantity="3" unit="character"/>
+<lb n="16"/>αυτ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/>σθ<unclear>α</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="7" unit="character"/>
+<lb n="17"/>σοι<gap reason="lost" quantity="0" unit="character"/>
+</ab></div>
+</div>
+        </body>
+    </text>
+</TEI>   

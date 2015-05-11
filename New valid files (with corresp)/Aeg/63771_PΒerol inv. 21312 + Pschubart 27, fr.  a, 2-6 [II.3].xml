@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.10/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <publicationStmt>
+                <idno type="TM">63771</idno>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-03-26T09:18:49-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+        <change who="M. Moser">Entered Greek text from reference edition</change>
+	</revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head xml:lang="en"/>
+            <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="column" corresp="#FR5651" type="textpart"><ab>
+<lb n="1"/>γεγόναμεν <unclear>ἅ</unclear><supplied reason="lost">παξ, δὶς δὲ οὐκ ἔστι γενέσθαι·</supplied>
+<lb n="2"/>δεῖ δὲ τὸν α<supplied reason="lost">ἰῶνα μηκέτι εἶναι· σὺ δὲ</supplied>
+<lb n="3"/>τῆς αὔριον ο<unclear>ὐ</unclear><supplied reason="lost">κ ὢν κύριος ἀναβάλλῃ</supplied>
+<lb n="4"/>τὸ χαῖρον· ὁ δὲ <supplied reason="lost">πάντων βίος μελλησμῷ</supplied>
+<lb n="5"/>παραπόλλ<unclear>υ</unclear><supplied reason="lost">ται</supplied> <gap reason="lost" quantity="3" unit="character"/>
+</ab></div>
+</div>
+        </body>
+    </text>
+</TEI>  

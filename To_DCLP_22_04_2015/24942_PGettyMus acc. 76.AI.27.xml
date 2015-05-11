@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.10/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <publicationStmt>
+                <idno type="TM">24942</idno>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-03-26T09:18:49-04:00" who="http://papyri.info/editor">Automated creation from template</change>
+        <change who="M. Moser">Entered Greek text from reference edition</change>
+	</revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head xml:lang="en"/>
+            <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="column" corresp="#FR5647" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" quantity="0" unit="character"/>       χαίρε<unclear>ι</unclear><supplied reason="lost">ν</supplied>
+<lb n="2"/><supplied reason="lost">Μητ</supplied><unclear>ρ</unclear>οδώρου βιβλ<supplied reason="lost">ί-</supplied><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">Ἐπι</supplied>
+<lb n="3" break="no"/><unclear>κ</unclear>ο<supplied reason="lost">ύ</supplied><unclear>ρ</unclear>ο<unclear>υ</unclear> Περὶ δικαιοσύνης α<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="0" unit="character"/>
+<lb n="4"/>ἀρί<supplied reason="lost">σ</supplied>των Ὑπὲρ τῆς ἡδονῆς<gap reason="lost" quantity="0" unit="character"/>
+<lb n="5"/>γου<gap reason="lost" quantity="6" unit="character" precision="low"/>. τὸ γὰρ <num value="2">β</num> Περὶ <gap reason="lost" quantity="0" unit="character"/>
+<lb n="6"/><gap reason="lost" quantity="8" unit="character" precision="low"/> <unclear>ἑ</unclear>τέρῳ φίλῳ ἐ<unclear>π</unclear><gap reason="lost" quantity="0" unit="character"/>
+<lb n="7"/><gap reason="lost" quantity="8" unit="character" precision="low"/>ι ἀναπέμψω τ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="0" unit="character"/>
+<lb n="8"/><gap reason="lost" quantity="7" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/> ἀπέστειλα διὰ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="0" unit="character"/>
+<lb n="9"/><gap reason="lost" quantity="5" unit="character" precision="low"/><unclear>λ</unclear>ειτης οὐχ ὁρᾶταί μοι<gap reason="lost" quantity="0" unit="character"/>
+<lb n="10"/><gap reason="lost" quantity="4" unit="character" precision="low"/>υκέναι ὥστε πρὸς ἐμὲ αὐτ<supplied reason="lost">ὰ</supplied>
+<lb n="11"/><gap reason="lost" quantity="4" unit="character" precision="low"/>βιβλία εν<gap reason="illegible" quantity="5" unit="character"/> ματι <add place="above"><gap reason="illegible" quantity="1" unit="character"/></add> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="0" unit="character"/>
+<lb n="12"/><gap reason="lost" quantity="6" unit="character" precision="low"/>μερ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="8" unit="character" precision="low"/> ἀσπάζου <gap reason="lost" quantity="0" unit="character"/>
+<lb n="13"/><gap reason="lost" atLeast="5" atMost="6" unit="character"/>ανθετησα <gap reason="illegible" quantity="3" unit="character"/> ενωσ<gap reason="lost" quantity="0" unit="character"/>
+<lb n="14"/><gap reason="lost" quantity="5" unit="character" precision="low"/><gap reason="illegible" quantity="1" unit="character"/>
+<lb n="15"/><expan>ἔρρ<unclear>ω</unclear><ex>σο</ex></expan> <expan><ex>ἔτους</ex></expan> <num value="4">δ</num> <supplied reason="lost">Χο</supplied>ίαχ <num value="4">δ</num>
+</ab></div>  
+</div>
+      </body>
+   </text>
+</TEI>               
