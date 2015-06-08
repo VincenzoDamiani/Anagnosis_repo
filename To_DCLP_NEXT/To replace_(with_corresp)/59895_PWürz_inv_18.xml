@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.10/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>sosol.2015.0127</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
+                <idno type="filename">sosol.2015.0127</idno>
+                <idno type="ddb-hybrid">sosol;2015;0127</idno>
+                <availability>
+                    <p>© Duke Databank of Documentary Papyri. This work is licensed under a
+                        <ref type="license" target="http://creativecommons.org/licenses/by/3.0/">Creative 
+                            Commons Attribution 3.0 License</ref>.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                    </physDesc>
+                    <history>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>1933</date>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/PW%C3%BCrzbInv18R_Edition.jpg"/></custEvent>
+                                <custEvent type="imaged" corresp="#6240"><date>1933</date>
+                                    <ptr target ="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/PW%C3%BCrzbInv18V_Edition.jpg"/></custEvent>
+                                
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>1970-1979</date>
+                                </custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>October 2003</date>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/PW%C3%BCrzbInv18R_ersteAufnahme.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>October 2003</date>
+                                    <ptr target ="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/PW%C3%BCrzbInv18V_ersteAufnahme.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>October 2007</date>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/PW%C3%BCrzbInv18R_zweiteAufnahme.jpg"/></custEvent>
+                                <custEvent type="imaged" corresp="#6241"><date>October 2007</date>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/PW%C3%BCrzbInv18V_zweiteAufnahme.jpg"/></custEvent>
+                                
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>March 2009</date>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/PW%C3%BCrzbInv18R_dritteAufnahme.jpg"/></custEvent>
+                                <custEvent type="imaged" corresp="#6240"><date>March 2009</date>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/PW%C3%BCrzbInv18V_dritteAufnahme.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Gene</forename>
+                                    <surname>Ware</surname>
+                                    <p>MSI 400 nm</p>
+                                </custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Gene</forename>
+                                    <surname>Ware</surname>
+                                    <p>MSI 950 nm</p>
+                                </custEvent>
+                                
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 365 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_001_365nmUV.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 450 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_002_450nm_RoyalBlue.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 465 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_003_465nm_Blue.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 505 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_004_505nm_Cyan.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 535 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_005_535nm_Green.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 592 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_006_592nm_Amber.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 625 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_007_625nm_RedOrange.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 638 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_008_638nm_Red.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 730 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_009_730nm_IR.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 780 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_010_780nm_IR.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 850 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_011_850nm_IR.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename> Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 940 nm</p>
+                                    <ptr type="MSI" target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/P_Wuerzb_Inv18_r_012_940nm_IT.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 365 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_001_365nm_UV.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 450 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_002_450nm_RoyalBlue.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 465 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_003_465nm_Blue.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 505 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_004_505nm_Cyan.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 535 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_005_535nm_Green.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 592 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_006_592nm_Amber.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 625 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_007_625nm_RedOrange.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 638 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_008_638nm_Red.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 730 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_009_730nm_IR.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 780 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_010_780nm_IR.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 850 nm</p>
+                                    <ptr target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_011_850nm_IR.jpg"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename> Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI 940 nm</p>
+                                    <ptr type="MSI" target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/P_Wuerzb_Inv18_v_012_940nm_IT.jpg"/></custEvent>
+                                
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Alexander</forename>
+                                    <surname>Kovalchuk</surname>
+                                    <p>MSI composite</p></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>22-24 November 2010</date>
+                                    <forename>Adam</forename>
+                                    <surname>Bülow-Jacobsen</surname>
+                                    <ptr type="IR" target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Jakobsen_recto.JPG"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6240"><date>22-24 November 2010</date>
+                                    <forename>Adam</forename>
+                                    <surname>Bülow-Jacobsen</surname>
+                                    <ptr type="IR" target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/Jakobsen.JPG"/></custEvent>
+                                
+                                <custEvent type="imaged" corresp="#6241"><date>1970-1979</date>
+                                    <ptr type="BW" target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/JMBphotoR1.jpg"/></custEvent>
+                                <custEvent type="imaged" corresp="#6240"><date>1970-1979</date>
+                                    <ptr type="BW" target="file://///kallimachos_w.rz.uni-wuerzburg.de/kallimachos/users/Einzelne%20Projekte/Anagnosis/Abbildungen/PW%C3%BCrzbInv_18/Verso_Abbildungen/JMBphotoV2.jpg"/></custEvent>
+                                
+                            </custodialHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-02-20T10:09:27-05:00" who="http://papyri.info/editor">Automated creation from template</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head xml:lang="en"/>
+            <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="v" type="textpart" corresp="#6240"> 
+<ab>
+<lb n="1"/><unclear>λα</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/><unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear><g type="diple"/><unclear><g type="diple"/></unclear> οὐδέ ϲοι πυρὸϲ ἀνῆψα φῶϲ <unclear>εἰω</unclear><supplied reason="lost">θ<gap reason="illegible" atLeast="21" atMost="24" unit="character"/></supplied>
+<lb n="2"/><gap reason="lost" quantity="1" unit="character"/>ἐ<supplied reason="lost">ξ</supplied><unclear>ά</unclear>ξαι καὶ <unclear>προ</unclear>η<unclear>γ</unclear>εῖϲ<unclear>θαι</unclear> <unclear>τοῦ</unclear> νυμφί<unclear>ου</unclear> <gap reason="lost" atLeast="19" atMost="22" unit="character"/>
+<lb n="3"/><gap reason="lost" atLeast="4" atMost="6" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>υ.<lb n="2"/><g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><unclear><g type="diple"/></unclear> <unclear>ἀ</unclear>νυμέν<unclear>α</unclear>ια <unclear>δ</unclear>᾿ ἐκ<supplied reason="lost">η</supplied>δεύθ<unclear>η</unclear> Ἰϲμηνὸϲ <supplied reason="lost">λουτροφόρου</supplied>
+<lb n="4"/><supplied reason="lost">χλιδᾶϲ</supplied><supplied reason="lost"><g type="slanting-stroke"/><g type="slanting-stroke"/></supplied> <unclear>εἰ</unclear>ώθ<unclear>α</unclear><supplied reason="lost">ϲ</supplied>ιν ο<unclear>ἱ</unclear> ἀρχαῖοι π<unclear>ρο</unclear>β<supplied reason="lost">α</supplied>λ<unclear>εῖν</unclear> ἀπὸ τῶν ἐπι<unclear>χ</unclear><supplied reason="lost">ωρίων ποταμῶν</supplied> 
+<lb n="5"/><supplied reason="lost">ἢ ἀπὸ πη</supplied><unclear>γῆϲ</unclear> ὕδατα καὶ λοῦϲαι τὸ<supplied reason="lost">ν</supplied> νυμφίον καὶ <unclear>π</unclear>αι<unclear>δ</unclear><supplied reason="lost">οποιίαν εὔ</supplied>
+<lb n="6" break="no"/><supplied reason="lost">χεϲθαι ἐκ τῶν</supplied> <unclear>γά</unclear>μων. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/> κᾆτα δ<supplied reason="lost">ὲ</supplied>  <unclear>ἦ</unclear>λθεν αὖ φυγάϲ <g type="slanting-stroke"/><g type="slanting-stroke"/> ἦλθ<supplied reason="lost">εν</supplied> <supplied reason="lost">ὁ Τ</supplied><unclear>υ</unclear><supplied reason="lost">δεὺϲ ποι</supplied>
+<lb n="7" break="no"/><supplied reason="lost">ήϲαϲ φό</supplied>νον <unclear>ἐ</unclear>ν τῆι πατρίδι αὐτοῦ κ<unclear>α</unclear>ὶ τούτου χάριν φυγὰϲ γε<supplied reason="lost">νόμε</supplied>   
+<lb n="8"/><supplied reason="lost">νοϲ</supplied><supplied reason="lost"><gap reason="illegible" atLeast="4" atMost="6" unit="character"/> <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/></supplied> καὶ ϲκῦλα <supplied reason="lost">γ</supplied><unclear>ρ</unclear>άψειϲ <g type="slanting-stroke"/><g type="slanting-stroke"/> εἰώθαϲιν οἱ ἀρχαῖοι ὅτ᾿ ἐπ<unclear>ό</unclear>ρ<unclear>ι</unclear>ζ<supplied reason="lost">ον</supplied>
+<lb n="9"/><supplied reason="lost">νίκην ἐπιγρ</supplied><unclear>άφε</unclear><supplied reason="lost">ι</supplied><unclear>ν</unclear> ἱματίοιϲ ὅτι ὁ <unclear>δε</unclear>ῖνα ἐπόρ<unclear>ι</unclear><supplied reason="lost">ϲ</supplied><unclear>ε</unclear>ν τ<gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" atLeast="3" atMost="5" unit="character"/>
+<lb n="10"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/><supplied reason="lost">τὰ ἱμ</supplied><unclear>ά</unclear>τια τοῖϲ θεοῖϲ ἀνατιθέναι. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/><g type="diple"/> καὶ ϲὺ Φοῖβε ἄ<unclear>ν</unclear><supplied reason="lost">αξ</supplied>
+<lb n="11"/><supplied reason="lost">Ἀγυιεῦ</supplied><gap reason="lost" atLeast="3" atMost="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>α</unclear>ν οἱ ἀρχαῖοι βαλόντεϲ ἐν τοῖϲ προθύρ<unclear>ο</unclear><supplied reason="lost">ιϲ</supplied> αὐτ<supplied reason="lost">ῶν</supplied><gap reason="lost" atLeast="0" atMost="1" unit="character"/>
+<lb n="12"/><gap reason="lost" atLeast="10" atMost="12" unit="character"/><supplied reason="lost">τ</supplied>οῦ Ἀπόλλ<supplied reason="lost">ω</supplied>νοϲ ἐκάλουν αὐτὸν Φοῖβον Ἀγυ<supplied reason="lost">ιέα. οὗ</supplied>
+<lb n="13" break="no"/><supplied reason="lost">τοϲ γὰρ ἦν φύλα</supplied><unclear>ξ</unclear> τῆϲ ὁδοῦ. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/><g type="diple"/>   Κάδμοϲ ἔμολε τά<unclear>ν</unclear>δ<unclear>ε</unclear> <supplied reason="lost">γ</supplied>ᾶν <unclear>Τύ</unclear><supplied reason="lost">ριοϲ ὧι τε</supplied>
+<lb n="14" break="no"/><supplied reason="lost">τραϲκελὴϲ μόϲ</supplied><unclear>χοϲ</unclear> ἀδ<unclear>ά</unclear><supplied reason="lost">μ</supplied><unclear>αϲτ</unclear>ον πέϲημα <g type="slanting-stroke"/><g type="slanting-stroke"/> Κάδμοϲ βουλόμενοϲ κτίϲα<supplied reason="lost">ι πό</supplied> 
+<lb n="15" break="no"/><supplied reason="lost">λιν ἠρώτηϲ</supplied><unclear>ε</unclear>ν κ<unclear>α</unclear>ὶ <unclear>ἔ</unclear><supplied reason="lost">λ</supplied><unclear>α</unclear>βεν χρηϲμὸν ἐκ τοῦ Ἀπόλλωνοϲ ποῦ <unclear>ἂ</unclear>ν <unclear>κ</unclear><supplied reason="lost">τί</supplied>  
+<lb n="16" break="no"/><supplied reason="lost">ϲαι πόλι</supplied><unclear>ν</unclear> καὶ ἔχρηϲεν αὐτῶι ὁ Ἀπόλλων χρηϲμὸν τοιοῦτον·<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" atLeast="2" atMost="3" unit="character"/>
+<lb n="17"/><gap reason="lost" atLeast="6" atMost="8" unit="character"/><supplied reason="lost">π</supplied>ρ<unclear>ὸϲ</unclear> β<supplied reason="lost">ο</supplied><unclear>υκ</unclear>ό<unclear>λ</unclear>ον Πελάγοντα καὶ ἐξ αὐτοῦ βοῦν α<unclear>ἴ</unclear><supplied reason="lost">τηϲαι  φακοὺϲ</supplied>
+<lb n="18"/><supplied reason="lost">ἔχ</supplied><unclear>ου</unclear><supplied reason="lost">ϲαν ἐ</supplied>ν τῷ <unclear>ν</unclear>ώτω<supplied reason="lost">ι</supplied> <supplied reason="lost">ϲ</supplied>τρογγύλο<supplied reason="lost">υ</supplied><unclear>ϲ</unclear>. καὶ ὅπου <unclear>γ’</unclear> ἂν πέ<unclear>ϲη</unclear><supplied reason="lost">ι</supplied><unclear>η</unclear> <gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" atLeast="4" atMost="5" unit="character"/>
+<lb n="19"/>ἡ βουϲ ἀφ᾿ ἑαυτῆϲ, ἀπαν<unclear>ιϲτ</unclear>ὰϲ ἐκεῖ κτίϲον πόλιν. εἶ<unclear>τα</unclear> <unclear>λα</unclear>βὼν <unclear>τὸν</unclear> <unclear>χρ</unclear><supplied reason="lost">ηϲμὸν</supplied>
+<lb n="20"/><unclear>ἦ</unclear>λθεν <unclear>ε</unclear><supplied reason="lost">ἰ</supplied>ϲ τὰϲ Θήβαϲ τῆϲ Β<unclear>ο</unclear>ιωτίαϲ καὶ ἐκεῖ ἔπεϲεν ἡ βοῦϲ καὶ ἔκ<unclear>τ</unclear><supplied reason="lost">ιϲεν</supplied>
+<lb n="21"/><supplied reason="lost">ἐκ</supplied>εῖ τ<unclear>ὰ</unclear>ϲ Θήβαϲ. Βοιωτία δ’ ἐκλ<unclear>ήθ</unclear>η ὁ τόποϲ ἐκεῖνοϲ διὰ τὸ ἐκεῖ π<supplied reason="lost">εϲεῖν</supplied> 
+<lb n="22"/><gap reason="lost" atLeast="3" atMost="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> τὴν βοῦ<supplied reason="lost">ν</supplied>. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/>  ἀδάμαϲτον πέϲημα <g type="slanting-stroke"/><g type="slanting-stroke"/> οἷον <supplied reason="lost">ἄ</supplied>δ<unclear>ραϲ</unclear>τον <gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="23"/><supplied reason="lost">αὐ</supplied>τομ<unclear>άτωϲ</unclear> <gap reason="illegible" quantity="3" unit="character"/>ν<gap reason="illegible" quantity="2" unit="character"/>π<gap reason="illegible" quantity="3" unit="character"/>ου. <unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear><g type="diple"/><unclear><g type="diple"/></unclear> κι<unclear>ϲϲὸ</unclear>ϲ ὃν περιϲτεφ<unclear>ή</unclear><supplied reason="lost">ϲ</supplied><g type="slanting-stroke"/><g type="slanting-stroke"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="24"/><gap reason="lost" atLeast="1" atMost="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/><unclear>ην</unclear><gap reason="lost" atLeast="0" atMost="1" unit="character"/>ερ<gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ν<gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><unclear>κηρ</unclear>ομε<gap reason="illegible" quantity="8" unit="character"/><gap reason="lost" atLeast="10" atMost="12" unit="character"/>
+<lb n="25"/><gap reason="lost" atLeast="1" atMost="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ο<unclear>ϲ</unclear><gap reason="illegible" quantity="9" unit="character"/><unclear>ϲ</unclear>α<unclear>π</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>κιϲϲὸϲ</unclear> καὶ ϲκε<unclear>πάϲαι</unclear> <unclear>τὸν</unclear> Δ<unclear>ι</unclear><supplied reason="lost">όνυϲον</supplied><gap reason="lost" atLeast="4" atMost="6" unit="character"/>
+<lb n="26"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>δ</unclear>α<gap reason="illegible" quantity="14" unit="character"/>  <unclear><g type="diple"/></unclear><g type="diple"/>  <unclear>καὶ</unclear> <unclear>γυναιξὶν</unclear>  <unclear>εὐίο</unclear><supplied reason="lost">ιϲ Βάκχαιϲ.</supplied>
+<lb n="27"/><supplied reason="lost">αἱ μαινάδε</supplied><unclear>ϲ</unclear> ἐκαλο<unclear>ῦντο</unclear>  <unclear>Βά</unclear>κχ<unclear>α</unclear>ι, ἐπειδὴ <unclear>ἐχ</unclear>ό<unclear>ρευον</unclear> <unclear>ὑπ</unclear><supplied reason="lost">ὲρ τοῦ Διο</supplied>
+<lb n="28" break="no"/><supplied reason="lost">νύϲου. εὐο</supplied><unclear>ῖ</unclear> <unclear>ε</unclear>ὐ<unclear>ὰν</unclear> <unclear>ἦ</unclear>ν <unclear>ὁ</unclear> <unclear>ὕμ</unclear>νοϲ <unclear>αὐτῶν</unclear>. <unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear><unclear><g type="diple"/></unclear><g type="diple"/>  <unclear>Ἄρεο</unclear><supplied reason="lost">ϲ</supplied><gap reason="lost" atLeast="7" atMost="9" unit="character"/>
+<lb n="29"/><gap reason="lost" atLeast="6" atMost="8" unit="character"/><gap reason="illegible" quantity="11" unit="character"/>ον τοῦ κτί<unclear>ϲα</unclear>ι τ<unclear>ὰϲ</unclear> Θήβ<unclear>αϲ</unclear>  <unclear>αυ</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/>
+<lb n="30"/><supplied reason="lost">657 φόνιοϲ ἦ</supplied>ν <unclear>δρ</unclear>ά<unclear>κων</unclear> <add place="above"><g type="slanting-stroke"/></add> ἦν δὲ ἐκεῖ δράκων <unclear>ὃϲ</unclear> <add place="above"><unclear>ἐ</unclear></add><unclear>φύλαϲϲε</unclear> τὴ<unclear>ν</unclear> <gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="31"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>α</unclear><gap reason="illegible" quantity="2" unit="character"/><unclear>αυτ</unclear><gap reason="illegible" quantity="14" unit="character"/><gap reason="lost" quantity="2" unit="character"/>.  <unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear><g type="diple"/><unclear><g type="diple"/></unclear> <gap reason="illegible" quantity="1" unit="character"/>α<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="32"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/><gap reason="illegible" quantity="2" unit="character"/>δ<unclear>ε</unclear> <unclear>τ</unclear><supplied reason="lost">ο</supplied>ῦ<unclear>το</unclear> <unclear>ἀ</unclear>λλ<unclear>ὰ</unclear> <unclear>κα</unclear>ὶ Κα<unclear>δμ</unclear><gap reason="illegible" quantity="6" unit="character"/><unclear>ο</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>δ</unclear><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="33"/><gap reason="lost" atLeast="1" atMost="2" unit="character"/> <unclear>Καδμ</unclear><gap reason="illegible" quantity="8" unit="character"/><unclear>ἀπὸ</unclear>  <unclear>τ</unclear><supplied reason="lost">ο</supplied><unclear>ῦ</unclear>  <unclear>δρ</unclear>άκ<supplied reason="lost">ο</supplied><unclear>ντοϲ</unclear> το<unclear>ν</unclear><gap reason="illegible" quantity="14" unit="character"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="34"/><supplied reason="lost">ἀ</supplied><unclear>πο</unclear>λ<unclear>α</unclear>β<unclear>ὼν</unclear>  τ<unclear>οὺ</unclear>ϲ <unclear>ὀδ</unclear><supplied reason="lost">ό</supplied><unclear>νταϲ</unclear> <g type="slanting-stroke"/><unclear><g type="slanting-stroke"/></unclear>
+<lb n="35"/>δρά<unclear>κων</unclear>
+</ab>
+</div>
+<div n="r" type="textpart" corresp="#6241">
+<ab>
+<lb n="36"/><gap reason="lost" atLeast="5" atMost="9" unit="character"/><supplied reason="lost">αἱ διώνυμοι θεαὶ Πε</supplied><unclear>ρ</unclear>σέφασσ<unclear>α</unclear> καὶ φίλα Δαμάτηρ θεά<g type="slanting-stroke"/><g type="slanting-stroke"/>
+<lb n="37"/><supplied reason="lost">διώνυμοι λέγονται, ὅτι ἡ Δημήτηρ</supplied> ἐκλήθη Γῆ καὶ Δημήτηρ καὶ ἡ <unclear>Π</unclear><supplied reason="lost">ερ</supplied>
+<lb n="38" break="no"/><supplied reason="lost">σεφόνη ἐκλή</supplied><unclear>θη</unclear> <unclear>Κόρη</unclear> <unclear>καὶ</unclear> <unclear>Περσε</unclear>φόν<unclear>η</unclear>. <unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear><g type="diple"/><g type="diple"/><g type="diple"/> αἱ διώνυμοι θ<unclear>ε</unclear><supplied reason="lost">αί</supplied>
+<lb n="39"/><supplied reason="lost">οὕτως γὰρ ἐν</supplied> <unclear>ταῖς</unclear> <unclear>Θή</unclear>βαις ἐτιμῶντο ἡ Δημήτηρ καὶ <unclear>ἡ</unclear> <supplied reason="lost">Πε</supplied><unclear>ρσ</unclear><supplied reason="lost">εφόνη.</supplied>
+<lb n="40"/><gap reason="lost" atLeast="2" atMost="4" unit="character"/><supplied reason="lost">πέμπε</supplied> <unclear>πυρφόρους</unclear> θεὰς <g type="slanting-stroke"/><g type="slanting-stroke"/> τὴν <unclear>Περσε</unclear>φόνην καὶ Δ<unclear>ήμη</unclear>τ<unclear>ρα</unclear>. <unclear>πυ</unclear><gap reason="lost" atLeast="6" atMost="8" unit="character"/>
+<lb n="41"/><supplied reason="lost">8-10</supplied><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ιν<gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/>ἵνα συνεκδοχικ<unclear>ὸν</unclear> <unclear>ἦ</unclear>ι τὸ σχῆμα <unclear>θηλ</unclear>υκ<unclear>ὸν</unclear><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/>
+<lb n="42"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/><gap reason="illegible" quantity="9" unit="character"/> <unclear>ἐξ</unclear> <unclear>ἑ</unclear>τ<unclear>έρ</unclear>ο<unclear>υ</unclear> <unclear>μὲν</unclear> <unclear>ο</unclear>ἷο<unclear>ν</unclear> ἡ Δημήτηρ <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><gap reason="lost" quantity="1" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" atLeast="6" atMost="8" unit="character"/>
+<lb n="43"/><gap reason="lost" atLeast="8" atMost="10" unit="character"/><gap reason="illegible" quantity="5" unit="character"/> <unclear>πυρφορους</unclear> <gap reason="illegible" quantity="10" unit="character"/>α <unclear>λαμπα</unclear>δ<unclear>ηφόροι</unclear> <unclear>λάμπαδ</unclear><supplied reason="lost">ασ</supplied><gap reason="lost" atLeast="6" atMost="8" unit="character"/>
+<lb n="43"/><add place="interlinear"><unclear>ἄλλα</unclear>ι <unclear>λ</unclear>αμπαδηφοροῦσι</add>
+<lb n="44"/><supplied reason="lost"><g type="diple"/><g type="diple"/> βαθύς γέ τοι</supplied> <unclear>Δ</unclear><supplied reason="lost">ι</supplied><unclear>ρ</unclear>καῖ<unclear>ος</unclear> <unclear>ἀναχωρ</unclear>εῖ<unclear>ν</unclear> πόρος <g type="slanting-stroke"/><g type="slanting-stroke"/> Δίρκη κρ<supplied reason="lost">ή</supplied><unclear>νη</unclear> ἐσ<supplied reason="lost">τίν,</supplied><gap reason="lost" atLeast="5" atMost="7" unit="character"/>
+<lb n="45"/><supplied reason="lost">ἔστι δ</supplied>ὲ καὶ ποταμὸς <unclear>Δίρκη</unclear> <unclear>ἐ</unclear>κεῖ <add place="above"><unclear>καὶ</unclear> <unclear>ο</unclear><supplied reason="lost">ὗ</supplied><unclear>τ</unclear><supplied reason="lost">ος ὁ</supplied></add> <supplied reason="lost">π</supplied><unclear>όρ</unclear>ος καλεῖται Διρκαῖος. <unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear> <supplied reason="lost">ἀμουσοτά</supplied>
+<lb n="46" break="no"/><supplied reason="lost">ταισ</supplied>ι σὺν ᾠδαῖς <g type="slanting-stroke"/><g type="slanting-stroke"/> ταῖς αἰνιγματώδεσιν ᾠδαῖς· ἔλεγεν <supplied reason="lost">ἐμμέτρως ἐ</supplied> 
+<lb n="47" break="no"/><supplied reason="lost">ρωτῶ</supplied><unclear>σα</unclear> ἡ Σφίγξ· τίς δίπους, τίς τρ<supplied reason="lost">ίπ</supplied>ους <unclear>τίς</unclear> τετράπ<supplied reason="lost">ους. ἀμουσοτάταισι</supplied> 
+<lb n="48"/><supplied reason="lost">ὡσ</supplied><unclear>αν</unclear>εὶ ταῖς κακομούσοις. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/><g type="diple"/> καὶ θεῶν τῶν λευ<unclear>κ</unclear><supplied reason="lost">οπώλων δώμα</supplied>
+<lb n="49" break="no"/><supplied reason="lost">τα</supplied> τοῦ Ζήθου καὶ τοῦ Ἀμφίονος, οὗτοι <unclear>δ</unclear>ὲ ἐτιμῶ<unclear>ν</unclear><supplied reason="lost">το ἐν Θήβαισ</supplied>
+<lb n="50"/><supplied reason="lost">ἢ κα</supplied>ὶ τοῦ Κάστορος καὶ τοῦ Πολυδεύκους, <unclear>ο</unclear>ὗτοι δὲ ἐτιμῶντ<supplied reason="lost">ο ἐν Λακεδαίμο</supplied>
+<lb n="51" break="no"/><supplied reason="lost">νι <g type="diple"/></supplied><unclear><g type="diple"/></unclear> λειμῶνα <unclear>ἐς</unclear> <unclear>Ἥ</unclear>ρας τόπος ἐστὶν ἐν <unclear>τῶι</unclear> Κιθαιρῶ<supplied reason="lost">ν</supplied><unclear>ι</unclear> <supplied reason="lost">ἀλσώδης τῆι Ἥραι</supplied>
+<lb n="52"/><supplied reason="lost">ἀν</supplied><unclear>α</unclear>κείμενος. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/> ὅθεν <unclear>τί</unclear> <unclear>τ</unclear>ἀκτός τὰ περιττά, <unclear>σ</unclear><supplied reason="lost">ο</supplied><unclear>β</unclear>αρά. πῶς, <unclear>ὃ</unclear> <unclear>π</unclear><supplied reason="lost">εριττόν ἐστι,</supplied>
+<lb n="53"/><supplied reason="lost">λέ</supplied><unclear>γω</unclear>; <add place="above"><unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear></add> σεμνὰ Δωδώνης βάθρα <g type="slanting-stroke"/><g type="slanting-stroke"/> ἐν τῆι Δωδώνηι. ἔστι <unclear>δὲ</unclear> <unclear>τό</unclear><supplied reason="lost">πος τις τῆς Ἠ</supplied> 
+<lb n="54" break="no"/><supplied reason="lost">πεί</supplied><unclear>ρου</unclear> χώρας ἡ Δωδώνη. ἔστιν ἐ<unclear>κεῖ</unclear> <unclear>ἱ</unclear>ερόν, <supplied reason="lost">ἔ</supplied>νθα ἦσαν τρε<unclear>ῖ</unclear><supplied reason="lost">ς πελειά</supplied> 
+<lb n="55" break="no"/><supplied reason="lost">δες μα</supplied><unclear>ν</unclear>τε<unclear>υ</unclear>όμεναι <unclear>ἐπ</unclear>άνω τῆς δρυός· οἱ δὲ λέγουσιν ὅτι τρ<supplied reason="lost">ε</supplied>ῖ<supplied reason="lost">ς γρ</supplied><unclear>αί</unclear><supplied reason="lost">ασ</supplied>
+<lb n="56"/><supplied reason="lost">ἐκάλουν π</supplied><unclear>ερ</unclear><supplied reason="lost">ι</supplied>στερὰς <unclear>τῆ</unclear>ς προφήτιδος <add place="above">τῆς</add> Πελείας ὀνόματ<unclear>ι</unclear>· αἵτινες επ<gap reason="lost" atLeast="4" atMost="5" unit="character"/>
+<lb n="57"/><gap reason="lost" atLeast="6" atMost="8" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ο<gap reason="illegible" quantity="1" unit="character"/><unclear>ω</unclear><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>μαντείας <g type="slanting-stroke"/><g type="slanting-stroke"/>.
+<lb n="58"/><supplied reason="lost">ἐς δ</supplied><unclear>ι</unclear>ῆ<unclear>ρες</unclear> <unclear>ἔσ</unclear>χατον <g type="slanting-stroke"/><g type="slanting-stroke"/> εἰς τὸ<add place="above">ν</add>  ὑψηλὸν τόπον καὶ ἀπὸ <supplied reason="lost">τ</supplied>ῶν ἄλλων <unclear>δ</unclear><supplied reason="lost">ιηιρη</supplied>
+<lb n="59" break="no"/><supplied reason="lost">μένον ἢ τ</supplied><unclear>ὸ</unclear> <unclear>δ</unclear><supplied reason="lost">ί</supplied><add place="above">σ</add>τεγον, τὸ <unclear>ὑπ</unclear>ὲρ <unclear>τοῦ</unclear>τον ἐν τῆι δευτέραι στέγηι <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="slanting-stroke"/>.
+<lb n="60"/><supplied reason="lost"><g type="diple"/><g type="diple"/> ἔ</supplied><unclear>βας</unclear> ἔβας, ὦ πτερ<supplied reason="lost">ο</supplied>ῦσα, γᾶς λόχευμα νερτέρου δ’ Ἐχίδνης <g type="slanting-stroke"/><g type="slanting-stroke"/>
+<lb n="61"/><supplied reason="lost">τινὲ</supplied>ς λέγουσιν ὅτι ἡ Σφίγξ γέγονεν ἐκ τοῦ αἵματος τοῦ Λαΐου, ἄλλοι 
+<lb n="62"/><supplied reason="lost">δὲ ὅ</supplied><unclear>τι</unclear> ἐκ τ<supplied reason="lost">ῆ</supplied>ς Γῆς ἐγεννήθη, ἄλλοι ὅτι ἐκ τοῦ Τυφῶνος καὶ τῆς Ἐχίδνης <g type="slanting-stroke"/><unclear><g type="slanting-stroke"/></unclear>. 
+<lb n="63"/><supplied reason="lost"><g type="diple"/><g type="diple"/> μ</supplied><unclear>ιξοπ</unclear>άρθενος, δάϊον τέρας <g type="slanting-stroke"/><g type="slanting-stroke"/> ὅτι ἡ Σφίγξ εἶχεν τὸ ἥμισυ αὐτῆς 
+<lb n="64"/><supplied reason="lost">ἀπὸ παρθ</supplied>ένου καὶ <supplied reason="lost">τ</supplied>ὸ ἄλ<supplied reason="lost">λ</supplied>ο ἥμισυ ἀπὸ λέοντος, <unclear>λέ</unclear>γετ<unclear>α</unclear>ι δ<unclear>άϊον</unclear> τέρας <unclear>δ</unclear><gap reason="lost" atLeast="2" atMost="4" unit="character"/>
+<lb n="65"/><gap reason="lost" atLeast="6" atMost="8" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/><unclear>αι</unclear>. <unclear><g type="slanting-stroke"/></unclear><unclear><g type="slanting-stroke"/></unclear><g type="diple"/><g type="diple"/> ἄλυρο<unclear>ν</unclear> <supplied reason="lost">ἀ</supplied>μφὶ μοῦσ<supplied reason="lost">α</supplied><unclear>ν</unclear> <g type="slanting-stroke"/><g type="slanting-stroke"/> τὸ αἴνιγμα λέγει.
+<lb n="66"/><supplied reason="lost"><g type="diple"/><g type="diple"/> ἰάλεμοι δὲ ματ</supplied><unclear>έρων</unclear> Ἰάλεμος λέγεται ὁ θρῆνος ἐντεῦθεν· Ἰα
+<lb n="67" break="no"/><supplied reason="lost">λέμου πρὸ τοῦ</supplied> <unclear>ἱε</unclear>ροῦ γάμους ἀποτελοῦντος ἔπεσε<supplied reason="lost">ν</supplied> ἐπάνω αὐτ<unclear>οῦ</unclear> 
+<lb n="68"/><gap reason="lost" atLeast="8" atMost="10" unit="character"/><supplied reason="lost">καὶ</supplied> <unclear>ἐ</unclear>τελεύτησεν καὶ ἐντεῦθεν ἰάλεμος ἐκαλεῖ<unclear>τ</unclear><supplied reason="lost">ο ὁ θρ</supplied><unclear>ῆ</unclear>νο<supplied reason="lost">ς.</supplied>
+<lb n="69"/><supplied reason="lost"><g type="diple"/><g type="diple"/> χρόνωι δ᾿ ἔ</supplied><unclear>β</unclear>α <unclear>Πυ</unclear>θίαις ἀποστολαῖς Οἰδίπους ὁ τλάμων <supplied reason="lost">ὁ Οἰδίπουσ</supplied> 
+<lb n="70"/><supplied reason="lost">πευσόμενοσ</supplied> <unclear>ε</unclear>ἰ ζῆ<unclear>ι</unclear> ὁ πατὴρ αὐτοῦ ἀπῆλθεν εἰς τὸ <unclear>μα</unclear>ντεῖον, <unclear>τ</unclear><supplied reason="lost">ὸ δ᾿ εἶπεν</supplied> 
+<lb n="71"/><supplied reason="lost">ὅτι κτανεῖ αὐ</supplied>τόν. εἶτα ἐρχ<unclear>ό</unclear>μενος ἀπὸ τοῦ μαντ<unclear>είο</unclear>υ ὁ Οἰδ<supplied reason="lost">ίπους ὑπήν</supplied> 
+<lb n="72" break="no"/><supplied reason="lost">τησε τῶι Λαΐ</supplied><unclear>ωι</unclear> ἀπερχομένωι καὶ <supplied reason="lost">α</supplied><unclear>ὐ</unclear>τῶι ἐπὶ τὸ μαν<unclear>τεῖ</unclear>ον τοῦ <supplied reason="lost">θεοῦ</supplied> 
+<lb n="73"/><supplied reason="lost">πευσομένω</supplied><unclear>ι</unclear> <unclear>ε</unclear>ἰ ζῆι ὁ υἱὸς αὐτοῦ Οἰδίπους ἢ οὔ. εἶτα ἀπαντῶ<unclear>ν</unclear> <supplied reason="lost">κατὰ τὴν</supplied> 
+<lb n="74"/><supplied reason="lost">σχιστὴν ὁ</supplied>δὸν ὁ Οἰδίπους ἀναιρεῖ Λάϊον τὸ<unclear>ν</unclear> <unclear>αὑ</unclear><supplied reason="lost">τ</supplied><unclear>ο</unclear>ῦ πατέρα δι<supplied reason="lost">ὰ τὸ τετύ</supplied> 
+<lb n="75" break="no"/><supplied reason="lost">φθαι αὐτὸ</supplied><unclear>ν</unclear> ὑπὸ τοῦ ἀνδρὸς τοῦ Λαΐου. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/> τότε μὲν ἀσμένοις <supplied reason="lost">ὅτι αὐ</supplied>
+<lb n="76" break="no"/><supplied reason="lost">τοῖς τὸ αἴν</supplied>ιγμα ἔλυσεν τῆς Σφιγγὸς τότε. <g type="slanting-stroke"/><g type="slanting-stroke"/><g type="diple"/><g type="diple"/> ἑκηβόλοις τ<unclear>όξ</unclear>οισι<unclear>ν</unclear> Ἀτα 
+<lb n="77" break="no"/><supplied reason="lost">λάντην κάπ</supplied><unclear>ρ</unclear>ον χειρουμένην Αἰτωλόν <g type="slanting-stroke"/><g type="slanting-stroke"/> τοῦ Οἰνέως θύσαντος πᾶ 
+<lb n="78" break="no"/><supplied reason="lost">σι τοῖς θεοῖς καὶ</supplied> <del rend="erasure"><unclear>ε</unclear>ι</del> <add place="above">ἐ</add>άσ<del rend="erasure"><unclear>ε</unclear></del><add place="above">α</add>ν<add place="above">τος</add> τὴν Ἄρτεμιν χωρὶς θυμάτων <del rend="erasure">και</del> ὀργι<unclear>σθεῖσα</unclear> ἡ Ἄρτε
+<lb n="79" break="no"/><supplied reason="lost">μις ἀφῆκεν</supplied> ὡς κυνη<unclear>γέτ</unclear>ις οὖσα κάπρον κατὰ τῆς Αἰτωλίας. Κ<unclear>α</unclear>λυδώνι
+<lb n="80" break="no"/><supplied reason="lost">ος δ᾿ οὗτος ἐ</supplied>κλήθη ὅτι <space atLeast="14" atMost="17" unit="character"/> εἶτα τοῦ κάπρου ἐλθό<unclear>ντ</unclear>ος εἰς 
+<lb n="81"/><gap reason="lost" atLeast="7" atMost="9" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="2" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><unclear>τ</unclear>α<add place="above"><gap reason="illegible" quantity="2" unit="character"/></add><gap reason="illegible" quantity="6" unit="character"/><unclear>η</unclear> καὶ λυμηναμένου τὴν γῆν <unclear>σ</unclear>υνήγοντο οἱ κυ
+<lb n="82" break="no"/><supplied reason="lost">νηγετοῦντε</supplied>ς καὶ ὁ Μελέαγρο<del rend="erasure">υ</del><add place="above">ς</add> υἱὸς τοῦ Οἰνέως καὐτὸς κυνηγέτης 
+<lb n="83"/><supplied reason="lost">ὤν. καὶ ἡ Ἀταλ</supplied>άντη κυνηγέτις οὖσα συνή<surplus>γ</surplus>χθη καὶ συνέβαλεν τ<unclear>ὸ</unclear>ν κάπρον 
+<lb n="84"/><gap reason="lost" atLeast="6" atMost="9" unit="character"/><supplied reason="lost">Α</supplied>ἰτωλίοις καί τινες μὲν λέγουσιν ὅτι αὐτὴ ἐφόν<unclear>ε</unclear><supplied reason="lost">υ</supplied><unclear>σ</unclear>εν τὸν κά
+<lb n="85" break="no"/><supplied reason="lost">προν οἱ δ’ ὅτι</supplied> <unclear>ὁ</unclear> Μελέαγρος ἢν ὁ φονεύσας αὐτὸν καὶ ἐρασθεὶς τῆς Ἀ<unclear>τ</unclear>α<unclear>λ</unclear>ά<unclear>ν</unclear>της 
+<lb n="86"/><supplied reason="lost">αὐτῆι ἆθλα</supplied> <unclear>τῆ</unclear>ς νίκης τὴν κεφαλὴν καὶ τὸ δέρμα τοῦ κά<unclear>π</unclear>ρου <unclear>ἐ</unclear><supplied reason="lost">φῆκε</supplied> <g type="slanting-stroke"/><g type="slanting-stroke"/>.
+</ab>
+</div> 
+           </div>
+        </body>
+    </text>
+</TEI>
+
