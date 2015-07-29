@@ -1,594 +1,509 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m62382">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>P.Herc. 26</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="dclp">62382</idno>
-                <idno type="TM">62382</idno>
-                <idno type="LDAB">3547</idno>
-                <idno type="filename">62382</idno>
-                <idno type="herc-fr">1340</idno>
-                <idno type="herc-fr">1341</idno>
-                <idno type="herc-fr">1342</idno>
-                <idno type="herc-fr">1343</idno>
-                <idno type="herc-fr">1344</idno>
-                <idno type="herc-fr">1345</idno>
-                <idno type="herc-fr">1346</idno>
-                <idno type="herc-fr">1347</idno>
-                <idno type="herc-fr">1348</idno>
-                <idno type="herc-fr">1349</idno>
-                <idno type="herc-fr">1350</idno>
-                <idno type="herc-fr">1351</idno>
-                <idno type="herc-fr">1352</idno>
-                <idno type="herc-fr">1353</idno>
-                <idno type="herc-fr">1354</idno>
-                <idno type="herc-fr">1355</idno>
-                <idno type="herc-fr">1356</idno>
-                <idno type="herc-fr">1357</idno>
-                <idno type="herc-fr">1358</idno>
-                <idno type="herc-fr">1359</idno>
-                <idno type="herc-fr">1360</idno>
-                <idno type="herc-fr">1361</idno>
-                <idno type="herc-fr">1362</idno>
-                <idno type="herc-fr">1363</idno>
-                <idno type="herc-fr">2707</idno>
-                <idno type="herc-fr">2709</idno>
-                <idno type="herc-fr">2712</idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <idno>
-                            <idno type="invNo" xml:id="FR1340">P.Herc. 26 col. 1</idno>
-                            <idno type="invNo" xml:id="FR1350">P.Herc. 26 col. 2</idno>
-                            <idno type="invNo" xml:id="FR1358">P.Herc. 26 col. 3</idno>
-                            <idno type="invNo" xml:id="FR1359">P.Herc. 26 col. 4</idno>
-                            <idno type="invNo" xml:id="FR2707">P.Herc. 26 col. 5</idno>
-                            <idno type="invNo" xml:id="FR1360">P.Herc. 26 col. 6</idno>
-                            <idno type="invNo" xml:id="FR1361">P.Herc. 26 col. 7</idno>
-                            <idno type="invNo" xml:id="FR1362">P.Herc. 26 col. 8</idno>
-                            <idno type="invNo" xml:id="FR1363">P.Herc. 26 col. 9 B</idno>
-                            <idno type="invNo" xml:id="FR2709">P.Herc. 26 col. 9</idno>
-                            <idno type="invNo" xml:id="FR2712">P.Herc. 26 col. 10</idno>
-                            <idno type="invNo" xml:id="FR1341">P.Herc. 26 col. 11</idno>
-                            <idno type="invNo" xml:id="FR1342">P.Herc. 26 col. 12</idno>
-                            <idno type="invNo" xml:id="FR1343">P.Herc. 26 col. 13</idno>
-                            <idno type="invNo" xml:id="FR1344">P.Herc. 26 col. 14</idno>
-                            <idno type="invNo" xml:id="FR1345">P.Herc. 26 col. 15</idno>
-                            <idno type="invNo" xml:id="FR1346">P.Herc. 26 col. 16</idno>
-                            <idno type="invNo" xml:id="FR1347">P.Herc. 26 col. 17</idno>
-                            <idno type="invNo" xml:id="FR1348">P.Herc. 26 col. 18</idno>
-                            <idno type="invNo" xml:id="FR1349">P.Herc. 26 col. 19</idno>
-                            <idno type="invNo" xml:id="FR1351">P.Herc. 26 col. 20</idno>
-                            <idno type="invNo" xml:id="FR1352">P.Herc. 26 col. 21</idno>
-                            <idno type="invNo" xml:id="FR1353">P.Herc. 26 col. 22</idno>
-                            <idno type="invNo" xml:id="FR1354">P.Herc. 26 col. 23</idno>
-                            <idno type="invNo" xml:id="FR1355">P.Herc. 26 col. 24</idno>
-                            <idno type="invNo" xml:id="FR1356">P.Herc. 26 col. 25</idno>
-                            <idno type="invNo" xml:id="FR1357">P.Herc. 26 col. 26</idno>
-                        </idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <objectDesc form="roll">
-                            <p type="bookForm">papyrus roll (columns: 16+)</p>
-                            <supportDesc>
-                                <support>
-                                    <material>papyrus</material>
-                                </support>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="16+"/>
-                            </layoutDesc>
-                        </objectDesc>
-                    </physDesc>
-                    <history>
-                        <origin>
-                            <origPlace>Herculaneum (Campania, Italy) oder Italy (?)</origPlace>
-                            <origDate notBefore="-0100" notAfter="-0001" precision="low">I v.
-                                Chr.</origDate>
-                        </origin>
-                        <provenance type="found">
-                            <p>
-                                <placeName type="ancient" subtype="nome"
-                                    ref="http://www.trismegistos.org/place/481">Campania</placeName>
-                                <placeName type="ancient" subtype="region">Italy</placeName>
-                                <placeName type="ancient"
-                                    ref="http://www.trismegistos.org/place/3365"
-                                    >Herculaneum</placeName>
-                            </p>
-                        </provenance>
-                        <provenance type="composed">
-                            <p>
-                                <placeName type="ancient" subtype="region"
-                                    ref="http://www.trismegistos.org/place/932" cert="low"
-                                    >Italy</placeName>
-                            </p>
-                        </provenance>
-                        <provenance type="stored">
-                            <p>
-                                <placeName type="ancient">Pisones</placeName>
-                                <placeName type="ancient" subtype="region">Italy</placeName>
-                                <placeName type="ancient"
-                                    ref="http://www.trismegistos.org/place/3365"
-                                    >Herculaneum</placeName>
-                            </p>
-                        </provenance>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <custodialHist>
-                                <custEvent type="sketched" corresp="#FR1340" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH87cf.dir/herc.v001.0053.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1340">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1341" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH86cd.dir/herc.v001.0042.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1341">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1342" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018d/cb2a6d58.dir/herc.v001.0038.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1342">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1343" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cd.dir/herc.v001.0043.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1343">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1344" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8ecd.dir/herc.v001.0047.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1344">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1345" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018f/cb286d48.dir/herc.v001.0037.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1345">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1346" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8acd/1c7cf893.dir/herc.v001.0041.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1346">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1347" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8acd.dir/herc.v001.0040.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1347">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1348" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8fcd.dir/herc.v001.0044.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1348">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1349" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH92cd.dir/herc.v001.0046.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1349">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1350" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH86cf.dir/herc.v001.0051.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1350">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1351" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH83cf.dir/herc.v001.0050.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1351">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1352" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cf/248d48f4.dir/herc.v001.0055.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1352">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1353" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cf/228d38e4.dir/herc.v001.0054.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1353">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1354" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8ccb.dir/herc.v001.0036.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1354">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1355" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018c/cd247d38.dir/herc.v001.0045.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1355">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1356" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH91cb.dir/herc.v001.0039.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1356">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1357" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8ecb.dir/herc.v001.0035.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1357">
-                                    <forename>Francesco</forename>
-                                    <surname>Celentano</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1358" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018f/cd2c7d79.dir/herc.v001.0049.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1358">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1359" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cf.dir/herc.v001.0052.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1359">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1360" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH91cf.dir/herc.v001.0058.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1360">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1361" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH90cf.dir/herc.v001.0056.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1361">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1362" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH92cf.dir/herc.v001.0057.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1362">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR1363" from="1804" to="1806">
-                                    <forename>Gennaro</forename>
-                                    <surname>Casanova</surname>
-                                    <ptr
-                                        target="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH0121.dir/herc.v001.0048.a.01.hires.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR2707">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR2709">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="sketched" corresp="#FR2712">
-                                    <forename>Giovanni Battista</forename>
-                                    <surname>Casanova</surname>
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1340">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_154.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1341">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_161.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1342">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_162.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1343">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_163.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1344">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_164.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1345">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_165.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1346">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_166.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1347">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_167.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1348">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_168.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1349">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_169.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1350">
-                                    <forename>Carlo</forename>
-                                    <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_155.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1351">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_170.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1352">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_171.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1353">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_172.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1354">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_173.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1355">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_174.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1356">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_175.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1357">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_153.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1358">
-                                    <forename>Carlo</forename>
-                                    <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_155.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1359">
-                                    <forename>Vincenzo</forename>
-                                    <surname>Corazza</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_156.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1360">
-                                    <forename>Salvatore</forename>
-                                    <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_157.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1361">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_158.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR1362">
-                                    <forename>Salvatore</forename>
-                                    <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_159.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR2707">
-                                    <forename>Vincenzo</forename>
-                                    <surname>Corazza</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_156.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR2709">
-                                    <forename>Salvatore</forename>
-                                    <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_157.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="engraved" corresp="#FR2712">
-                                    <forename>Raffaele</forename>
-                                    <surname>Biondi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_05_160.jpg"
-                                    />
-                                </custEvent>
-                                <custEvent type="unrolled"
-                                    corresp="#FR1340 #FR1341 #FR1342 #FR1343 #FR1344 #FR1345 #FR1346 #FR1347 #FR1348 #FR1349 #FR1350 #FR1351 #FR1352 #FR1353 #FR1354 #FR1355 #FR1356 #FR1357 #FR1358 #FR1359 #FR1360 #FR1361 #FR1362 #FR1363 #FR2707 #FR2709 #FR2712"
-                                    when="1804">
-                                    <forename>Antonio</forename>
-                                    <surname>Lentari</surname>
-                                </custEvent>
-                            </custodialHist>
-                        </adminInfo>
-                    </additional>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <p>This file encoded to comply with EpiDoc Guidelines and Schema version 8
-                    <ref>http://www.stoa.org/epidoc/gl/5/</ref>
-            </p>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords>
-                    <term>prose</term>
-                    <term>philosophy</term>
-                    <term type="culture">literature</term>
-                    <term type="religion">classical</term>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-            <change when="2014-12-15T20:56:33.846-06:00" who="Tom Elliott">Programmatically
-                incorporated edition div and associated revision description into document</change>
-            <change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc XML (edition
-                div)</change>
-            <change when="2014-08-24" who="Aristarchus">text transcoded from Thesaurus
-                Herculanensium Voluminum by Daniel Riaño</change>
-            <change when="2014-03-06" who="IDP">Crosswalked to EpiDoc XML (edition div)</change>
-            <change who="C. Lang">Entered Greek text from reference edition</change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div xml:lang="grc" type="edition" xml:space="preserve">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>P.Herc. 26</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="dclp">62382</idno>
+            <idno type="TM">62382</idno>
+            <idno type="LDAB">3547</idno>
+            <idno type="filename">62382</idno>
+            <idno type="herc-fr">1340</idno>
+            <idno type="herc-fr">1341</idno>
+            <idno type="herc-fr">1342</idno>
+            <idno type="herc-fr">1343</idno>
+            <idno type="herc-fr">1344</idno>
+            <idno type="herc-fr">1345</idno>
+            <idno type="herc-fr">1346</idno>
+            <idno type="herc-fr">1347</idno>
+            <idno type="herc-fr">1348</idno>
+            <idno type="herc-fr">1349</idno>
+            <idno type="herc-fr">1350</idno>
+            <idno type="herc-fr">1351</idno>
+            <idno type="herc-fr">1352</idno>
+            <idno type="herc-fr">1353</idno>
+            <idno type="herc-fr">1354</idno>
+            <idno type="herc-fr">1355</idno>
+            <idno type="herc-fr">1356</idno>
+            <idno type="herc-fr">1357</idno>
+            <idno type="herc-fr">1358</idno>
+            <idno type="herc-fr">1359</idno>
+            <idno type="herc-fr">1360</idno>
+            <idno type="herc-fr">1361</idno>
+            <idno type="herc-fr">1362</idno>
+            <idno type="herc-fr">1363</idno>
+            <idno type="herc-fr">2707</idno>
+            <idno type="herc-fr">2709</idno>
+            <idno type="herc-fr">2712</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno>
+                     <idno type="invNo" xml:id="FR1340">P.Herc. 26 col. 1</idno>
+                     <idno type="invNo" xml:id="FR1350">P.Herc. 26 col. 2</idno>
+                     <idno type="invNo" xml:id="FR1358">P.Herc. 26 col. 3</idno>
+                     <idno type="invNo" xml:id="FR1359">P.Herc. 26 col. 4</idno>
+                     <idno type="invNo" xml:id="FR2707">P.Herc. 26 col. 5</idno>
+                     <idno type="invNo" xml:id="FR1360">P.Herc. 26 col. 6</idno>
+                     <idno type="invNo" xml:id="FR1361">P.Herc. 26 col. 7</idno>
+                     <idno type="invNo" xml:id="FR1362">P.Herc. 26 col. 8</idno>
+                     <idno type="invNo" xml:id="FR1363">P.Herc. 26 col. 9 B</idno>
+                     <idno type="invNo" xml:id="FR2709">P.Herc. 26 col. 9</idno>
+                     <idno type="invNo" xml:id="FR2712">P.Herc. 26 col. 10</idno>
+                     <idno type="invNo" xml:id="FR1341">P.Herc. 26 col. 11</idno>
+                     <idno type="invNo" xml:id="FR1342">P.Herc. 26 col. 12</idno>
+                     <idno type="invNo" xml:id="FR1343">P.Herc. 26 col. 13</idno>
+                     <idno type="invNo" xml:id="FR1344">P.Herc. 26 col. 14</idno>
+                     <idno type="invNo" xml:id="FR1345">P.Herc. 26 col. 15</idno>
+                     <idno type="invNo" xml:id="FR1346">P.Herc. 26 col. 16</idno>
+                     <idno type="invNo" xml:id="FR1347">P.Herc. 26 col. 17</idno>
+                     <idno type="invNo" xml:id="FR1348">P.Herc. 26 col. 18</idno>
+                     <idno type="invNo" xml:id="FR1349">P.Herc. 26 col. 19</idno>
+                     <idno type="invNo" xml:id="FR1351">P.Herc. 26 col. 20</idno>
+                     <idno type="invNo" xml:id="FR1352">P.Herc. 26 col. 21</idno>
+                     <idno type="invNo" xml:id="FR1353">P.Herc. 26 col. 22</idno>
+                     <idno type="invNo" xml:id="FR1354">P.Herc. 26 col. 23</idno>
+                     <idno type="invNo" xml:id="FR1355">P.Herc. 26 col. 24</idno>
+                     <idno type="invNo" xml:id="FR1356">P.Herc. 26 col. 25</idno>
+                     <idno type="invNo" xml:id="FR1357">P.Herc. 26 col. 26</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc form="roll">
+                     <p type="bookForm">papyrus roll (columns: 16+)</p>
+                     <supportDesc>
+                        <support>
+                           <material>papyrus</material>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="16+" />
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                     <origin>
+                        <origPlace>Herculaneum (Campania, Italy) oder Italy (?)</origPlace>
+                     <origDate notBefore="-0100" notAfter="-0001" precision="low">I v. Chr.</origDate>
+                     </origin>
+                     <provenance type="found">
+                        <p>
+                           <placeName type="ancient" subtype="nome" ref="http://www.trismegistos.org/place/481">Campania</placeName>
+                           <placeName type="ancient" subtype="region">Italy</placeName>
+                           <placeName type="ancient" ref="http://www.trismegistos.org/place/3365">Herculaneum</placeName>
+                        </p>
+                     </provenance>
+                     <provenance type="composed">
+                        <p>
+                           <placeName type="ancient" subtype="region" ref="http://www.trismegistos.org/place/932" cert="low">Italy</placeName>
+                        </p>
+                     </provenance>
+                  <provenance type="stored">
+                     <p>
+                        <placeName type="ancient">Pisones</placeName>
+                        <placeName type="ancient" subtype="region">Italy</placeName>
+                        <placeName type="ancient" ref="http://www.trismegistos.org/place/3365">Herculaneum</placeName>
+                     </p>
+                  </provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <custodialHist>
+                        <custEvent type="sketched" corresp="#FR1340" from="1804" to="1806" xml:id="GR1340.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH87cf.dir/herc.v001.0053.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1340" xml:id="GR1340.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1341" from="1804" to="1806" xml:id="GR1341.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH86cd.dir/herc.v001.0042.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1341" xml:id="GR1341.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1342" from="1804" to="1806" xml:id="GR1342.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018d/cb2a6d58.dir/herc.v001.0038.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1342" xml:id="GR1342.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1343" from="1804" to="1806" xml:id="GR1343.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cd.dir/herc.v001.0043.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1343" xml:id="GR1343.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1344" from="1804" to="1806" xml:id="GR1344.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8ecd.dir/herc.v001.0047.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1344" xml:id="GR1344.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1345" from="1804" to="1806" xml:id="GR1345.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018f/cb286d48.dir/herc.v001.0037.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1345" xml:id="GR1345.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1346" from="1804" to="1806" xml:id="GR1346.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8acd/1c7cf893.dir/herc.v001.0041.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1346" xml:id="GR1346.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1347" from="1804" to="1806" xml:id="GR1347.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8acd.dir/herc.v001.0040.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1347" xml:id="GR1347.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1348" from="1804" to="1806" xml:id="GR1348.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8fcd.dir/herc.v001.0044.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1348" xml:id="GR1348.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1349" from="1804" to="1806" xml:id="GR1349.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH92cd.dir/herc.v001.0046.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1349" xml:id="GR1349.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1350" from="1804" to="1806" xml:id="GR1350.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH86cf.dir/herc.v001.0051.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1350" xml:id="GR1350.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1351" from="1804" to="1806" xml:id="GR1351.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH83cf.dir/herc.v001.0050.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1351" xml:id="GR1351.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1352" from="1804" to="1806" xml:id="GR1352.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cf/248d48f4.dir/herc.v001.0055.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1352" xml:id="GR1352.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1353" from="1804" to="1806" xml:id="GR1353.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cf/228d38e4.dir/herc.v001.0054.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1353" xml:id="GR1353.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1354" from="1804" to="1806" xml:id="GR1354.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8ccb.dir/herc.v001.0036.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1354" xml:id="GR1354.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1355" from="1804" to="1806" xml:id="GR1355.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018c/cd247d38.dir/herc.v001.0045.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1355" xml:id="GR1355.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1356" from="1804" to="1806" xml:id="GR1356.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH91cb.dir/herc.v001.0039.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1356" xml:id="GR1356.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1357" from="1804" to="1806" xml:id="GR1357.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH8ecb.dir/herc.v001.0035.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1357" xml:id="GR1357.02">
+                           <forename>Francesco</forename>
+                           <surname>Celentano</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1358" from="1804" to="1806" xml:id="GR1358.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH018f/cd2c7d79.dir/herc.v001.0049.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1358" xml:id="GR1358.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1359" from="1804" to="1806" xml:id="GR1359.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH89cf.dir/herc.v001.0052.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1359" xml:id="GR1359.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1360" from="1804" to="1806" xml:id="GR1360.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH91cf.dir/herc.v001.0058.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1360" xml:id="GR1360.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1361" from="1804" to="1806" xml:id="GR1361.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH90cf.dir/herc.v001.0056.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1361" xml:id="GR1361.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1362" from="1804" to="1806" xml:id="GR1362.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH92cf.dir/herc.v001.0057.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1362" xml:id="GR1362.02">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR1363" from="1804" to="1806" xml:id="GR1363.01">
+                           <forename>Gennaro</forename>
+                           <surname>Casanova</surname>
+                           <graphic url="http://clp.classics.ox.ac.uk/gsdl/collect/PHerc/index/assoc/HASH0121.dir/herc.v001.0048.a.01.hires.jpg" />
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR2707" xml:id="GR2707.01">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR2709" xml:id="GR2709.01">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="sketched" corresp="#FR2712" xml:id="GR2712.01">
+                           <forename>Giovanni Battista</forename>
+                           <surname>Casanova</surname>
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1340" xml:id="GR1340.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_154.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1341" xml:id="GR1341.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_161.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1342" xml:id="GR1342.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_162.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1343" xml:id="GR1343.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_163.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1344" xml:id="GR1344.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_164.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1345" xml:id="GR1345.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_165.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1346" xml:id="GR1346.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_166.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1347" xml:id="GR1347.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_167.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1348" xml:id="GR1348.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_168.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1349" xml:id="GR1349.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_169.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1350" xml:id="GR1350.03">
+                           <forename>Carlo</forename>
+                           <surname>Orazi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_155.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1351" xml:id="GR1351.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_170.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1352" xml:id="GR1352.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_171.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1353" xml:id="GR1353.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_172.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1354" xml:id="GR1354.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_173.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1355" xml:id="GR1355.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_174.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1356" xml:id="GR1356.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_175.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1357" xml:id="GR1357.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_153.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1358" xml:id="GR1358.03">
+                           <forename>Carlo</forename>
+                           <surname>Orazi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_155.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1359" xml:id="GR1359.03">
+                           <forename>Vincenzo</forename>
+                           <surname>Corazza</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_156.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1360" xml:id="GR1360.03">
+                           <forename>Salvatore</forename>
+                           <surname>Ventrella</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_157.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1361" xml:id="GR1361.03">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_158.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR1362" xml:id="GR1362.03">
+                           <forename>Salvatore</forename>
+                           <surname>Ventrella</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_159.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR2707" xml:id="GR2707.02">
+                           <forename>Vincenzo</forename>
+                           <surname>Corazza</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_156.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR2709" xml:id="GR2709.02">
+                           <forename>Salvatore</forename>
+                           <surname>Ventrella</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_157.jpg" />
+                        </custEvent>
+                        <custEvent type="engraved" corresp="#FR2712" xml:id="GR2712.02">
+                           <forename>Raffaele</forename>
+                           <surname>Biondi</surname>
+                           <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_05_160.jpg" />
+                        </custEvent>
+                        <custEvent type="unrolled" corresp="#FR1340 #FR1341 #FR1342 #FR1343 #FR1344 #FR1345 #FR1346 #FR1347 #FR1348 #FR1349 #FR1350 #FR1351 #FR1352 #FR1353 #FR1354 #FR1355 #FR1356 #FR1357 #FR1358 #FR1359 #FR1360 #FR1361 #FR1362 #FR1363 #FR2707 #FR2709 #FR2712" when="1804">
+                           <forename>Antonio</forename>
+                           <surname>Lentari</surname>
+                        </custEvent>
+                     </custodialHist>
+                  </adminInfo>
+               </additional>
+               
+               
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>This file encoded to comply with EpiDoc Guidelines and Schema version 8
+                                    <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+         </p>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>prose</term>
+               <term>philosophy</term>
+               <term type="culture">literature</term>
+               <term type="religion">classical</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2014-12-15T20:56:33.846-06:00" who="Tom Elliott">Programmatically incorporated edition div and associated revision description into document</change> 
+        <change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc XML (edition div)</change> 
+        <change when="2014-08-24" who="Aristarchus">text transcoded from Thesaurus Herculanensium Voluminum by Daniel Riaño</change> 
+        <change when="2014-03-06" who="IDP">Crosswalked to EpiDoc XML (edition div)</change> 
+        <change who="C. Lang">Entered Greek text from reference edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:lang="grc" type="edition" xml:space="preserve">
 <div n="1" subtype="column" type="textpart" corresp="#FR5473"><ab>
 <lb n="1"/><gap n="9001000000001001" reason="lost" quantity="8" unit="character"/> <w n="1001000000001001" type="supplied">δο<unclear>ξ</unclear>ί<supplied reason="lost">α</supplied>ν</w>, <w n="1001000000001002" lemma="ὅσ">ἃ</w> <w n="1001000000001003" lemma="δέομαι_||_δέω_||_δεῖ">δεῖ</w> <gap n="9001000000001002" reason="lost" quantity="12" unit="character"/>
 <lb n="2"/><w n="1001000000002001">εἰ</w> <w n="1001000000002002" type="supplied" lemma="μηδείς">μ<supplied reason="lost">ηδὲ</supplied>ν</w> <w n="1001000000002003" lemma="χωρίς">χωρὶς</w> <w n="1001000000002004" type="supplied" lemma="αἴτιος_||_αἰτέω">α<supplied reason="lost">ἰτ</supplied>ίων</w> <w n="1001000000002005" type="supplied" lemma="δύναμαι"><unclear>δ</unclear><supplied reason="lost">ύναται</supplied></w> <w n="1001000000002006" type="supplied" lemma="γείνομαι">γ<unclear>ε</unclear>ίνε<supplied reason="lost">σ</supplied>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m62706">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="dclp">62706</idno>
+                <idno type="TM">62706</idno>
+                <idno type="LDAB">3894</idno>
+                <idno type="filename">62706</idno>
+                <idno type="dclp-hybrid">psi;2;123</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno type="invNo">Florence, Biblioteca Medicea Laurenziana 10003</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc form="roll?">
+                            <p type="bookForm">papyrus roll? (columns: 1, pagination: 0)</p>
+                            <supportDesc>
+                                <support>
+                                    <material>papyrus</material>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"/>
+                            </layoutDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Found: Oxyrynchos (U, Egypt); written: Egypt</origPlace>
+                            <origDate notBefore="0050" notAfter="0150">50 - 150</origDate>
+                        </origin>
+                        <provenance type="found">
+                            <p>
+                                <placeName type="ancient" subtype="nome">U</placeName>
+                                <placeName type="ancient" subtype="region">Egypt</placeName>
+                                <placeName type="ancient" ref="http://www.trismegistos.org/place/1524">Oxyrynchos</placeName>
+                            </p>
+                        </provenance>
+                        <provenance type="composed">
+                            <p>
+                                <placeName type="ancient" subtype="region">Egypt</placeName>
+                            </p>
+                        </provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <custEvent type="imaged" corresp="#FR6676" from="2000" to="2015"  xml:id="GR6676.01">
+                                    <graphic url="http://www.psi-online.it/images/orig/PSI%20II%20123.jpg?1184955528"/>
+                                </custEvent>
+                            </custodialHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>
+                This file encoded to comply with EpiDoc Guidelines and Schema version 8
+                <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+            </p>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>poetry lyric</term>
+                    <term type="culture">literature</term>
+                    <term type="religion">classical</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="Ch. Sailer">Entered Greek text from reference edition</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head xml:lang="en"/>
+            <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="17" corresp="#FR6676" subtype="fragment" type="textpart"><ab>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/>τ’ ἐξ ἀδοκή<supplied reason="lost">των<certainty match=".." locus="name"/></supplied>.
+<milestone rend="paragraphos" unit="undefined"/>
+<lb n="3"/>πλάσιον δή μ<supplied reason="lost">οι<certainty match=".." locus="name"/></supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/>πότνι’ Ἦρα· σὰ χ<supplied reason="lost">αρι<certainty match=".." locus="name"/></supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="5"/>τὰν ἀράταν Ἀτ<supplied reason="lost">ρεΐδαι</supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="6"/>τοι βασίληες
+<milestone rend="paragraphos" unit="undefined"/>
+<lb n="7"/>ἐκτελέσσαντες <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="8"/>πρῶτα μὲν π<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="9"/>τυῖδ’ ἀπορμάθε<supplied reason="lost">ντες<certainty match=".." locus="name"/></supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="10"/>οὐκ ἐδύναντο
+<milestone rend="paragraphos" unit="undefined"/>
+<lb n="11"/>πρίν σε καὶ διαν<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="12"/>καὶ Θυώ<unclear>ν</unclear>ας ἰμ<supplied reason="lost">ερόεντα παῖδα</supplied>
+</ab></div>
+</div>
+        </body>
+    </text>
+</TEI>

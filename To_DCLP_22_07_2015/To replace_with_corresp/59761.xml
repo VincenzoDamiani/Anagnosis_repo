@@ -62,241 +62,214 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="25"/>
+                                <layout columns="25" />
                             </layoutDesc>
                         </objectDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Herculaneum (Campania, Italy) oder Italy (?)</origPlace>
-                            <origDate notBefore="-0250" notAfter="-0151" precision="low">2. Hälfte
-                                III - 1. Hälfte II v. Chr.</origDate>
+                            <origDate notBefore="-0250" notAfter="-0151" precision="low">2. Hälfte III - 1. Hälfte II v. Chr.</origDate>
                         </origin>
                         <provenance type="found">
                             <p>
-                                <placeName type="ancient" subtype="nome"
-                                    ref="http://www.trismegistos.org/place/481">Campania</placeName>
+                                <placeName type="ancient" subtype="nome" ref="http://www.trismegistos.org/place/481">Campania</placeName>
                                 <placeName type="ancient" subtype="region">Italy</placeName>
-                                <placeName type="ancient"
-                                    ref="http://www.trismegistos.org/place/3365"
-                                    >Herculaneum</placeName>
+                                <placeName type="ancient" ref="http://www.trismegistos.org/place/3365">Herculaneum</placeName>
                             </p>
                         </provenance>
                         <provenance type="composed">
                             <p>
-                                <placeName type="ancient" subtype="region"
-                                    ref="http://www.trismegistos.org/place/932" cert="low"
-                                    >Italy</placeName>
+                                <placeName type="ancient" subtype="region" ref="http://www.trismegistos.org/place/932" cert="low">Italy</placeName>
                             </p>
                         </provenance>
                         <provenance type="stored">
                             <p>
                                 <placeName type="ancient">Pisones</placeName>
                                 <placeName type="ancient" subtype="region">Italy</placeName>
-                                <placeName type="ancient"
-                                    ref="http://www.trismegistos.org/place/3365"
-                                    >Herculaneum</placeName>
+                                <placeName type="ancient" ref="http://www.trismegistos.org/place/3365">Herculaneum</placeName>
                             </p>
                         </provenance>
                     </history>
                     <additional>
                         <adminInfo>
                             <custodialHist>
-                                <custEvent type="sketched" corresp="#FR2909">
+                                <custEvent type="sketched" corresp="#FR2909" xml:id="GR2909.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2910">
+                                <custEvent type="sketched" corresp="#FR2910" xml:id="GR2910.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2911">
+                                <custEvent type="sketched" corresp="#FR2911" xml:id="GR2911.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2912">
+                                <custEvent type="sketched" corresp="#FR2912" xml:id="GR2912.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2913">
+                                <custEvent type="sketched" corresp="#FR2913" xml:id="GR2913.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2914">
+                                <custEvent type="sketched" corresp="#FR2914" xml:id="GR2914.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2915">
+                                <custEvent type="sketched" corresp="#FR2915" xml:id="GR2915.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2916">
+                                <custEvent type="sketched" corresp="#FR2916" xml:id="GR2916.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2917">
+                                <custEvent type="sketched" corresp="#FR2917" xml:id="GR2917.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2918">
+                                <custEvent type="sketched" corresp="#FR2918" xml:id="GR2918.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2919">
+                                <custEvent type="sketched" corresp="#FR2919" xml:id="GR2919.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2920">
+                                <custEvent type="sketched" corresp="#FR2920" xml:id="GR2920.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2921">
+                                <custEvent type="sketched" corresp="#FR2921" xml:id="GR2921.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2922">
+                                <custEvent type="sketched" corresp="#FR2922" xml:id="GR2922.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2923">
+                                <custEvent type="sketched" corresp="#FR2923" xml:id="GR2923.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2924">
+                                <custEvent type="sketched" corresp="#FR2924" xml:id="GR2924.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2925">
+                                <custEvent type="sketched" corresp="#FR2925" xml:id="GR2925.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="sketched" corresp="#FR2926">
+                                <custEvent type="sketched" corresp="#FR2926" xml:id="GR2926.01">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2909">
+                                <custEvent type="engraved" corresp="#FR2909" xml:id="GR2909.02">
                                     <forename>Vincenzo</forename>
                                     <surname>Corazza</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_082.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_082.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2910">
+                                <custEvent type="engraved" corresp="#FR2910" xml:id="GR2910.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_083.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_083.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2911">
+                                <custEvent type="engraved" corresp="#FR2911" xml:id="GR2911.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_083.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_083.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2912">
+                                <custEvent type="engraved" corresp="#FR2912" xml:id="GR2912.02">
                                     <forename>Carlo</forename>
                                     <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_084.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_084.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2913">
+                                <custEvent type="engraved" corresp="#FR2913" xml:id="GR2913.02">
                                     <forename>Carlo</forename>
                                     <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_084.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_084.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2914">
+                                <custEvent type="engraved" corresp="#FR2914" xml:id="GR2914.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_085.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_085.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2915">
+                                <custEvent type="engraved" corresp="#FR2915" xml:id="GR2915.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_085.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_085.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2916">
+                                <custEvent type="engraved" corresp="#FR2916" xml:id="GR2916.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_086.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_086.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2917">
+                                <custEvent type="engraved" corresp="#FR2917" xml:id="GR2917.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_086.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_086.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2918">
+                                <custEvent type="engraved" corresp="#FR2918" xml:id="GR2918.02">
                                     <forename>Carlo</forename>
                                     <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_087.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_087.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2919">
+                                <custEvent type="engraved" corresp="#FR2919" xml:id="GR2919.02">
                                     <forename>Carlo</forename>
                                     <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_087.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_087.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2920">
+                                <custEvent type="engraved" corresp="#FR2920" xml:id="GR2920.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_088.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_088.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2921">
+                                <custEvent type="engraved" corresp="#FR2921" xml:id="GR2921.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_088.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_088.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2922">
+                                <custEvent type="engraved" corresp="#FR2922" xml:id="GR2922.02">
                                     <forename>Carlo</forename>
                                     <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_089.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_089.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2923">
+                                <custEvent type="engraved" corresp="#FR2923" xml:id="GR2923.02">
                                     <forename>Carlo</forename>
                                     <surname>Orazi</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_089.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_089.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2924">
+                                <custEvent type="engraved" corresp="#FR2924" xml:id="GR2924.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_090.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_090.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2925">
+                                <custEvent type="engraved" corresp="#FR2925" xml:id="GR2925.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_090.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_090.jpg" />
                                 </custEvent>
-                                <custEvent type="engraved" corresp="#FR2926">
+                                <custEvent type="engraved" corresp="#FR2926" xml:id="GR2926.02">
                                     <forename>Salvatore</forename>
                                     <surname>Ventrella</surname>
-                                    <ptr target="http://www.epikur-wuerzburg.de/vh2/VH2_06_091.jpg"
-                                    />
+                                    <graphic url="http://www.epikur-wuerzburg.de/vh2/VH2_06_091.jpg" />
                                 </custEvent>
-                                <custEvent type="unrolled"
-                                    corresp="#FR2909 #FR2910 #FR2911 #FR2912 #FR2913 #FR2914 #FR2915 #FR2916 #FR2917 #FR2918 #FR2919 #FR2920 #FR2921 #FR2922 #FR2923 #FR2924 #FR2925 #FR2926"
-                                    when="1808">
+                                <custEvent type="unrolled" corresp="#FR2909 #FR2910 #FR2911 #FR2912 #FR2913 #FR2914 #FR2915 #FR2916 #FR2917 #FR2918 #FR2919 #FR2920 #FR2921 #FR2922 #FR2923 #FR2924 #FR2925 #FR2926" when="1808">
                                     <forename>Francesco</forename>
                                     <surname>Casanova</surname>
                                 </custEvent>
                             </custodialHist>
                         </adminInfo>
                     </additional>
+                    
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <p>This file encoded to comply with EpiDoc Guidelines and Schema version 8
-                    <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+                <ref>http://www.stoa.org/epidoc/gl/5/</ref>
             </p>
         </encodingDesc>
         <profileDesc>
@@ -310,11 +283,9 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2014-12-15T10:11:00.751-06:00" who="Tom Elliott">Programmatically
-                incorporated edition div and associated revision description into document</change>
-            <change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc XML (edition
-                div)</change>
-            <change when="2014-03-06" who="IDP">Crosswalked to EpiDoc XML (metadata)</change>
+            <change when="2014-12-15T10:11:00.751-06:00" who="Tom Elliott">Programmatically incorporated edition div and associated revision description into document</change> 
+            <change when="2014-11-02" who="Daniel Riaño">Crosswalked to EpiDoc XML (edition div)</change> 
+            <change when="2014-03-06" who="IDP">Crosswalked to EpiDoc XML (metadata)</change> 
             <change who="A. Parisi">Entered Greek text from reference edition</change>
         </revisionDesc>
     </teiHeader>

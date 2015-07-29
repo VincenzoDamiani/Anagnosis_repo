@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="m60411">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="dclp">60411</idno>
+                <idno type="TM">60411</idno>
+                <idno type="LDAB">1532</idno>
+                <idno type="filename">60411</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno type="invNo">Berlin, Ägyptisches Museum P. 6845</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc form="roll">
+                            <p type="bookForm">papyrus roll (columns: 1, pagination: 0)</p>
+                            <supportDesc>
+                                <support>
+                                    <material>papyrus</material>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>
+                                <term>formal round</term>
+                            </p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Found: Egypt; written: Egypt</origPlace>
+                            <origDate notBefore="0001" notAfter="0199">1 - 199</origDate>
+                        </origin>
+                        <provenance type="found">
+                            <p>
+                                <placeName type="ancient" subtype="region">Egypt</placeName>
+                            </p>
+                        </provenance>
+                        <provenance type="composed">
+                            <p>
+                                <placeName type="ancient" subtype="region">Egypt</placeName>
+                            </p>
+                        </provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <custEvent type="imaged" corresp="#FR6672" from="2000" to="2015"  xml:id="GR6672.01">
+                                    <graphic url="http://ww2.smb.museum/berlpap/Original/P_06845_R.jpg"/>
+                                </custEvent>
+                            </custodialHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>
+                This file encoded to comply with EpiDoc Guidelines and Schema version 8
+                <ref>http://www.stoa.org/epidoc/gl/5/</ref>
+            </p>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>poetry</term>
+                    <term>epic</term>
+                    <term type="culture">literature</term>
+                    <term type="religion">classical</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change who="Ch. Sailer">Entered Greek text from reference edition</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head xml:lang="en"/>
+            <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="1" corresp="#FR6672" subtype="fragment" type="textpart"><ab>
+<lb n="433"/><supplied evidence="parallel" reason="lost">τῆισιν δ’ ὧραι μὲ</supplied><unclear>ν</unclear> λῦσαν καλλ<unclear>ίτριχας</unclear> <supplied evidence="parallel" reason="lost">ἵππους,</supplied>
+<lb n="435"/><supplied evidence="parallel" reason="lost">ἅρματα δ’ ἔκλιν</supplied><unclear>α</unclear>ν πρὸς ἐνώπια παμφανόωντα·
+<lb n="436"/><supplied evidence="parallel" reason="lost">αὐταὶ δὲ χρυσ</supplied><unclear>έ</unclear>οισιν ἐπὶ κλισμοῖσι κάθιζον·
+<lb n="437"/><supplied evidence="parallel" reason="lost">μίγδ’ ἄλλο</supplied><unclear>ισ</unclear>ι θεοῖσι, φίλον τετιημέναι ἦτορ·
+<lb n="438"/><supplied evidence="parallel" reason="lost">Ζεὺς δὲ πα</supplied>τὴρ εἴδηθεν ἐΰτροχον ἅρμα καὶ ἵππους·
+<lb n="439"/><supplied evidence="parallel" reason="lost">Οὔλυμπο</supplied>ν δὲ δίωκε· θεῶν δ’ ἐξίκετο θώκους·
+<lb n="440"/><supplied evidence="parallel" reason="lost">τῶι δὲ καὶ ἵ</supplied>ππους μὲν λῦσε κλυτὸς ἐννοσίγαιος·
+<lb n="441"/><supplied evidence="parallel" reason="lost">ἅρματα δ’ ἂ</supplied>μ βωμοῖσι τίθει κατὰ λεῖτα πετάσσας·
+<lb n="442"/><supplied evidence="parallel" reason="lost">αὐτὸς δὲ χρ</supplied>ύσειον ἐπὶ θρόνον εὐρύοπα Ζεὺς
+<lb n="443"/><supplied evidence="parallel" reason="lost"> ἕζετο, τῶι</supplied> <unclear>δ</unclear>’ ὑπὸ ποσσὶ μέγας πελεμίζετ’ Ὄλυμπος·
+<lb n="444"/><supplied evidence="parallel" reason="lost">αἳ δ’ οἶαι Διὸ</supplied>ς ἀμφὶς Ἂθηναίη τε καὶ Ἥρη
+<lb n="445"/><supplied evidence="parallel" reason="lost">ἥσθην, ο</supplied><unclear>ὐ</unclear>δέ τί μιν προσεφώνεον οὐδ’ ἐρέοντο·
+<lb n="446"/><supplied evidence="parallel" reason="lost">αὐτὰρ ὃ ἔγ</supplied><unclear>ν</unclear>ω ἧσιν ἐν<unclear>ὶ</unclear> φ<supplied evidence="parallel" reason="lost">ρ</supplied>εσὶ φώνησέν τε·
+<lb n="447"/><supplied evidence="parallel" reason="lost">τίφθ’ οὕτ</supplied><unclear>ω</unclear> τετίησθον ἀ<unclear>θ</unclear>ηναίη τε καὶ Ἥρη·
+<lb n="434"/><add place="left">ἀνω</add><supplied evidence="parallel" reason="lost">καὶ τοὺς</supplied> μὲν κατέδησαν ἐ<supplied evidence="parallel" reason="lost">π’</supplied> <unclear>ἀ</unclear>μβροσίῃσι κάπῃσιν·
+</ab></div>
+</div>
+        </body>
+    </text>
+</TEI>
